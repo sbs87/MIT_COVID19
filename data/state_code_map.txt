@@ -1,14 +1,14 @@
-State	abrev	state_code
+State	abrev	state code
 Alabama	Ala.	AL
 Alaska	Alaska	AK
-American_Samoa		AS
+American Samoa		AS
 Arizona	Ariz.	AZ
 Arkansas	Ark.	AR
 California	Calif.	CA
 Colorado	Colo.	CO
 Connecticut	Conn.	CT
 Delaware	Del.	DE
-Dist._of_Columbia	D.C.	DC
+Dist. of Columbia	D.C.	DC
 Florida	Fla.	FL
 Georgia	Ga.	GA
 Guam	Guam	GU
@@ -22,7 +22,7 @@ Kentucky	Ky.	KY
 Louisiana	La.	LA
 Maine	Maine	ME
 Maryland	Md.	MD
-Marshall_Islands		MH
+Marshall Islands		MH
 Massachusetts	Mass.	MA
 Michigan	Mich.	MI
 Micronesia		FM
@@ -32,29 +32,29 @@ Missouri	Mo.	MO
 Montana	Mont.	MT
 Nebraska	Nebr.	NE
 Nevada	Nev.	NV
-New_Hampshire	N.H.	NH
-New_Jersey	N.J.	NJ
-New_Mexico	N.M.	NM
-New_York	N.Y.	NY
-North_Carolina	N.C.	NC
-North_Dakota	N.D.	ND
-Northern_Marianas		MP
+New Hampshire	N.H.	NH
+New Jersey	N.J.	NJ
+New Mexico	N.M.	NM
+New York	N.Y.	NY
+North Carolina	N.C.	NC
+North Dakota	N.D.	ND
+Northern Marianas		MP
 Ohio	Ohio	OH
 Oklahoma	Okla.	OK
 Oregon	Ore.	OR
 Palau		PW
 Pennsylvania	Pa.	PA
-Puerto_Rico	P.R.	PR
-Rhode_Island	R.I.	RI
-South_Carolina	S.C.	SC
-South_Dakota	S.D.	SD
+Puerto Rico	P.R.	PR
+Rhode Island	R.I.	RI
+South Carolina	S.C.	SC
+South Dakota	S.D.	SD
 Tennessee	Tenn.	TN
 Texas	Tex.	TX
 Utah	Utah	UT
 Vermont	Vt.	VT
 Virginia	Va.	VA
-Virgin_Islands	V.I.	VI
+Virgin Islands	V.I.	VI
 Washington	Wash.	WA
-West_Virginia	W.Va.	WV
+West Virginia	W.Va.	WV
 Wisconsin	Wis.	WI
 Wyoming	Wyo.	WY
