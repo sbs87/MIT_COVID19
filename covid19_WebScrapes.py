@@ -136,3 +136,48 @@ class Algorand_Scrape():
                              
     def get_txns(self):
         return self.txns
+
+
+class Wiki_Scrape() :
+
+    def __init__(self) :
+
+        self.url = "https://en.wikipedia.org/wiki/County_(United_States)"
+        html = urlopen(self.url)
+        self.soup = BeautifulSoup(html, 'html.parser')
+
+    def Scrape_Counties(self) :
+
+        table_look = self.soup.find("table",{"class":"wikitable sortable"}).find('tbody').findAll('tr')[2:]
+
+        output_list = []
+        counter = 0
+        while True :
+            if table_look[counter].get('class',[]) :
+                break
+            state = table_look[counter]
+            counter += 1
+            
+            state_url = state.findAll('a')[1]['href']
+            state_url = '/'.join(self.url.split('/')[:-2]) + state_url
+            if len(state_url.split('_in_')) == 1 :
+                state = state_url.split('/')[-1].replace('_',' ')
+            else :
+                state = state_url.split('_in_')[-1]
+            print(state,end=',')
+            state_html = urlopen(state_url)
+            state_soup = BeautifulSoup(state_html, 'html.parser')
+            if state == 'District of Columbia' :
+                area = state_soup.find('table',{'class':"infobox geography vcard"}).findAll('tr')[21].find('td').getText().replace(u'\xa0', u' ').split(' ')[0]
+                output_list.append([state,state,area])
+                continue
+            column_header_use = [i for i,a in 
+                         enumerate(state_soup.find("table",{"class":"wikitable sortable"}).find('tbody').findAll('tr')[0].findAll('th')) if 
+                         'Area' in a.getText()][0]
+            to_iter = state_soup.find("table",{"class":"wikitable sortable"}).find('tbody').findAll('tr')[1:]
+            for county in to_iter :
+                county_name = county.find('th').find('a').getText()
+                sq_miles = county.findAll('td')[column_header_use-1].findAll('span')[0].getText()
+                output_list.append([state,county_name,sq_miles])
+
+        return np.array(output_list)
