@@ -37,5 +37,16 @@ tmp<-merge(select(US_County_Population,-c("county","State")),select(HealthCare_C
 master_table<-merge(select(US_County_Level,-c("county","state")),tmp,by.x = "UID",by.y="UID",all = F)
 US_County_Population[grepl(US_County_Population$county,pattern = "^New"),]
 master_table[grepl(master_table$UID,pattern = "^New York_New York"),]
+master_table<-merge(master_table,FIPS_map,by.x="fips",by.y="FIPS")
 write.table(master_table,file = "/Users/stevensmith/Projects/MIT_COVID19/data/MASTER_cases_population_beds.txt",quote = F,row.names = F)
 unique(master_table$UID)
+
+
+FIPS_map<-read.csv("FIPS_map.csv",header = T)
+head(FIPS_map)
+
+
+US_County_Population_Cleaned<-read.csv("/Users/stevensmith/Projects/MIT_COVID19/data_cleaned/US_County_Population_Cleaned.csv",header = T)
+US_County_Population_Cleaned$county<-gsub(US_County_Population_Cleaned$County,pattern = " County",replacement = "")
+US_County_Population_Cleaned$UID<-paste0(US_County_Population_Cleaned$county,"_",US_County_Population_Cleaned$State)
+master_table<-merge(master_table,US_County_Population_Cleaned,by.x = "UID",by.y="UID")
