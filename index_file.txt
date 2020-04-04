@@ -1,0 +1,2 @@
+HealthCare_Capacity.csv	Shows healthcare capacity	https://docs.google.com/spreadsheets/d/1xAyBFTrlxSsTKQS7IDyr_Ah4JLBYj6_HX6ijKdm4fAY/edit#gid=0
+US_County_Level.csv	County level covid19 stats	https://github.com/nytimes/covid-19-data	
