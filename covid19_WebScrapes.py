@@ -22,7 +22,7 @@ class TestingData_Scraper() :
 
     def Scrape_StateURL(self) :
 
-        all_states = self.soup.findAll(class_='data-state css-wlrcyf')
+        all_states = self.soup.findAll(class_='data-state css-jzj4fc')
         all_states_list = [all_states[i].findAll('h3')[0].getText() for i in range(len(all_states))]
         state_urls = np.zeros((len(all_states),2),dtype='O')
         for i,state in enumerate(all_states) :
