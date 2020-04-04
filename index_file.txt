@@ -1,3 +1,5 @@
 HealthCare_Capacity.csv	Shows healthcare capacity	https://docs.google.com/spreadsheets/d/1xAyBFTrlxSsTKQS7IDyr_Ah4JLBYj6_HX6ijKdm4fAY/edit#gid=0
 US_County_Level.csv	County level covid19 stats	https://github.com/nytimes/covid-19-data
 time_series_covid19_confirmed_US.csv	US state and county level confirmed cases (updated daily)	https://github.com/CSSEGISandData/COVID-19/raw/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv	
+County_Areas.csv	Information on US Country Areas (sq miles)	https://en.wikipedia.org/wiki/County_(United_States)
+Survey_Data_Blockchain.csv	Blockchain Survey data about testing	https://ireport-covid.app/
