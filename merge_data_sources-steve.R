@@ -73,12 +73,13 @@ distm(c(master_table$Lat[1], master_table$Long_[1]), c(master_table$Lat[2], mast
 master_table$date=="2020-04-01"
 head(master_table)
 select(master_table,c("UID","date","day_before_index"))
-MERGED_PETER<-read.csv("/Users/stevensmith/Projects/MIT_COVID19/data_cleaned/MERGED_PETER.csv",header = T,stringsAsFactors = F)
+MERGED_PETER<-read.csv("/Users/stevensmith/Projects/MIT_COVID19/data_cleaned/Distance_Calculations.csv",header = T,stringsAsFactors = F)
 
 master_table.filter<-filter(MERGED_PETER,!is.na(Area_.sqmi.),!is.na(Population))
 master_table.filter$day_before_index<-as.Date(master_table.filter$date)-1
 master_table.filter$date<-as.Date(master_table.filter$date)
-master_table.filter$Unique_ID
+
+
 for(i in 1:nrow(master_table.filter)){
   #i<-1
   day_before_index.i<-master_table.filter[i,"day_before_index"]
@@ -102,4 +103,6 @@ master_table.filter$day_before_cases
 ggplot(master_table.filter,aes(x=date,y=day_before_cases))+geom_point()+
   geom_point(aes(y=cases),col='red')
 
+
+write.csv(master_table.filter,"/Users/stevensmith/Projects/MIT_COVID19/output/MASTER_filtered_withlag.csv",quote = F,row.names = F)
 
