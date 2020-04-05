@@ -85,7 +85,7 @@ for(i in 1:nrow(master_table.filter)){
   day_before_index.i<-master_table.filter[i,"day_before_index"]
   UID.i<-master_table.filter[i,"Unique_ID"]
   day_before_cases<-NA
-  if(min( master_table.filter[master_table.filter$Unique_ID==UID.i,"date"])>=day_before_index.i){
+  if(min( master_table.filter[master_table.filter$Unique_ID==UID.i,"date"])>day_before_index.i){
     day_before_cases<-NA
   }else{
     day_before_cases<-master_table.filter[master_table.filter$Unique_ID==UID.i & master_table.filter$date==day_before_index.i,"cases"][1]
@@ -97,7 +97,7 @@ if(is.null(length(day_before_cases))){
   master_table.filter[i,"day_before_cases"]<-day_before_cases
 }
 
-master_table.filter$day_before_cases
+head(master_table.filter)
 
 
 ggplot(master_table.filter,aes(x=date,y=day_before_cases))+geom_point()+
@@ -105,4 +105,5 @@ ggplot(master_table.filter,aes(x=date,y=day_before_cases))+geom_point()+
 
 
 write.csv(master_table.filter,"/Users/stevensmith/Projects/MIT_COVID19/output/MASTER_filtered_withlag.csv",quote = F,row.names = F)
-
+master_table.filter$Total_Hospital_Beds
+ggplot(master_table.filter,aes(x=Nearest_BigCity,y=Potentially_Available_Hospital_Beds))+geom_point()
