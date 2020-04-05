@@ -1820,7 +1820,6 @@ New_Mexico,Union County,3830.0
 New_Mexico,Valencia County,1068.0
 New_York,Albany County,533.0
 New_York,Allegany County,1034.0
-New_York,Bronx County,57.43
 New_York,Broome County,715.0
 New_York,Cattaraugus County,1310.0
 New_York,Cayuga County,864.0
@@ -1848,7 +1847,7 @@ New_York,Madison County,662.0
 New_York,Monroe County,1366.0
 New_York,Montgomery County,410.0
 New_York,Nassau County,453.0
-New_York,New York County,33.77
+New_York,NYC,269.41,
 New_York,Niagara County,1140.0
 New_York,Oneida County,1213.0
 New_York,Onondaga County,806.0
@@ -1858,7 +1857,6 @@ New_York,Orleans County,817.0
 New_York,Oswego County,1312.0
 New_York,Otsego County,1003.0
 New_York,Putnam County,246.0
-New_York,Queens County,178.28
 New_York,Rensselaer County,665.0
 New_York,Richmond County,102.5
 New_York,Rockland County,199.0
