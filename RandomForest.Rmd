@@ -86,13 +86,25 @@ Y.validation<-read.csv(Y.validation.fn,header=T) %>% select(-c("X"))
 ## Replace NAs
 ##------------------------------------------
 # NAs in new cases or deaths can be assumed to be 0 (instances where the dataset skips a day)
-X[is.na(X$New_Cases),"New_Cases"]<-0
-X[is.na(X$New_Deaths),"New_Deaths"]<-0
-X[rowSums(is.na(X))>0,]
-Y[is.na(Y$cases_normalized),"cases_normalized"]<-0
 
-X.validation[is.na(X.validation)]<-0
-Y.validation[is.na(Y.validation)]<-0
+#X[is.na(X$New_Cases),"New_Cases"]<-0
+#X[is.na(X$New_Deaths),"New_Deaths"]<-0
+#X[rowSums(is.na(X))>0,]
+#Y[is.na(Y$cases_normalized),"cases_normalized"]<-0
+
+#X.validation[is.na(X.validation)]<-0
+#Y.validation[is.na(Y.validation)]<-0
+
+X<-filter(X,!is.na(New_Cases))
+Y<-filter(Y,!is.na(cases_normalized))
+
+
+X.validation<-filter(X.validation,!is.na(New_Cases))
+Y.validation<-filter(Y.validation,!is.na(Y.validation))
+
+X<-select(X,-c("New_Cases","New_Deaths"))
+X.validation<-select(X.validation,-c("New_Cases","New_Deaths"))
+
 
 ##------------------------------------------
 
@@ -129,7 +141,11 @@ write.csv(importance_rank,file = paste0(results_dir,"importance_rank.csv"),quote
 predicted<-predict(rf.model.training,X[testing_idx,])
 
 # compare predicted vs actual relative risk
-performance<-data.frame(predicted=predicted,actual=Y$cases_normalized[testing_idx],set="training",cor=cor(predicted,Y$cases_normalized[testing_idx]))
+
+index_rank<-(predicted/(max(predicted)-min(predicted)))+0.03520952
+index_rank.actual<-Y$cases_normalized[testing_idx]/(max(Y$cases_normalized[testing_idx])-min(Y$cases_normalized[testing_idx]))+0.09213341
+
+performance<-data.frame(predicted=predicted,actual=Y$cases_normalized[testing_idx],set="training",cor=cor(predicted,Y$cases_normalized[testing_idx]),index_rank=index_rank,index_rank.actual=index_rank.actual)
 
 # compute MSE
 mean((predicted-Y$cases_normalized[testing_idx])^2)
@@ -140,11 +156,13 @@ mean((predicted-Y$cases_normalized[testing_idx])^2)
 
 # run model
 predicted.validation<-predict(rf.model.training,select(X.validation,-c("Unique_ID")))
+index_rank.val<-predicted.validation/(max(predicted.validation)-min(predicted.validation)) +  0.1291825
+index_rank.actual.val<-Y.validation$cases_normalized/(max(Y.validation$cases_normalized)-min(Y.validation$cases_normalized)) +0.06941924
 
 # compare predicted vs actual relative risk
 performance<-rbind(performance,
                    data.frame(predicted=predicted.validation,actual=Y.validation$cases_normalized,set="validation",
-                   cor=cor(predicted.validation,Y.validation$cases_normalized)))
+                   cor=cor(predicted.validation,Y.validation$cases_normalized),index_rank=index_rank.val,index_rank.actual=index_rank.actual.val))
 
 # compute MSE
 mean((predicted.validation-Y.validation$cases_normalized)^2)
@@ -154,10 +172,13 @@ mean((predicted.validation-Y.validation$cases_normalized)^2)
 ## Plot performance
 ##------------------------------------------
 unique(select(performance,c("set","cor")))
-(RF.predicted_vs_actual.training.plot<-ggplot(performance,aes(x=100*actual,y=100*predicted,col=set))+
+
+head(performance)
+
+(RF.predicted_vs_actual.training.plot<-ggplot(performance,aes(x=actual,y=predicted,col=set))+
    geom_point()+
-   xlab("Actual relative risk (% cases population)")+
-   ylab("Predicted relative risk (% cases population)")+
+   xlab("Actual risk index")+
+   ylab("Predicted risk index")+
    geom_abline(slope = 1,intercept = 0,lty=2)+
    default_theme+
         theme(legend.position = "bottom"))
@@ -167,11 +188,14 @@ write_plot(RF.predicted_vs_actual.training.plot,wd = results_dir)
 ## Rank validation cities with greatest -> least risk profile
 ##------------------------------------------
 
-risk_profile.validation<-data.frame(City_State=X.validation$Unique_ID,predicted_risk=predicted.validation) %>% arrange(-predicted_risk)
+risk_profile.validation<-data.frame(City_State=X.validation$Unique_ID,predicted_risk=predicted.validation, actual_risk=Y.validation$cases_normalized) %>% arrange(-predicted_risk)
 
-head(risk_profile.validation,50)
+
+risk_profile.validation$risk_rank<-(risk_profile.validation$predicted_risk-min(risk_profile.validation$predicted_risk))/(max(risk_profile.validation$predicted_risk)-min(risk_profile.validation$predicted_risk)) 
+
 
 write.csv(risk_profile.validation,file = paste0(results_dir,"risk_profile.validation.csv"),quote = F,row.names = F)
+
 ```
 
 # CONCLUSION
