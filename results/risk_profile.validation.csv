@@ -1,0 +1,4049 @@
+City_State,predicted_risk
+Rockland_New York,0.000841532846772375
+Westchester_New York,0.000808231934014142
+Nassau_New York,0.000651354837812976
+Blaine_Idaho,0.000561656978249687
+Suffolk_New York,0.000557695327755297
+Passaic_New Jersey,0.000522171502145428
+Hudson_New Jersey,0.0005187841151839
+Union_New Jersey,0.000491791290507268
+Terrell_Georgia,0.000487331912370818
+Essex_New Jersey,0.000392197384504299
+Westchester_New York,0.000379929588630496
+Nassau_New York,0.000375229772073547
+NYC_New York,0.00036434970705617
+Rockland_New York,0.000357647916088931
+Orange_New York,0.000354431478048209
+Bergen_New Jersey,0.000350412123349643
+Wayne_Michigan,0.000331679297790717
+Early_Georgia,0.000329796131973121
+NYC_New York,0.000321388840102818
+Fairfield_Connecticut,0.000309928783445681
+Eagle_Colorado,0.0003097473552292
+Baker_Georgia,0.000298239396217683
+Clay_Georgia,0.000297344598920874
+Dougherty_Georgia,0.000297249573922097
+Coffey_Kansas,0.000278314786537184
+Worth_Georgia,0.000274558690604924
+Schley_Georgia,0.00026359327365065
+Middlesex_New Jersey,0.000243132667525847
+Bergen_New Jersey,0.00023752735870723
+Calhoun_Georgia,0.000236958921907541
+Suffolk_Massachusetts,0.000236563247074182
+Suffolk_New York,0.000232985126293379
+Dougherty_Georgia,0.000230168101059441
+Morris_New Jersey,0.000224612199485774
+San Miguel_Colorado,0.00022196388352628
+Randolph_Georgia,0.000221515427317691
+Oakland_Michigan,0.000218658268885277
+Baca_Colorado,0.000212628147194622
+Mitchell_Georgia,0.000212332284703244
+Carter_Missouri,0.000210866906342135
+Putnam_New York,0.000210364571079368
+Lee_Georgia,0.000205343993820557
+Johnson_Wyoming,0.000204778638506294
+Lee_Georgia,0.000204239746879682
+Cook_Illinois,0.000204239400276049
+Dooly_Georgia,0.000202958635289263
+Washington_Iowa,0.000201764236832623
+Ocean_New Jersey,0.000197026731556156
+Monmouth_New Jersey,0.000196901886414173
+Franklin_Indiana,0.000191670787284509
+Monroe_Pennsylvania,0.000188501410909895
+Dutchess_New York,0.000187725218613605
+Teton_Wyoming,0.000185097973154549
+Philadelphia_Pennsylvania,0.000184904177567831
+Ripley_Indiana,0.000184161409234041
+Hudson_New Jersey,0.000181098493834048
+Matagorda_Texas,0.00017627039409423
+Lehigh_Pennsylvania,0.000174880036772138
+Crisp_Georgia,0.000174548887023266
+Bacon_Georgia,0.000171625976294203
+Madison_Montana,0.000170942675822143
+Clarke_Mississippi,0.000167207874824747
+Middlesex_Massachusetts,0.000161917338142037
+Essex_Massachusetts,0.000161811550518655
+Somerset_New Jersey,0.000156070440917769
+Bolivar_Mississippi,0.000155999965677617
+Clarendon_South Carolina,0.000154855305072324
+Woodson_Kansas,0.000154435716910737
+Carroll_Georgia,0.000153171279340872
+Muhlenberg_Kentucky,0.000152559518910059
+Northampton_Pennsylvania,0.000152307588350859
+Fairfield_Connecticut,0.000152215182641214
+Sumter_Georgia,0.000150384798937
+Marion_Indiana,0.000149676691987934
+Decatur_Indiana,0.000147017340086096
+Custer_Idaho,0.000145641977533546
+Mineral_Colorado,0.000143938311115812
+Franklin_Massachusetts,0.000142829534099782
+New Haven_Connecticut,0.000141389414254989
+Wasatch_Utah,0.000139329337006068
+Greene_Georgia,0.000139009477968287
+Macomb_Michigan,0.000138994998059542
+Luzerne_Pennsylvania,0.000138761566850376
+Sullivan_New York,0.0001381498055649
+Passaic_New Jersey,0.000137212483860295
+Essex_New Jersey,0.00013647514132412
+Hampden_Massachusetts,0.000136044425249872
+Summit_Colorado,0.000135667963545813
+Lincoln_Idaho,0.000133916244905993
+Hopkins_Kentucky,0.000133379992474644
+Kershaw_South Carolina,0.000133343960636059
+Burke_Georgia,0.000133123207766379
+Norfolk_Massachusetts,0.000132174386465318
+Plymouth_Massachusetts,0.000131446996993504
+Northampton_North Carolina,0.000130602582509383
+Kit Carson_Colorado,0.000129485279236376
+Wilkinson_Mississippi,0.000126271766181885
+Tippah_Mississippi,0.000125990749668767
+Blaine_Idaho,0.00012536175724132
+Macon_Missouri,0.00012393662021725
+Turner_Georgia,0.000122435337569552
+Sussex_New Jersey,0.000120998199794648
+Dawson_Texas,0.000120645752220734
+Cleburne_Arkansas,0.000120294448563666
+Mineral_Colorado,0.000120290852774663
+Providence_Rhode Island,0.000120192923927595
+Pike_Pennsylvania,0.000120168447958705
+Mahoning_Ohio,0.00012003557243462
+Chariton_Missouri,0.000117582419370506
+Colquitt_Georgia,0.000117561453667112
+James City_Virginia,0.000116414714053467
+Miami-Dade_Florida,0.000116211551106819
+Chaffee_Colorado,0.00011512658595378
+Union_New Jersey,0.00011499234119711
+Lafayette_Missouri,0.000114348687901052
+Warren_Georgia,0.00011376593903578
+Lauderdale_Mississippi,0.00011350628443489
+Gunnison_Colorado,0.000113456490696145
+Grundy_Tennessee,0.000112839489389907
+Early_Georgia,0.000112484859045887
+Humphreys_Mississippi,0.000112361125108073
+Crittenden_Arkansas,0.000112270733375029
+Jones_Iowa,0.000112240521520204
+Navajo_Arizona,0.000111705783216209
+Ulster_New York,0.000111519950608849
+Arapahoe_Colorado,0.000110836335839479
+Keokuk_Iowa,0.00011055363517956
+Terrell_Georgia,0.000109461689494738
+Floyd_Georgia,0.000108230130205123
+Nowata_Oklahoma,0.000108042151555987
+Rockdale_Georgia,0.000107802222918093
+Ware_Georgia,0.000107781198917382
+Hunterdon_New Jersey,0.000106642080083199
+Clay_Georgia,0.00010660989823242
+Polk_Arkansas,0.000105951988949447
+Columbia_New York,0.000105799620773307
+Mountrail_North Dakota,0.000105777334294754
+Weld_Colorado,0.000104220967077371
+Perry_Missouri,0.000103445545646853
+Dawson_Georgia,0.000102126521441676
+Greene_New York,0.000101690516847177
+Burke_North Dakota,0.000101364324064362
+Martin_Minnesota,9.97492073197037e-05
+Madison_New York,9.93278809503752e-05
+Jefferson_Arkansas,9.89030736274154e-05
+Linn_Iowa,9.84195632257386e-05
+Simpson_Kentucky,9.78497217398619e-05
+Baker_Georgia,9.72616659899285e-05
+Bartow_Georgia,9.69385530612929e-05
+Camas_Idaho,9.66868284841421e-05
+Montgomery_North Carolina,9.61039996383189e-05
+Kalkaska_Michigan,9.60948047175798e-05
+Washtenaw_Michigan,9.60095636081529e-05
+Delaware_New York,9.53291720062143e-05
+Clear Creek_Colorado,9.53130054198236e-05
+Snohomish_Washington,9.50577284897736e-05
+Yankton_South Dakota,9.485865130287e-05
+Morgan_Indiana,9.47412462363427e-05
+Harrison_Iowa,9.47037029798898e-05
+Clark_Nevada,9.45387692198467e-05
+Douglas_Illinois,9.4526325225678e-05
+Mitchell_Georgia,9.43058846859202e-05
+Otsego_Michigan,9.42802524571914e-05
+Chittenden_Vermont,9.35352398124882e-05
+Wilcox_Alabama,9.28374247278539e-05
+Wayne_Kentucky,9.26316704378926e-05
+Hampshire_Massachusetts,9.26304516009792e-05
+Freeborn_Minnesota,9.23525572752195e-05
+Washington_Georgia,9.20993055291788e-05
+Perry_Arkansas,9.17584219527636e-05
+Berkshire_Massachusetts,9.1113664358515e-05
+Litchfield_Connecticut,8.96298966018364e-05
+Mercer_New Jersey,8.92319946056493e-05
+Worth_Georgia,8.90800135944291e-05
+Randolph_Indiana,8.84172640645885e-05
+Yalobusha_Mississippi,8.80951039711086e-05
+Cottonwood_Minnesota,8.80859031108009e-05
+Barnstable_Massachusetts,8.80386608847253e-05
+Bourbon_Kentucky,8.7598950974541e-05
+Bristol_Massachusetts,8.75748976823422e-05
+Ingham_Michigan,8.75346350512211e-05
+Beaufort_South Carolina,8.70329826628106e-05
+Wasco_Oregon,8.65972751396931e-05
+Noble_Oklahoma,8.62689434829025e-05
+Live Oak_Texas,8.56292146476966e-05
+Osage_Oklahoma,8.51488658806695e-05
+Warren_New Jersey,8.50441039931496e-05
+Gogebic_Michigan,8.40432198068023e-05
+Banks_Georgia,8.38800745239261e-05
+Orleans_Vermont,8.38033553485659e-05
+Decatur_Georgia,8.33834824998074e-05
+Davidson_Tennessee,8.33807864821126e-05
+Baca_Colorado,8.33418744819829e-05
+Rio Grande_Colorado,8.32736456559871e-05
+Tunica_Mississippi,8.24972154982279e-05
+Alpine_California,8.20949067218518e-05
+Escambia_Florida,8.17541857601169e-05
+Kay_Oklahoma,8.1332972647237e-05
+Elmore_Idaho,8.10810942363911e-05
+Los Angeles_California,8.08739447884888e-05
+Hertford_North Carolina,8.06011628952184e-05
+Chickasaw_Mississippi,8.00191776828924e-05
+Terry_Texas,7.98943470302752e-05
+Adams_Colorado,7.98045516525169e-05
+Daviess_Kentucky,7.96286562458886e-05
+Washington_North Carolina,7.91937745089242e-05
+Costilla_Colorado,7.90742570780749e-05
+Johnson_Indiana,7.90203628091086e-05
+Choctaw_Alabama,7.80948298443669e-05
+Jefferson_Colorado,7.78949535980945e-05
+Howard_Arkansas,7.76885596041393e-05
+Island_Washington,7.76319172657989e-05
+Fulton_Georgia,7.75733670592329e-05
+Saginaw_Michigan,7.70416177899987e-05
+Le Sueur_Minnesota,7.62688773476265e-05
+Toole_Montana,7.5841653346195e-05
+Faribault_Minnesota,7.56560203589104e-05
+Carroll_Kentucky,7.53752758903649e-05
+Traverse_Minnesota,7.53399206650964e-05
+Santa Clara_California,7.52645294083941e-05
+Morris_New Jersey,7.52480110992641e-05
+Orange_New York,7.47553092384197e-05
+Palm Beach_Florida,7.42479371731426e-05
+Genesee_Michigan,7.42004158348863e-05
+Yazoo_Mississippi,7.34373880993524e-05
+Winona_Minnesota,7.33345626893647e-05
+Sheridan_Wyoming,7.31621807930796e-05
+Sanilac_Michigan,7.24295579881006e-05
+Oconee_Georgia,7.1818809381244e-05
+Madison_Indiana,7.17811355628077e-05
+Blount_Tennessee,7.14007654995383e-05
+Hartford_Connecticut,7.13335834970346e-05
+Warren_Missouri,7.08310766445013e-05
+Lake_Illinois,7.07457729745833e-05
+Prince George's_Maryland,7.0636496682903e-05
+Lumpkin_Georgia,7.05948029922626e-05
+Muscatine_Iowa,7.0556479918436e-05
+Bucks_Pennsylvania,7.00359059872346e-05
+Wayne_Michigan,6.99530537330454e-05
+Jackson_Georgia,6.99204647014502e-05
+Rockingham_New Hampshire,6.97918101806258e-05
+Giles_Tennessee,6.97290091363405e-05
+Cook_Illinois,6.96060012659143e-05
+Pickaway_Ohio,6.92969004083116e-05
+Newton_Georgia,6.92948965400868e-05
+Macon_Georgia,6.92587707424266e-05
+Oliver_North Dakota,6.88321327282269e-05
+Salem_New Jersey,6.86293463340805e-05
+Butts_Georgia,6.85276904486552e-05
+Coconino_Arizona,6.84512066479655e-05
+Monroe_Georgia,6.84057919597101e-05
+Pitkin_Colorado,6.83847913636861e-05
+District of Columbia_District of Columbia,6.82667924105614e-05
+Ada_Idaho,6.76363042275398e-05
+Webster_Kentucky,6.72402565441841e-05
+Winston_Mississippi,6.72095964602865e-05
+Hart_Georgia,6.69479365798443e-05
+Fayette_Georgia,6.63858579281808e-05
+Hall_Georgia,6.6103699973282e-05
+Kankakee_Illinois,6.60313961764828e-05
+Rensselaer_New York,6.59776297823766e-05
+Holmes_Mississippi,6.59617311148836e-05
+Jefferson_Georgia,6.57941377097695e-05
+Adams_Mississippi,6.55498457469342e-05
+Amelia_Virginia,6.54726256477477e-05
+Camden_New Jersey,6.52768099717687e-05
+Jasper_Mississippi,6.51814745055232e-05
+Gem_Idaho,6.51190318895602e-05
+Ozaukee_Wisconsin,6.5085615410102e-05
+Lincoln_Montana,6.49177241798545e-05
+Dickson_Tennessee,6.48512727191974e-05
+Livingston_Michigan,6.47403389331597e-05
+Northumberland_Virginia,6.46246806723966e-05
+Middlesex_New Jersey,6.46142207210158e-05
+DeKalb_Georgia,6.45932228302483e-05
+Stephens_Oklahoma,6.42746357949916e-05
+Beaver_Pennsylvania,6.39487452571954e-05
+Clayton_Georgia,6.3896534195439e-05
+Douglas_Colorado,6.38077590995497e-05
+Sioux_Iowa,6.37826814074613e-05
+Hamilton_Indiana,6.36557927565888e-05
+Montrose_Colorado,6.35239388626813e-05
+Hendricks_Indiana,6.34969782279874e-05
+Tama_Iowa,6.34150777262817e-05
+Osage_Kansas,6.33331700942143e-05
+Gloucester_New Jersey,6.31732977872798e-05
+Philadelphia_Pennsylvania,6.29745185220565e-05
+Suffolk_Massachusetts,6.29018736869359e-05
+Thomas_Georgia,6.28209523758781e-05
+Albany_Wyoming,6.25325717002424e-05
+Broward_Florida,6.24548495988679e-05
+Dearborn_Indiana,6.21243067869733e-05
+Tuscola_Michigan,6.20786727707298e-05
+Lake_Indiana,6.20514449724987e-05
+Laramie_Wyoming,6.20295196344419e-05
+Jasper_Indiana,6.2004728583571e-05
+Union_Kentucky,6.18492735576731e-05
+Delaware_Pennsylvania,6.18233113602268e-05
+Barrow_Georgia,6.17161622045208e-05
+Iowa_Iowa,6.16035699212149e-05
+Burlington_New Jersey,6.15619653592708e-05
+Monroe_New York,6.12486347343397e-05
+Musselshell_Montana,6.10305232282144e-05
+McDowell_North Carolina,6.10045622030945e-05
+Franklin_North Carolina,6.09792452123768e-05
+Richmond_Georgia,6.07736042715436e-05
+White_Georgia,6.06857526538715e-05
+Worcester_Massachusetts,6.03864509456392e-05
+Liberty_Montana,6.03446660824797e-05
+Jackson_Michigan,6.02147264877724e-05
+Wyandotte_Kansas,6.01837135486039e-05
+Henry_Georgia,6.01327136365883e-05
+Brooks_Georgia,5.98360085242958e-05
+Clinton_Iowa,5.9644551980244e-05
+Bertie_North Carolina,5.93945135808763e-05
+Chambers_Texas,5.90369400949451e-05
+Carroll_Maryland,5.89532458381484e-05
+Bristol_Rhode Island,5.89253480131878e-05
+Franklin_New York,5.8884110905667e-05
+Calhoun_South Carolina,5.88001030874596e-05
+New Castle_Delaware,5.84700104265782e-05
+Clarke_Georgia,5.83332554260813e-05
+Jefferson_Kentucky,5.82091456497027e-05
+Richland_South Carolina,5.81975803135082e-05
+Howard_Maryland,5.80724698879944e-05
+Lackawanna_Pennsylvania,5.80549603626489e-05
+Randolph_Arkansas,5.80454928520527e-05
+Addison_Vermont,5.80102725769049e-05
+Eaton_Michigan,5.80074857256003e-05
+Schley_Georgia,5.80072639754479e-05
+El Paso_Colorado,5.79697161709716e-05
+Riverside_California,5.77519992395887e-05
+San Benito_California,5.74506163342221e-05
+Cherokee_Oklahoma,5.72180939023108e-05
+Sequatchie_Tennessee,5.71704929926679e-05
+Clinton_Michigan,5.71372701591292e-05
+Benton_Tennessee,5.71027751205689e-05
+Transylvania_North Carolina,5.68110033378024e-05
+Cannon_Tennessee,5.67877041838636e-05
+Berks_Pennsylvania,5.66621881436049e-05
+Tolland_Connecticut,5.66286607836037e-05
+Collier_Florida,5.63684602328541e-05
+Clinton_New York,5.63634423336648e-05
+Bradford_Pennsylvania,5.62897788821237e-05
+Schuylkill_Pennsylvania,5.59533867463292e-05
+Cooper_Missouri,5.56204838252058e-05
+Hillsborough_New Hampshire,5.54915092264929e-05
+Lancaster_Pennsylvania,5.52499298775824e-05
+Benton_Missouri,5.5184486447775e-05
+Tioga_New York,5.51618382831408e-05
+Sumter_Georgia,5.51196970896897e-05
+Carbon_Pennsylvania,5.49722167393541e-05
+Garfield_Colorado,5.49512795000132e-05
+Franklin_Missouri,5.47776602710873e-05
+Nez Perce_Idaho,5.46424534025702e-05
+Essex_Massachusetts,5.46075636206789e-05
+Hinds_Mississippi,5.45815935977972e-05
+Cedar_Iowa,5.43312435719048e-05
+Polk_Texas,5.4283250779242e-05
+Jefferson_Ohio,5.41191801296161e-05
+Bibb_Alabama,5.36362546153951e-05
+Humboldt_California,5.35675277066642e-05
+Maricopa_Arizona,5.34342563201293e-05
+Fayette_Tennessee,5.33583497268474e-05
+Cumberland_Maine,5.32186285956126e-05
+Matagorda_Texas,5.31288030581266e-05
+Greene_Pennsylvania,5.30120078014284e-05
+Rutherford_North Carolina,5.30100194531437e-05
+Marion_Oregon,5.28222062984063e-05
+Clarion_Pennsylvania,5.27921523199585e-05
+Orleans_New York,5.26831727929661e-05
+Orange_Florida,5.25895641851428e-05
+San Diego_California,5.24942216110974e-05
+Galveston_Texas,5.22543977661508e-05
+Cherokee_Kansas,5.20935155550715e-05
+Brazoria_Texas,5.19647352600581e-05
+Chemung_New York,5.19643824731596e-05
+Pickens_Alabama,5.19195849576777e-05
+Shelby_Kentucky,5.19081199419286e-05
+Marshall_Iowa,5.16520428273636e-05
+Santa Rosa_Florida,5.15089694914224e-05
+Logan_Colorado,5.11765312707176e-05
+Alcorn_Mississippi,5.10338374313954e-05
+Ocean_New Jersey,5.09458706055062e-05
+Pontotoc_Oklahoma,5.09426684577691e-05
+Lubbock_Texas,5.07050897770958e-05
+DuPage_Illinois,5.06901107467831e-05
+Chambers_Alabama,5.06756684468707e-05
+Campbell_Wyoming,5.05596891391092e-05
+San Bernardino_California,5.05550736206054e-05
+Pearl River_Mississippi,5.04758861177554e-05
+Sullivan_Indiana,5.0404044019264e-05
+Middlesex_Massachusetts,5.03115249949729e-05
+Owen_Indiana,5.01777786895274e-05
+Miami_Ohio,5.0120496909787e-05
+Leflore_Mississippi,5.00510794000403e-05
+Dutchess_New York,4.99071510444933e-05
+Gallatin_Montana,4.98550129285109e-05
+Jessamine_Kentucky,4.97289886350988e-05
+Lee_Florida,4.96272623985208e-05
+Monmouth_New Jersey,4.95081311446134e-05
+Gwinnett_Georgia,4.94825308074604e-05
+Norfolk_Massachusetts,4.94529162178354e-05
+Clark_Indiana,4.94519146151007e-05
+Milwaukee_Wisconsin,4.93972142423525e-05
+Pasquotank_North Carolina,4.92581707253813e-05
+Fillmore_Minnesota,4.92477530914871e-05
+Washington_Mississippi,4.90998845632264e-05
+McKinley_New Mexico,4.90974395870914e-05
+Morgan_Georgia,4.8534974542996e-05
+Steuben_New York,4.83312086246461e-05
+Pierce_Georgia,4.83261051295948e-05
+Fayette_Indiana,4.82419647025668e-05
+Columbia_Georgia,4.81627343263801e-05
+Carroll_Illinois,4.80648213822964e-05
+Wyandot_Ohio,4.79278122972246e-05
+Baltimore_Maryland,4.79028148749124e-05
+Cheatham_Tennessee,4.78899562155273e-05
+Antrim_Michigan,4.78853477954828e-05
+Montgomery_Pennsylvania,4.77993293807783e-05
+Sandoval_New Mexico,4.77837430163123e-05
+Spencer_Kentucky,4.77250041481854e-05
+Orange_Indiana,4.75602895289155e-05
+Washington_New York,4.72516929358294e-05
+Coahoma_Mississippi,4.72144786826567e-05
+Kent_Rhode Island,4.711408888618e-05
+Douglas_Georgia,4.69770139117994e-05
+Somerset_New Jersey,4.69223627639114e-05
+Pitt_North Carolina,4.66443097311378e-05
+Pottawatomie_Kansas,4.63961903870956e-05
+Franklin_Kentucky,4.62154703914092e-05
+Cobb_Georgia,4.61639400086458e-05
+Hillsdale_Michigan,4.60814340164431e-05
+Chenango_New York,4.60663475781722e-05
+Kern_California,4.5909833965523e-05
+Prince George_Virginia,4.58494717458111e-05
+Chesterfield_Virginia,4.57297957694037e-05
+Charleston_South Carolina,4.57184828903265e-05
+Madison_Idaho,4.56905061091302e-05
+Butler_Pennsylvania,4.56145641899396e-05
+Hardin_Texas,4.56060992577158e-05
+Colquitt_Georgia,4.55387330325766e-05
+Dallas_Iowa,4.55016671535163e-05
+Greer_Oklahoma,4.54960863919035e-05
+Polk_North Carolina,4.54478320059853e-05
+Darke_Ohio,4.53163523768286e-05
+Sussex_Delaware,4.52670286379065e-05
+Wayne_New York,4.52635384285086e-05
+Cherokee_North Carolina,4.52549832814748e-05
+Montgomery_Maryland,4.52185172460572e-05
+Creek_Oklahoma,4.5215696967231e-05
+Lawrence_South Dakota,4.51892181449074e-05
+Houston_Georgia,4.51048705397999e-05
+Nash_North Carolina,4.49278658649619e-05
+Leavenworth_Kansas,4.47869376052664e-05
+Hall_Nebraska,4.47803211975257e-05
+Tooele_Utah,4.47559487354925e-05
+Hood River_Oregon,4.46236115827906e-05
+Loudoun_Virginia,4.45889710631479e-05
+Indian River_Florida,4.45405855795958e-05
+Fairfield_South Carolina,4.44945470497761e-05
+Shelby_Indiana,4.43896441681126e-05
+Washington_Wisconsin,4.42220927017539e-05
+Abbeville_South Carolina,4.41221714062883e-05
+Van Buren_Michigan,4.40989352957639e-05
+Fayette_Kentucky,4.38819568772908e-05
+Randolph_Missouri,4.37816702800765e-05
+Jefferson_Missouri,4.36342662530304e-05
+York_South Carolina,4.35452412484286e-05
+Sumter_South Carolina,4.35016643525891e-05
+Bowie_Texas,4.34315892724966e-05
+Indiana_Pennsylvania,4.34090457699834e-05
+Strafford_New Hampshire,4.33961198556289e-05
+San Juan_New Mexico,4.33683970240511e-05
+La Plata_Colorado,4.33675220203886e-05
+Franklin_Vermont,4.32415308321326e-05
+Plymouth_Massachusetts,4.31549042205133e-05
+Putnam_Georgia,4.28664765735644e-05
+Onondaga_New York,4.28170942992736e-05
+Madison_Ohio,4.2783563684816e-05
+McDuffie_Georgia,4.27751054074538e-05
+Imperial_California,4.22798753300821e-05
+Marion_Mississippi,4.2253761724566e-05
+Lucas_Ohio,4.21311246044251e-05
+Monroe_Tennessee,4.20975231207972e-05
+Wilson_North Carolina,4.2084636027899e-05
+Salem_New Jersey,4.20374289709653e-05
+Mecklenburg_North Carolina,4.19347303553733e-05
+Iron_Utah,4.19079817159626e-05
+Kanawha_West Virginia,4.18338356285217e-05
+Goochland_Virginia,4.17896512525698e-05
+Troup_Georgia,4.17756166800591e-05
+Greene_Missouri,4.17319696523546e-05
+Jerome_Idaho,4.16582432643876e-05
+Cuyahoga_Ohio,4.16582324107612e-05
+Pottawatomie_Oklahoma,4.15722204479367e-05
+Lexington_South Carolina,4.15643174485367e-05
+Dallas_Texas,4.14453904736436e-05
+Fairbanks North Star Borough_Alaska,4.14332598263449e-05
+Macon_Tennessee,4.12887897777468e-05
+Carroll_New Hampshire,4.12206397313649e-05
+Baldwin_Georgia,4.11946959336091e-05
+Hood_Texas,4.10986507512669e-05
+Coffey_Kansas,4.10530332222137e-05
+Routt_Colorado,4.08412402333402e-05
+Maury_Tennessee,4.05794407922737e-05
+Cabarrus_North Carolina,4.05792508811389e-05
+Chatham_North Carolina,4.03501051119243e-05
+Franklin_Pennsylvania,4.03494133612686e-05
+Chatham_Georgia,4.01533655924381e-05
+Washington_Nebraska,3.99872371305149e-05
+Franklin_Kansas,3.99472438539621e-05
+Middlesex_Connecticut,3.99395976779477e-05
+Nevada_California,3.99232906934368e-05
+Charles_Maryland,3.98179884914759e-05
+Cass_Missouri,3.96695645612195e-05
+Calhoun_Georgia,3.93332700350674e-05
+Jennings_Indiana,3.88642640160038e-05
+Grant_North Dakota,3.88613309870437e-05
+Decatur_Indiana,3.88526828898794e-05
+Cass_North Dakota,3.88308155678973e-05
+Tallapoosa_Alabama,3.85668128454803e-05
+Oktibbeha_Mississippi,3.85029174627726e-05
+Lincoln_Missouri,3.84499897387952e-05
+Trumbull_Ohio,3.83768056903558e-05
+Elbert_Colorado,3.83113512199335e-05
+Venango_Pennsylvania,3.82371594948559e-05
+Natrona_Wyoming,3.81814239248201e-05
+Arlington_Virginia,3.81048851688112e-05
+Boone_Indiana,3.7927252405368e-05
+Lake_Florida,3.76568913085154e-05
+Will_Illinois,3.76093916779202e-05
+Sumner_Tennessee,3.7591078233609e-05
+Montgomery_Illinois,3.75582930489253e-05
+Lauderdale_Tennessee,3.75293382278299e-05
+Scott_Mississippi,3.7467704464941e-05
+Woodford_Kentucky,3.74208881230972e-05
+Warren_Iowa,3.73936683901274e-05
+York_Virginia,3.73073965684953e-05
+Halifax_North Carolina,3.72419234739424e-05
+Ripley_Indiana,3.72059672176181e-05
+Copiah_Mississippi,3.71936841685096e-05
+Posey_Indiana,3.70883527165456e-05
+Medina_Ohio,3.70429982560508e-05
+Franklin_Massachusetts,3.68630145816434e-05
+Rowan_North Carolina,3.68217414674712e-05
+Edgecombe_North Carolina,3.68087108497662e-05
+Randolph_Illinois,3.67165052896462e-05
+Cumberland_New Jersey,3.66612200477706e-05
+Polk_Oregon,3.6635853760026e-05
+Calvert_Maryland,3.66338263957541e-05
+Fannin_Georgia,3.65611002054791e-05
+Grimes_Texas,3.65194048711904e-05
+Durham_North Carolina,3.64482804554871e-05
+Hillsborough_Florida,3.64386690709846e-05
+Harris_Texas,3.63212630337402e-05
+Panola_Mississippi,3.63136054936654e-05
+Stoddard_Missouri,3.62513404919552e-05
+Washington_Utah,3.62258350891841e-05
+Forsyth_Georgia,3.61940338431846e-05
+Henrico_Virginia,3.61543073897437e-05
+Jefferson_Idaho,3.60943353574357e-05
+San Francisco_California,3.60826992941457e-05
+Coweta_Georgia,3.60776601950869e-05
+Lyon_Kansas,3.59792482920163e-05
+Lawrence_Pennsylvania,3.59649920061489e-05
+Cape Girardeau_Missouri,3.59522984700185e-05
+Stephens_Georgia,3.56581475542654e-05
+Walton_Georgia,3.55983231501459e-05
+Toombs_Georgia,3.55754871100643e-05
+DeSoto_Mississippi,3.55432397525038e-05
+Tift_Georgia,3.55414980360316e-05
+Santa Barbara_California,3.55145681779778e-05
+Cumberland_Pennsylvania,3.53767504386679e-05
+Kent_Delaware,3.52259136562802e-05
+Portage_Ohio,3.51957952631073e-05
+Osceola_Florida,3.50554780192663e-05
+Nassau_Florida,3.50463531013036e-05
+Jackson_West Virginia,3.50220085706305e-05
+Greenville_South Carolina,3.50167084132909e-05
+Stark_North Dakota,3.4924512153887e-05
+Anderson_South Carolina,3.48082069320401e-05
+Hampden_Massachusetts,3.4656565186339e-05
+Accomack_Virginia,3.46022256839063e-05
+Ottawa_Oklahoma,3.4552937542816e-05
+York_Maine,3.45388258268581e-05
+Haralson_Georgia,3.44985155804104e-05
+Madison_Mississippi,3.44622157920578e-05
+Jefferson_Alabama,3.42848974678885e-05
+Washington_Vermont,3.41352558910719e-05
+Salt Lake_Utah,3.41138237019006e-05
+Bartholomew_Indiana,3.40891680348894e-05
+Sonoma_California,3.40206542347936e-05
+Marion_Indiana,3.40127697366893e-05
+Fremont_Wyoming,3.38983258034385e-05
+Wells_Indiana,3.38484073218514e-05
+Baker_Florida,3.38359949175904e-05
+Otsego_New York,3.37953566812555e-05
+Kenosha_Wisconsin,3.37769822239194e-05
+Oakland_Michigan,3.37460988207518e-05
+Franklin_Ohio,3.37189868427439e-05
+Cherokee_Georgia,3.36995850751637e-05
+Jones_Georgia,3.3521010436444e-05
+Clay_Minnesota,3.33028779653986e-05
+Luzerne_Pennsylvania,3.32711537994029e-05
+Granville_North Carolina,3.32498930345175e-05
+Albany_New York,3.31974741672552e-05
+Georgetown_South Carolina,3.31801443253385e-05
+Carteret_North Carolina,3.31555159773611e-05
+Greene_Indiana,3.31241673358926e-05
+Allegheny_Pennsylvania,3.30533367719661e-05
+Montgomery_Kentucky,3.29851672266546e-05
+Pima_Arizona,3.29726760940773e-05
+Clayton_Georgia,3.29590730993416e-05
+Duval_Florida,3.28994953686761e-05
+Oklahoma_Oklahoma,3.28698213901814e-05
+Summit_Utah,3.28243663171258e-05
+Callaway_Missouri,3.27673334747629e-05
+Knox_Tennessee,3.27069769650204e-05
+Monroe_Pennsylvania,3.25855705120308e-05
+White_Arkansas,3.23541018069583e-05
+Taos_New Mexico,3.23410193078305e-05
+McHenry_Illinois,3.22097362394089e-05
+Kootenai_Idaho,3.19981334187568e-05
+Putnam_New York,3.18009814128406e-05
+Larimer_Colorado,3.17942003031826e-05
+Montgomery_Kansas,3.17891232927039e-05
+Marin_California,3.16836780209844e-05
+Stafford_Virginia,3.15550458748274e-05
+Oneida_New York,3.1517161880283e-05
+Bolivar_Mississippi,3.14911478169316e-05
+Powhatan_Virginia,3.14737492993092e-05
+Victoria_Texas,3.14615972628862e-05
+Jefferson_West Virginia,3.14269609939966e-05
+Armstrong_Pennsylvania,3.13950838631631e-05
+Emmet_Michigan,3.12548214026173e-05
+San Miguel_Colorado,3.11971582911288e-05
+Monroe_Michigan,3.11933473342086e-05
+Elkhart_Indiana,3.1118006260593e-05
+New Haven_Connecticut,3.09114132761579e-05
+Clay_Florida,3.08432255086437e-05
+Schenectady_New York,3.08383418429104e-05
+Orange_North Carolina,3.08132699082688e-05
+Lenawee_Michigan,3.07828249997864e-05
+Sumter_Florida,3.07108623016778e-05
+Columbiana_Ohio,3.06912618523491e-05
+Lee_Alabama,3.06579297615514e-05
+Anne Arundel_Maryland,3.06124492587902e-05
+Merrimack_New Hampshire,3.06039373459818e-05
+McHenry_North Dakota,3.05094998029225e-05
+Walton_Florida,3.0464195380008e-05
+Porter_Indiana,3.04062873657234e-05
+Yavapai_Arizona,3.03298073754118e-05
+Monroe_Mississippi,3.01475841834261e-05
+Santa Fe_New Mexico,3.01220514810424e-05
+Boone_Missouri,3.01085635391051e-05
+Waukesha_Wisconsin,3.00070738349232e-05
+Warren_Indiana,3.0003745977064e-05
+Highlands_Florida,2.98757462128565e-05
+Washington_Pennsylvania,2.98189045563931e-05
+Lincoln_Oklahoma,2.97053841515629e-05
+Livingston_Illinois,2.9593043790938e-05
+Pinellas_Florida,2.93161615580044e-05
+Hays_Texas,2.92498306170784e-05
+Whitley_Indiana,2.92086863081487e-05
+Prince William_Virginia,2.90208289379285e-05
+Canadian_Oklahoma,2.89450038510086e-05
+Monroe_Indiana,2.89312845191744e-05
+Marshall_Mississippi,2.87940223134615e-05
+Pickens_Georgia,2.87857781282339e-05
+Dorchester_South Carolina,2.87234998104359e-05
+Silver Bow_Montana,2.87169688807744e-05
+Camden_Missouri,2.87158790410056e-05
+Lonoke_Arkansas,2.86984875014928e-05
+Kane_Illinois,2.86911934889123e-05
+Wyoming_New York,2.86129397399479e-05
+Newport_Rhode Island,2.85896269895647e-05
+Scott_Missouri,2.85089223537821e-05
+Preston_West Virginia,2.85067083207898e-05
+Sullivan_New York,2.8375031291466e-05
+Northampton_Pennsylvania,2.83610772018208e-05
+Bennington_Vermont,2.83274204602799e-05
+Independence_Arkansas,2.82920425158922e-05
+Bexar_Texas,2.82006213334234e-05
+Bucks_Pennsylvania,2.81991470409143e-05
+Lake_Indiana,2.81938159754974e-05
+Lehigh_Pennsylvania,2.80708713511086e-05
+Ventura_California,2.80571672921519e-05
+Hancock_Ohio,2.80241420492455e-05
+Greenwood_South Carolina,2.7984035747318e-05
+Boone_Arkansas,2.79282091278093e-05
+Tioga_Pennsylvania,2.78958496600048e-05
+Pike_Mississippi,2.78215302469289e-05
+Webb_Texas,2.77709414946301e-05
+Alachua_Florida,2.77150434249859e-05
+Orange_Virginia,2.77097134163868e-05
+Taylor_Texas,2.76989062779107e-05
+York_Pennsylvania,2.76462008673371e-05
+Denton_Texas,2.76316177222581e-05
+Knox_Maine,2.75282963391283e-05
+Hopkins_Texas,2.75199925038486e-05
+Polk_Iowa,2.75140296468204e-05
+Seminole_Florida,2.75039014556429e-05
+Rio Arriba_New Mexico,2.74399373502965e-05
+Summit_Ohio,2.74373362599737e-05
+Florence_South Carolina,2.73833193250035e-05
+Cascade_Montana,2.73435203570602e-05
+Berrien_Michigan,2.72859818724146e-05
+Androscoggin_Maine,2.72459667191374e-05
+Contra Costa_California,2.71275649353018e-05
+Pierce_Wisconsin,2.70631791896972e-05
+Jasper_Iowa,2.6969542130523e-05
+Brown_Ohio,2.69613385557168e-05
+Kent_Michigan,2.68856579218988e-05
+Gaston_North Carolina,2.68269763475182e-05
+Clinton_Illinois,2.67432234819396e-05
+Bernalillo_New Mexico,2.67128285427086e-05
+Montgomery_Tennessee,2.66442292105241e-05
+Boulder_Colorado,2.66212898015752e-05
+Green_Wisconsin,2.65606041029129e-05
+Washington_Oregon,2.65532304290158e-05
+Webster_Missouri,2.6326374182463e-05
+Isle of Wight_Virginia,2.62929593621354e-05
+Wake_North Carolina,2.62067610022076e-05
+Sheboygan_Wisconsin,2.61702011494154e-05
+Polk_Florida,2.61493624022997e-05
+Louisa_Virginia,2.61021161021274e-05
+Paulding_Georgia,2.6083330353419e-05
+Saline_Arkansas,2.58606959506593e-05
+Delaware_Indiana,2.5849919674429e-05
+Chilton_Alabama,2.58485129061423e-05
+Clark_Kentucky,2.57860241228367e-05
+Person_North Carolina,2.5742186566344e-05
+Alexander_North Carolina,2.56747924551046e-05
+Yadkin_North Carolina,2.56357843396382e-05
+Polk_Georgia,2.56277216855212e-05
+Frederick_Maryland,2.55833667848231e-05
+Mower_Minnesota,2.55532357088346e-05
+Comanche_Oklahoma,2.55305910378523e-05
+Dodge_Wisconsin,2.54998616032555e-05
+Macomb_Michigan,2.54572232213716e-05
+Miami-Dade_Florida,2.54475494634856e-05
+Chester_Pennsylvania,2.53616044060212e-05
+Yamhill_Oregon,2.53025079077854e-05
+Warren_Virginia,2.51417303279786e-05
+Limestone_Alabama,2.51016751487069e-05
+Geauga_Ohio,2.50985977430272e-05
+McClain_Oklahoma,2.50893360896105e-05
+Kandiyohi_Minnesota,2.50848742712779e-05
+Lapeer_Michigan,2.50792644893427e-05
+Delaware_Pennsylvania,2.48604281402269e-05
+Flagler_Florida,2.4846933985821e-05
+Clackamas_Oregon,2.47277645338401e-05
+Hamilton_Ohio,2.47234406211531e-05
+Baxter_Arkansas,2.47029851276557e-05
+Hendry_Florida,2.46093115900215e-05
+Shenandoah_Virginia,2.45968717342313e-05
+Johnson_Kansas,2.45859079204624e-05
+Murray_Georgia,2.45482180174945e-05
+Jackson_Missouri,2.45309413010302e-05
+Monroe_Wisconsin,2.45208008812799e-05
+Placer_California,2.44513030278707e-05
+Dauphin_Pennsylvania,2.44396469511364e-05
+Howard_Indiana,2.44295910150281e-05
+Canyon_Idaho,2.43802476801807e-05
+Washington_Maryland,2.42803070625811e-05
+Bibb_Georgia,2.41730215143085e-05
+Charlotte_Florida,2.41375511922056e-05
+Muscogee_Georgia,2.41299691531741e-05
+Davidson_North Carolina,2.4120083850616e-05
+Fairfax_Virginia,2.40770404324376e-05
+Coffee_Georgia,2.4057321867462e-05
+Dubois_Indiana,2.40229648357848e-05
+Weber_Utah,2.39785401259203e-05
+San Joaquin_California,2.39782362291922e-05
+Sullivan_New Hampshire,2.39635203368e-05
+Gloucester_New Jersey,2.37546506713177e-05
+Wagoner_Oklahoma,2.37165773199626e-05
+La Crosse_Wisconsin,2.36735938252796e-05
+Utah_Utah,2.36474969382698e-05
+Fayette_Pennsylvania,2.36357333674483e-05
+Bingham_Idaho,2.35480774972417e-05
+Berkshire_Massachusetts,2.35190236421676e-05
+Tuscarawas_Ohio,2.34741782090231e-05
+Johnson_Wyoming,2.34665014107844e-05
+Dane_Wisconsin,2.34604272948955e-05
+Mono_California,2.34359994734299e-05
+Nueces_Texas,2.34124685041785e-05
+Tulsa_Oklahoma,2.34005544354726e-05
+Ector_Texas,2.33125856575448e-05
+Beltrami_Minnesota,2.32469315178338e-05
+Yellowstone_Montana,2.31774514053489e-05
+Marquette_Michigan,2.31486556767942e-05
+Collin_Texas,2.31003076548241e-05
+Licking_Ohio,2.30857926028243e-05
+Flathead_Montana,2.30801794882837e-05
+Frederick_Virginia,2.30039101190078e-05
+Fort Bend_Texas,2.29760526883269e-05
+Aiken_South Carolina,2.29286678064048e-05
+Racine_Wisconsin,2.28990589930602e-05
+Mecosta_Michigan,2.28917559017486e-05
+Rogers_Oklahoma,2.27930011645348e-05
+Gibson_Tennessee,2.27350949286929e-05
+Hancock_Mississippi,2.26652971644633e-05
+Spartanburg_South Carolina,2.26384472200365e-05
+Douglas_Nebraska,2.26224874173203e-05
+Manatee_Florida,2.25617834606971e-05
+Beaufort_North Carolina,2.23917584909628e-05
+Orange_California,2.22140433259861e-05
+Buchanan_Missouri,2.21671501214286e-05
+Island_Washington,2.20966392177708e-05
+Kenai Peninsula Borough_Alaska,2.20906181600857e-05
+Hamilton_Tennessee,2.19871019625826e-05
+Sedgwick_Kansas,2.18999487223638e-05
+Rankin_Mississippi,2.18833579626494e-05
+Jackson_Alabama,2.1878186510828e-05
+Vance_North Carolina,2.18556537705725e-05
+Washtenaw_Michigan,2.18242274152863e-05
+Mahoning_Ohio,2.17607383465125e-05
+Whiteside_Illinois,2.16852255924448e-05
+Pottawattamie_Iowa,2.15986781065461e-05
+Montgomery_Texas,2.15911514779885e-05
+Moore_North Carolina,2.15250608866108e-05
+Benton_Oregon,2.15031765245565e-05
+Okaloosa_Florida,2.14976434331742e-05
+Camden_New Jersey,2.14610049100068e-05
+Johnson_Iowa,2.14296301367893e-05
+Whitfield_Georgia,2.14149539771573e-05
+Clark_Washington,2.1414249789394e-05
+Grant_Wisconsin,2.13517723720318e-05
+DuPage_Illinois,2.13242178045503e-05
+Madison_Kentucky,2.1313476695738e-05
+Honolulu_Hawaii,2.12863391365153e-05
+Mobile_Alabama,2.12304588851179e-05
+Craighead_Arkansas,2.11994581002003e-05
+Otero_New Mexico,2.11693757939972e-05
+Kennebec_Maine,2.10513549231262e-05
+Shelby_Ohio,2.09345415568082e-05
+Bell_Texas,2.09247392025834e-05
+Ozaukee_Wisconsin,2.08877950521198e-05
+Lafayette_Mississippi,2.08687031827419e-05
+Rock Island_Illinois,2.08672770022493e-05
+Mercer_New Jersey,2.08046453775166e-05
+Fresno_California,2.07676581715914e-05
+Grand Forks_North Dakota,2.07054870367381e-05
+Albemarle_Virginia,2.06988677072528e-05
+San Mateo_California,2.06777651396257e-05
+Harnett_North Carolina,2.06630545897904e-05
+Glades_Florida,2.04325176424407e-05
+Etowah_Alabama,2.04150285939111e-05
+Lycoming_Pennsylvania,2.04081192667716e-05
+Sarasota_Florida,2.03462968756227e-05
+Chippewa_Wisconsin,2.01564215695601e-05
+Bedford_Tennessee,2.01464361317253e-05
+Hancock_Maine,2.01194565986157e-05
+Ohio_West Virginia,2.01028745807203e-05
+Wayne_Ohio,2.00924015975072e-05
+Washington_Oklahoma,2.00636476809408e-05
+Cleveland_Oklahoma,1.99511882431269e-05
+Davis_Utah,1.98485910657795e-05
+Thurston_Washington,1.98191932068874e-05
+Volusia_Florida,1.97173944304545e-05
+Henderson_North Carolina,1.96642571151415e-05
+Summit_Utah,1.96455957852877e-05
+Weld_Colorado,1.95999950165577e-05
+Greene_Ohio,1.95064829074332e-05
+Multnomah_Oregon,1.94886619016909e-05
+Wilson_Texas,1.93821953151178e-05
+Lincoln_Oregon,1.93451990642841e-05
+Muskogee_Oklahoma,1.91373701180673e-05
+Allen_Indiana,1.90714220704409e-05
+Montgomery_New York,1.90683898244084e-05
+Westmoreland_Pennsylvania,1.90182777172664e-05
+Pulaski_Missouri,1.89899984095217e-05
+Ontario_New York,1.89871694933657e-05
+Sussex_New Jersey,1.89114061429513e-05
+Vigo_Indiana,1.88099642608446e-05
+Johnston_North Carolina,1.87955593980539e-05
+Livingston_New York,1.87372150615251e-05
+Madera_California,1.86668166323321e-05
+Citrus_Florida,1.85725210024357e-05
+James City_Virginia,1.84665748969496e-05
+Grundy_Illinois,1.84480331420026e-05
+Washington_Minnesota,1.83488763707807e-05
+Klamath_Oregon,1.83195160774471e-05
+LaPorte_Indiana,1.82038566762277e-05
+Monona_Iowa,1.81363480420851e-05
+Johnson_Missouri,1.80195042599472e-05
+Platte_Missouri,1.78745710088155e-05
+San Luis Obispo_California,1.78740792364255e-05
+Leon_Florida,1.78681697076555e-05
+Montgomery_Alabama,1.78362628568435e-05
+Delaware_Ohio,1.77667417248307e-05
+Missoula_Montana,1.77377480660072e-05
+Jefferson_Tennessee,1.76488515373022e-05
+Alameda_California,1.76474756334856e-05
+Floyd_Indiana,1.76415855446573e-05
+Umatilla_Oregon,1.76395288928596e-05
+Orangeburg_South Carolina,1.76250203733942e-05
+Huron_Ohio,1.76126742878535e-05
+El Dorado_California,1.75777702522568e-05
+Shawnee_Kansas,1.75583785362863e-05
+Newton_Missouri,1.75463608541628e-05
+Washington_Arkansas,1.75442597110257e-05
+Monterey_California,1.7539176670797e-05
+Genesee_New York,1.7488002335379e-05
+Bullitt_Kentucky,1.74704511831874e-05
+Calhoun_South Carolina,1.74598562210498e-05
+Gordon_Georgia,1.74363872943073e-05
+Berkeley_West Virginia,1.73998741821146e-05
+Lowndes_Mississippi,1.73788923820961e-05
+Montgomery_Ohio,1.73621475304395e-05
+Lake_Illinois,1.7340460556393e-05
+Mesa_Colorado,1.73091228828401e-05
+Hoke_North Carolina,1.72761779524179e-05
+Lowndes_Georgia,1.7258620459823e-05
+Napa_California,1.72512290764105e-05
+Howard_Maryland,1.72375479677081e-05
+Lewis and Clark_Montana,1.72308441446201e-05
+New Castle_Delaware,1.72159239297614e-05
+Scott_Kentucky,1.71836105164807e-05
+Monroe_Florida,1.71819055879969e-05
+Lorain_Ohio,1.7175291328212e-05
+Solano_California,1.70718019498468e-05
+Broome_New York,1.70507360222301e-05
+Daviess_Kentucky,1.70034042213636e-05
+Walker_Alabama,1.6985877602658e-05
+Madison_Alabama,1.69582258271832e-05
+Sandusky_Ohio,1.69399224274318e-05
+Dooly_Georgia,1.69227502741422e-05
+McLean_Illinois,1.69120412941727e-05
+Guilford_North Carolina,1.68236076140355e-05
+Teton_Wyoming,1.68193769301562e-05
+Madison_Montana,1.68047629213178e-05
+Douglas_Oregon,1.6793780995523e-05
+Union_North Carolina,1.66828837349895e-05
+Franklin_Indiana,1.65216517836723e-05
+Barry_Michigan,1.64877333799388e-05
+Outagamie_Wisconsin,1.64630425038588e-05
+Harrison_West Virginia,1.64283665367382e-05
+Muscatine_Iowa,1.63714256451559e-05
+Minnehaha_South Dakota,1.63218271426687e-05
+Monona_Iowa,1.62693774093535e-05
+Tarrant_Texas,1.62143819193305e-05
+Washington_Wisconsin,1.61897604088568e-05
+Liberty_Georgia,1.61741426477108e-05
+Laurel_Kentucky,1.61063212777783e-05
+Wood_Ohio,1.60655770794772e-05
+Crow Wing_Minnesota,1.59766972066875e-05
+Crawford_Arkansas,1.59679904525908e-05
+Crisp_Georgia,1.59333760056109e-05
+Lamar_Mississippi,1.58707793027786e-05
+Pulaski_Kentucky,1.5857739354192e-05
+Knox_Ohio,1.58242007771338e-05
+Lincoln_South Dakota,1.57820003389567e-05
+Olmsted_Minnesota,1.56997392506368e-05
+Spalding_Georgia,1.5676796557337e-05
+Hernando_Florida,1.56514975079668e-05
+Yuba_California,1.56214054814828e-05
+Wichita_Texas,1.55599428223295e-05
+Effingham_Georgia,1.5540230850537e-05
+Marion_Florida,1.55223889932944e-05
+Montcalm_Michigan,1.55118720216806e-05
+Bacon_Georgia,1.55083293610261e-05
+Sebastian_Arkansas,1.55059743013807e-05
+Cameron_Texas,1.54944217204273e-05
+Anderson_Tennessee,1.54792121997678e-05
+Wayne_Indiana,1.54421315623021e-05
+Saratoga_New York,1.53775213338995e-05
+Fulton_Georgia,1.53561874005858e-05
+Hennepin_Minnesota,1.53552174238124e-05
+Columbia_Pennsylvania,1.53318715610829e-05
+Belmont_Ohio,1.53033480716981e-05
+Pope_Arkansas,1.52821279057415e-05
+Marion_Ohio,1.52512080017911e-05
+Horry_South Carolina,1.51769841891551e-05
+Champaign_Illinois,1.5103415599196e-05
+Scott_Iowa,1.50338373867048e-05
+Warren_Kentucky,1.50251007780055e-05
+Pulaski_Arkansas,1.50182468744818e-05
+Wasatch_Utah,1.49695470026409e-05
+New London_Connecticut,1.49467711503894e-05
+Vermilion_Illinois,1.49313034152757e-05
+Santa Cruz_California,1.48543124638702e-05
+Fauquier_Virginia,1.48439636455542e-05
+Centre_Pennsylvania,1.47943401386883e-05
+Jefferson_New York,1.47725907087718e-05
+McCracken_Kentucky,1.47306804184305e-05
+Sarpy_Nebraska,1.46498512109618e-05
+Christian_Kentucky,1.46221468643739e-05
+Butler_Ohio,1.45924176594673e-05
+Comal_Texas,1.44874520527045e-05
+Isabella_Michigan,1.44541837512794e-05
+Talladega_Alabama,1.43073431315698e-05
+Augusta_Virginia,1.41901548807027e-05
+Bartow_Georgia,1.4182175953198e-05
+Jefferson_Kentucky,1.40742865433473e-05
+DeSoto_Florida,1.40197358120452e-05
+Linn_Oregon,1.39650991564041e-05
+Oswego_New York,1.38804562454075e-05
+Stevens_Kansas,1.37684074437336e-05
+Bulloch_Georgia,1.37658251107713e-05
+Catoosa_Georgia,1.37489463527906e-05
+Snohomish_Washington,1.36710874676569e-05
+Guadalupe_Texas,1.36605219544298e-05
+Cheshire_New Hampshire,1.35344994956838e-05
+Tuscola_Michigan,1.34972864747921e-05
+Brazoria_Texas,1.34444832400489e-05
+Twin Falls_Idaho,1.34426131716867e-05
+Lane_Oregon,1.34104770489869e-05
+Bay_Florida,1.32666556397287e-05
+Catron_New Mexico,1.3232510153696e-05
+Ross_Ohio,1.3205498401735e-05
+Montour_Pennsylvania,1.3159420733698e-05
+Oconee_South Carolina,1.31255936958645e-05
+Providence_Rhode Island,1.31214613669965e-05
+Franklin_Washington,1.27209176070664e-05
+Clark_Arkansas,1.26868989454844e-05
+Lee_Mississippi,1.26742143349169e-05
+Ulster_New York,1.26454114550102e-05
+Kosciusko_Indiana,1.26223136372969e-05
+Jefferson_Colorado,1.26187150639709e-05
+Carbon_Pennsylvania,1.25089156969337e-05
+Washington_Rhode Island,1.24999320094226e-05
+Midland_Michigan,1.24591935966221e-05
+Carroll_Maryland,1.23078695665566e-05
+Kendall_Illinois,1.22943985519911e-05
+Wilcox_Georgia,1.22892352012814e-05
+Ottawa_Michigan,1.22769869090993e-05
+Payne_Oklahoma,1.22426767807452e-05
+Tulare_California,1.22258351028664e-05
+Hunterdon_New Jersey,1.21404665232342e-05
+Rockdale_Georgia,1.21144516979022e-05
+Jefferson_Wisconsin,1.20884861639046e-05
+Clay_Missouri,1.19445015951377e-05
+Hartford_Connecticut,1.19166126864027e-05
+Prince George's_Maryland,1.19018826783588e-05
+Lake_Ohio,1.18636775828669e-05
+Hidalgo_Texas,1.17871786033672e-05
+Angelina_Texas,1.17784092654344e-05
+Burleigh_North Dakota,1.17451183766818e-05
+Sutter_California,1.16066970819161e-05
+Allegan_Michigan,1.15965667949164e-05
+DeKalb_Georgia,1.15530076968457e-05
+Lincoln_North Carolina,1.15420418996105e-05
+Hunt_Texas,1.15259408262958e-05
+Sherburne_Minnesota,1.14591918135251e-05
+Stark_Ohio,1.14279360860626e-05
+Madison_Illinois,1.13728964722851e-05
+Bannock_Idaho,1.13096925818837e-05
+New Hanover_North Carolina,1.13043384327008e-05
+Custer_Idaho,1.13005139602035e-05
+Humboldt_Nevada,1.12253129519644e-05
+Chautauqua_New York,1.11984199701393e-05
+Montgomery_Mississippi,1.09591809921605e-05
+Eagle_Colorado,1.09532651440642e-05
+Barnstable_Massachusetts,1.09300481824699e-05
+Summit_Colorado,1.085254380428e-05
+Campbell_Kentucky,1.07506991744729e-05
+Marion_South Carolina,1.0741227005221e-05
+Lebanon_Pennsylvania,1.06980981535166e-05
+Pike_Pennsylvania,1.06821746672033e-05
+Lackawanna_Pennsylvania,1.06700600823645e-05
+Monroe_New York,1.06681093306428e-05
+Ketchikan Gateway Borough_Alaska,1.06200811751067e-05
+Ketchikan Gateway Borough_Alaska,1.06200811751067e-05
+Craven_North Carolina,1.05404974681001e-05
+Cecil_Maryland,1.05279176324169e-05
+Hall_Texas,1.04135003826809e-05
+DeKalb_Illinois,1.04004752037077e-05
+King_Washington,1.03926827504052e-05
+Windham_Connecticut,1.03221753945179e-05
+Eau Claire_Wisconsin,1.02891198806019e-05
+Lynn_Texas,1.02666056718463e-05
+Lancaster_South Carolina,1.02230119967031e-05
+Cleveland_North Carolina,1.02154563388262e-05
+Stanislaus_California,1.01978236509813e-05
+LaSalle_Illinois,1.01871090166968e-05
+Arapahoe_Colorado,1.0143855544534e-05
+Ramsey_Minnesota,1.01118146471305e-05
+Tom Green_Texas,1.00230931583305e-05
+Williams_North Dakota,1.00030950706574e-05
+Tunica_Mississippi,9.87399311919084e-06
+Brazos_Texas,9.87136797204905e-06
+San Mateo_California,9.86113894075841e-06
+Morgan_Alabama,9.85882234573155e-06
+Hardin_Kentucky,9.837389860373e-06
+Allen_Ohio,9.81984515824002e-06
+Mercer_Pennsylvania,9.70991362360875e-06
+Fayette_Kentucky,9.70040092749337e-06
+Jackson_Mississippi,9.59042015576068e-06
+Adams_Pennsylvania,9.55726747517917e-06
+Marin_California,9.39352805012235e-06
+Forsyth_North Carolina,9.38235805057676e-06
+Roanoke_Virginia,9.38150033570619e-06
+Morgan_Illinois,9.36026006562681e-06
+Keokuk_Iowa,9.35894673496353e-06
+Chautauqua_Kansas,9.34372713214001e-06
+Bradley_Tennessee,9.32786945817381e-06
+Williamson_Texas,9.31018699037865e-06
+Davidson_Tennessee,9.30588054076123e-06
+Shelby_Alabama,9.21472660803457e-06
+Toole_Montana,9.20135666212066e-06
+Robeson_North Carolina,9.19754076217208e-06
+Brown_Ohio,9.18966827963421e-06
+Grayson_Texas,9.17669122146841e-06
+Hanover_Virginia,9.15211707456771e-06
+Hopkins_Kentucky,9.14067578710349e-06
+Cumberland_North Carolina,9.06403631597972e-06
+Cassia_Idaho,9.06359442913961e-06
+Douglas_Kansas,9.00359692703661e-06
+Herkimer_New York,8.95350231189789e-06
+Cassia_Idaho,8.91209029733066e-06
+Columbia_New York,8.85299617226223e-06
+Richland_Ohio,8.84168546813863e-06
+Rockwall_Texas,8.82152029695876e-06
+Montgomery_Mississippi,8.81718181107759e-06
+Brevard_Florida,8.70017936293412e-06
+Pickens_South Carolina,8.65436447418849e-06
+Worcester_Massachusetts,8.65300136353068e-06
+Panola_Mississippi,8.62087635270243e-06
+Marathon_Wisconsin,8.60671948620987e-06
+Morton_North Dakota,8.58230294886154e-06
+Irwin_Georgia,8.57106602212943e-06
+Irwin_Georgia,8.57106602212943e-06
+Yolo_California,8.46569551747523e-06
+Lincoln_Nebraska,8.44403350797803e-06
+Cuyahoga_Ohio,8.38293040477428e-06
+Buncombe_North Carolina,8.37075579171742e-06
+McKenzie_North Dakota,8.27403935314965e-06
+Lee_Florida,8.253226673794e-06
+Adams_Colorado,8.20996478146947e-06
+Snyder_Pennsylvania,8.20118897875273e-06
+Love_Oklahoma,8.16171968172794e-06
+Fairfield_Ohio,8.15863209833333e-06
+Montgomery_Pennsylvania,8.11615380843232e-06
+Black Hawk_Iowa,8.10079071991635e-06
+Morgan_Indiana,8.04437939039514e-06
+Waukesha_Wisconsin,8.04266847432468e-06
+Muhlenberg_Kentucky,8.02759076573314e-06
+Wilkinson_Georgia,7.98224640614441e-06
+Cobb_Georgia,7.89566762447268e-06
+Nez Perce_Idaho,7.89354994989898e-06
+Cache_Utah,7.86496399590859e-06
+Hampshire_Massachusetts,7.80655634600646e-06
+Kings_California,7.73006773810883e-06
+Brunswick_North Carolina,7.72896055052786e-06
+Brown_Wisconsin,7.65430181948866e-06
+Randolph_North Carolina,7.6281308850323e-06
+Johnson_Indiana,7.62005850331529e-06
+Spotsylvania_Virginia,7.61083473208661e-06
+Onslow_North Carolina,7.58735600779532e-06
+Carroll_Georgia,7.56414322621635e-06
+Kenton_Kentucky,7.4906942686033e-06
+Winnebago_Illinois,7.44653823147871e-06
+Randolph_Georgia,7.44634921839978e-06
+York_South Carolina,7.42477348569023e-06
+Wyoming_New York,7.39243612915843e-06
+Darke_Ohio,7.39213408778976e-06
+Will_Illinois,7.38839323246152e-06
+Tuscaloosa_Alabama,7.36877376959941e-06
+Lancaster_Pennsylvania,7.35947380538413e-06
+Arlington_Virginia,7.33772658763937e-06
+Warren_Indiana,7.32362520301934e-06
+Whiteside_Illinois,7.24756103649081e-06
+Cass_Michigan,7.14402270651017e-06
+Deer Lodge_Montana,7.05177349307854e-06
+Palm Beach_Florida,7.04243021161495e-06
+Clark_Nevada,7.00178240075064e-06
+Catawba_North Carolina,6.92994854320613e-06
+Torrance_New Mexico,6.86249406878118e-06
+Rock_Wisconsin,6.85997440305118e-06
+Benton_Oregon,6.8549798852798e-06
+Clarendon_South Carolina,6.84920016313588e-06
+Crawford_Kansas,6.83900559245723e-06
+Martin_Florida,6.8288330759629e-06
+Baldwin_Alabama,6.82532955448768e-06
+Tolland_Connecticut,6.79156590047095e-06
+Northampton_North Carolina,6.75005269818572e-06
+Beaver_Pennsylvania,6.72531787047063e-06
+Adams_Idaho,6.70830427829491e-06
+Carter_Missouri,6.69523327293216e-06
+Taylor_Georgia,6.69441843242084e-06
+Van Buren_Iowa,6.68223853303084e-06
+Ada_Idaho,6.65439699239755e-06
+Cherokee_North Carolina,6.64308087000485e-06
+Barrow_Georgia,6.6101742804687e-06
+Wheeler_Georgia,6.60652068114356e-06
+Wheeler_Georgia,6.60652068114356e-06
+Bexar_Texas,6.58995041474078e-06
+Buckingham_Virginia,6.52170424627367e-06
+Talbot_Georgia,6.49739443285629e-06
+Elkhart_Indiana,6.49289439045115e-06
+Wilkinson_Mississippi,6.49013250700601e-06
+Hall_Georgia,6.4667865910137e-06
+Wirt_West Virginia,6.43356937590707e-06
+Wirt_West Virginia,6.43356937590707e-06
+Box Elder_Utah,6.39376993033893e-06
+Niagara_New York,6.36406984637667e-06
+Los Angeles_California,6.35171606408106e-06
+Amite_Mississippi,6.3417425763379e-06
+Winnebago_Wisconsin,6.30038032607514e-06
+Tooele_Utah,6.17592987872162e-06
+Snyder_Pennsylvania,6.15279192709497e-06
+Stark_North Dakota,6.0951984363789e-06
+Chittenden_Vermont,6.09233508892841e-06
+Trousdale_Tennessee,6.01389976461884e-06
+Kit Carson_Colorado,6.00383014339913e-06
+Atlantic_New Jersey,5.9520119463764e-06
+Vanderburgh_Indiana,5.93892405048363e-06
+Marion_South Carolina,5.93200964385927e-06
+Jackson_Oregon,5.93134565666608e-06
+Gunnison_Colorado,5.9034353509504e-06
+El Paso_Colorado,5.84238504069091e-06
+Reynolds_Missouri,5.83418700051547e-06
+Lauderdale_Mississippi,5.80302290745173e-06
+Sangamon_Illinois,5.78004297001095e-06
+Bristol_Rhode Island,5.77471752232844e-06
+Luce_Michigan,5.76224832119087e-06
+Lawrence_Pennsylvania,5.73688449949407e-06
+Erie_Pennsylvania,5.71132588488938e-06
+Campbell_Wyoming,5.69230642303552e-06
+York_Maine,5.65668748548019e-06
+Floyd_Georgia,5.65482337586913e-06
+Glades_Florida,5.6543259105387e-06
+Richmond_Georgia,5.62308783784707e-06
+Bristol_Massachusetts,5.61679862142913e-06
+Buffalo_Nebraska,5.61232571964821e-06
+Crittenden_Arkansas,5.58877205328009e-06
+Watonwan_Minnesota,5.54537672249552e-06
+Fayette_Georgia,5.54366082072342e-06
+Fairbanks North Star Borough_Alaska,5.5387384999424e-06
+Manatee_Florida,5.53705270581543e-06
+Washoe_Nevada,5.47798653131968e-06
+King and Queen_Virginia,5.46605692813099e-06
+Clearwater_Minnesota,5.46598313469292e-06
+Madison_Georgia,5.4327026398948e-06
+Choctaw_Mississippi,5.4286571815044e-06
+Clermont_Ohio,5.42741770954516e-06
+Miller_Georgia,5.41342347697694e-06
+Harrison_Mississippi,5.40094608624359e-06
+Berkeley_South Carolina,5.38828906213726e-06
+Nantucket_Massachusetts,5.3794326051935e-06
+Nantucket_Massachusetts,5.3794326051935e-06
+Johnson_Georgia,5.36771634351284e-06
+El Paso_Texas,5.32463258924862e-06
+Milwaukee_Wisconsin,5.27919965148138e-06
+Houston_Georgia,5.26653982101833e-06
+Lafayette_Mississippi,5.23822023062085e-06
+Rensselaer_New York,5.21429258437678e-06
+Schoolcraft_Michigan,5.16321614644881e-06
+Canadian_Oklahoma,5.1412003713292e-06
+Benton_Iowa,5.13976315597764e-06
+Riverside_California,5.09631875042713e-06
+Kershaw_South Carolina,5.06165106151759e-06
+Inyo_California,5.04815858585643e-06
+Inyo_California,5.04815858585643e-06
+Anoka_Minnesota,4.99835669723047e-06
+Warren_Ohio,4.98798890907025e-06
+Pinellas_Florida,4.98473461201153e-06
+Kemper_Mississippi,4.97590708105153e-06
+Kemper_Mississippi,4.97590708105153e-06
+Van Buren_Iowa,4.96443896686361e-06
+Cotton_Oklahoma,4.95193836245992e-06
+Montgomery_Maryland,4.93237826289883e-06
+Chester_Pennsylvania,4.91126118144831e-06
+Merced_California,4.90750614372806e-06
+Broadwater_Montana,4.89992049813774e-06
+Broadwater_Montana,4.89992049813774e-06
+Greene_New York,4.88493542629019e-06
+Dauphin_Pennsylvania,4.8827879762357e-06
+Rabun_Georgia,4.83627921988393e-06
+Marquette_Wisconsin,4.80610899947163e-06
+Burlington_New Jersey,4.80137996150061e-06
+Warren_New Jersey,4.79980941927357e-06
+Miami_Ohio,4.75169397916716e-06
+Seminole_Georgia,4.68423192831032e-06
+Mono_California,4.64538250721787e-06
+Saguache_Colorado,4.62413179159911e-06
+Kennebec_Maine,4.59711096935077e-06
+Dakota_Minnesota,4.57766859055452e-06
+Clearwater_Minnesota,4.57445309239307e-06
+Weber_Utah,4.5475029182615e-06
+Delaware_New York,4.5007874209731e-06
+Aiken_South Carolina,4.4939336698939e-06
+Morgan_Utah,4.46893259162296e-06
+Genesee_Michigan,4.42286770450667e-06
+Martin_Minnesota,4.41533678910304e-06
+San Bernardino_California,4.38770976918703e-06
+Beaufort_South Carolina,4.35761236557884e-06
+Boulder_Colorado,4.31847487821974e-06
+Nowata_Oklahoma,4.3065157353612e-06
+Benton_Mississippi,4.30248030400683e-06
+Benton_Mississippi,4.30248030400683e-06
+Elko_Nevada,4.29942966220268e-06
+Surry_Virginia,4.29224948617526e-06
+Van Buren_Arkansas,4.28076556937726e-06
+Seneca_Ohio,4.27359601807085e-06
+Pasco_Florida,4.25085359236334e-06
+Webster_Georgia,4.22959196722287e-06
+Johnson_Kansas,4.21322862617032e-06
+Harford_Maryland,4.20541799206793e-06
+Winona_Minnesota,4.20313513780572e-06
+San Juan_Utah,4.17147630819326e-06
+San Juan_Utah,4.17147630819326e-06
+Rockingham_New Hampshire,4.1691706916824e-06
+Oklahoma_Oklahoma,4.14475434283613e-06
+Chicot_Arkansas,4.1118534729241e-06
+Chicot_Arkansas,4.1118534729241e-06
+Washington_Georgia,4.09157681063685e-06
+Tompkins_New York,4.08493085637381e-06
+Coahoma_Mississippi,4.0218207009562e-06
+Harrison_Missouri,3.9918336771414e-06
+Elmore_Idaho,3.95572241176525e-06
+Burke_Georgia,3.92385791175275e-06
+Navajo_Arizona,3.9196504756164e-06
+Webster_Mississippi,3.91581560009374e-06
+Lee_Arkansas,3.88484013305843e-06
+Coconino_Arizona,3.87179242902404e-06
+Clay_South Dakota,3.86791591913854e-06
+Trousdale_Tennessee,3.83857890829063e-06
+Larimer_Colorado,3.82397086339904e-06
+Webster_Mississippi,3.8166376403934e-06
+Garvin_Oklahoma,3.80179961892566e-06
+Oscoda_Michigan,3.79971836415976e-06
+Woodson_Kansas,3.78276134015192e-06
+Napa_California,3.74808619862577e-06
+Wagoner_Oklahoma,3.7418669618458e-06
+Yellow Medicine_Minnesota,3.71461016737564e-06
+Linn_Iowa,3.69353745720665e-06
+Sarasota_Florida,3.68100880053203e-06
+Sussex_Virginia,3.68077158659186e-06
+Wallowa_Oregon,3.65600571579301e-06
+Claiborne_Mississippi,3.65259981314863e-06
+Claiborne_Mississippi,3.65259981314863e-06
+Cass_Michigan,3.64754305014606e-06
+Kay_Oklahoma,3.64497815135871e-06
+Madison_New York,3.63989710192023e-06
+Kalamazoo_Michigan,3.62452566008674e-06
+Blount_Tennessee,3.5966989808937e-06
+Greene_Ohio,3.59585191918926e-06
+Pueblo_Colorado,3.5855693824183e-06
+Choctaw_Mississippi,3.56912200722899e-06
+Mitchell_Iowa,3.54931280000001e-06
+Hamlin_South Dakota,3.52196856341498e-06
+Hamlin_South Dakota,3.52196856341498e-06
+Laramie_Wyoming,3.51472715094598e-06
+Humboldt_Nevada,3.49147924380214e-06
+Mathews_Virginia,3.48523145018381e-06
+Mathews_Virginia,3.48523145018381e-06
+Garfield_Utah,3.47917386246089e-06
+Garfield_Utah,3.47917386246089e-06
+Webb_Texas,3.45321234067843e-06
+Yamhill_Oregon,3.44108181231101e-06
+Ventura_California,3.41251837341096e-06
+Audubon_Iowa,3.38411655328771e-06
+Knox_Tennessee,3.37821011366142e-06
+Charles_Maryland,3.35562575875845e-06
+Jefferson_Arkansas,3.33452643959826e-06
+Saginaw_Michigan,3.32886630595478e-06
+Turner_Georgia,3.32813683395721e-06
+Simpson_Kentucky,3.31916341443388e-06
+Lincoln_Idaho,3.31653475161683e-06
+Clark_Arkansas,3.3105732596864e-06
+Buffalo_Nebraska,3.3068984165952e-06
+Athens_Ohio,3.25961871131811e-06
+Chickasaw_Mississippi,3.24137008012303e-06
+Kankakee_Illinois,3.21146679610407e-06
+Luce_Michigan,3.196472937962e-06
+Pickaway_Ohio,3.15521513119348e-06
+Botetourt_Virginia,3.14901154947376e-06
+Meeker_Minnesota,3.14749012444461e-06
+Erie_New York,3.12808773715896e-06
+Livingston_Michigan,3.11826727412555e-06
+Castro_Texas,3.11427955627139e-06
+Castro_Texas,3.11427955627139e-06
+Gallatin_Montana,3.08340499068262e-06
+Cherokee_Georgia,3.07388280172034e-06
+Carbon_Montana,3.07007246668702e-06
+Alleghany_North Carolina,2.99923547718899e-06
+Shelby_Iowa,2.9816073668392e-06
+Pratt_Kansas,2.97717438214832e-06
+Fort Bend_Texas,2.97515580271294e-06
+Denton_Texas,2.96826901574137e-06
+Perry_Missouri,2.96258722860013e-06
+Wilcox_Alabama,2.96189321400379e-06
+Allendale_South Carolina,2.95950542041555e-06
+Washington_Nebraska,2.95397444099777e-06
+Pitkin_Colorado,2.93225300307276e-06
+Lake_Colorado,2.92814323658206e-06
+Quitman_Mississippi,2.92232679201778e-06
+Mackinac_Michigan,2.91433411648873e-06
+McLean_Illinois,2.90595622315485e-06
+San Francisco_California,2.90106629993671e-06
+Stewart_Georgia,2.88708393628962e-06
+San Joaquin_California,2.86670602900495e-06
+Clay_Tennessee,2.85241339060054e-06
+Gooding_Idaho,2.84672047373072e-06
+Gem_Idaho,2.78124810060875e-06
+Franklin_Ohio,2.77516710476699e-06
+Lubbock_Texas,2.75456911439631e-06
+Watonwan_Minnesota,2.74853464498897e-06
+Malheur_Oregon,2.74018098880946e-06
+Deer Lodge_Montana,2.7383520488808e-06
+Linn_Kansas,2.73655197810313e-06
+Linn_Kansas,2.73655197810313e-06
+Glynn_Georgia,2.73263856990701e-06
+Edmonson_Kentucky,2.71877635491848e-06
+Sublette_Wyoming,2.71728392464386e-06
+Sublette_Wyoming,2.71728392464386e-06
+Ellis_Texas,2.69830923321847e-06
+Christian_Illinois,2.68835859524513e-06
+Holmes_Mississippi,2.67979311820786e-06
+Park_Montana,2.67569727243664e-06
+Bullock_Alabama,2.66915222314184e-06
+Bullock_Alabama,2.66915222314184e-06
+Carroll_Mississippi,2.65004048002688e-06
+Carroll_Mississippi,2.65004048002688e-06
+Morgan_Utah,2.61068352526754e-06
+Kingsbury_South Dakota,2.59361397590868e-06
+Guilford_North Carolina,2.58354094733655e-06
+Stone_Arkansas,2.57196315073777e-06
+Grundy_Tennessee,2.55812228261539e-06
+Montgomery_Alabama,2.53385803939128e-06
+Clarke_Mississippi,2.5290558638849e-06
+Clarke_Virginia,2.51583164953272e-06
+Maries_Missouri,2.50977905556995e-06
+Newton_Arkansas,2.50947908479309e-06
+Owyhee_Idaho,2.50552900670428e-06
+Owyhee_Idaho,2.50552900670428e-06
+Sheridan_Wyoming,2.50466739358081e-06
+Teller_Colorado,2.49560980453711e-06
+Wabasha_Minnesota,2.48890986625033e-06
+Johnson_Georgia,2.48531921652219e-06
+Cleburne_Arkansas,2.47492062799862e-06
+Wyandotte_Kansas,2.46938744188127e-06
+Perry_Tennessee,2.46669890435323e-06
+Perry_Tennessee,2.46669890435323e-06
+Arkansas_Arkansas,2.45022370386721e-06
+Twiggs_Georgia,2.42547784876392e-06
+Twiggs_Georgia,2.42547784876392e-06
+Greensville_Virginia,2.41775630363461e-06
+Scott_Arkansas,2.41770008143382e-06
+Codington_South Dakota,2.41359701949055e-06
+Orange_California,2.40429673862918e-06
+Lincoln_Maine,2.3937179665996e-06
+San Augustine_Texas,2.39038214965177e-06
+Fond du Lac_Wisconsin,2.3817925884707e-06
+Yoakum_Texas,2.36033436304722e-06
+Yoakum_Texas,2.36033436304722e-06
+Cole_Missouri,2.35692081384827e-06
+Henry_Georgia,2.33463058659755e-06
+Mountrail_North Dakota,2.31546696075133e-06
+Le Sueur_Minnesota,2.31435141179503e-06
+Greene_Alabama,2.3126972195034e-06
+Greene_Alabama,2.3126972195034e-06
+Stone_Arkansas,2.30654681412797e-06
+Montrose_Colorado,2.30328153050055e-06
+Leflore_Mississippi,2.30052626604938e-06
+Grant_New Mexico,2.28716339199079e-06
+Madison_Indiana,2.27806272088636e-06
+DeSoto_Florida,2.2775686888612e-06
+Caldwell_Missouri,2.27097174742563e-06
+Gwinnett_Georgia,2.25692149829801e-06
+Berks_Pennsylvania,2.22572465952988e-06
+Moffat_Colorado,2.22172664201182e-06
+San Diego_California,2.21831847058378e-06
+Washington_Mississippi,2.20423516807234e-06
+Bernalillo_New Mexico,2.18422603184518e-06
+Taylor_Georgia,2.16292143395372e-06
+Stevens_Kansas,2.16058996035826e-06
+Antelope_Nebraska,2.15183058277836e-06
+Hancock_Kentucky,2.1476377648619e-06
+Lanier_Georgia,2.1463359810867e-06
+New London_Connecticut,2.14136522280309e-06
+Hendricks_Indiana,2.13943602857224e-06
+Plumas_California,2.11947622057396e-06
+McLennan_Texas,2.11711921023079e-06
+Polk_Florida,2.11205948362706e-06
+Monterey_California,2.11184493086737e-06
+Hillsborough_Florida,2.10548677740658e-06
+Newton_Georgia,2.1031404581745e-06
+Anne Arundel_Maryland,2.09437061119221e-06
+Bradley_Arkansas,2.09294352867696e-06
+Bradley_Arkansas,2.09294352867696e-06
+Buffalo_Wisconsin,2.08503745558409e-06
+Pierce_North Dakota,2.06118883297388e-06
+Pierce_North Dakota,2.06118883297388e-06
+Clay_South Dakota,2.04537061831753e-06
+Otsego_Michigan,2.04114376236931e-06
+Allen_Indiana,2.03462689443106e-06
+Crawford_Iowa,2.02279669234266e-06
+Alpine_California,2.02140915586441e-06
+Cedar_Missouri,2.01067359462809e-06
+Muskogee_Oklahoma,2.00450269511073e-06
+Douglas_Colorado,2.00417869652072e-06
+Loudoun_Virginia,2.00291291759826e-06
+Juniata_Pennsylvania,2.00104124244717e-06
+DeKalb_Missouri,1.99777672195625e-06
+Guthrie_Iowa,1.99216472446073e-06
+Montgomery_North Carolina,1.98417535971001e-06
+Decatur_Georgia,1.96976302500331e-06
+Kenosha_Wisconsin,1.963782849915e-06
+Hancock_Indiana,1.9556699658206e-06
+Union_Arkansas,1.95124991524606e-06
+Putnam_Tennessee,1.94700831564011e-06
+Hinds_Mississippi,1.93939346535566e-06
+Martin_North Carolina,1.93939262443079e-06
+Crawford_Iowa,1.93925344940343e-06
+Park_Montana,1.93763684566025e-06
+Cottonwood_Minnesota,1.93050201602953e-06
+Dickson_Tennessee,1.92820482981778e-06
+Brown_Indiana,1.91119504958048e-06
+Brown_Indiana,1.91119504958048e-06
+McLennan_Texas,1.88781847118995e-06
+Cannon_Tennessee,1.88542761954003e-06
+Hamilton_Nebraska,1.87588310762136e-06
+Hamilton_Nebraska,1.87588310762136e-06
+Rio Grande_Colorado,1.875214249938e-06
+Davie_North Carolina,1.86515673780717e-06
+Seneca_Ohio,1.85784162227993e-06
+Stephens_Oklahoma,1.85540420272058e-06
+Hockley_Texas,1.85350325654705e-06
+Hockley_Texas,1.85350325654705e-06
+Logan_Colorado,1.84647866872717e-06
+Owen_Indiana,1.84410742382661e-06
+Clay_Iowa,1.83876799056364e-06
+Todd_South Dakota,1.83535480779664e-06
+Todd_South Dakota,1.83535480779664e-06
+Cleveland_Arkansas,1.83228667475832e-06
+Cleveland_Arkansas,1.83228667475832e-06
+Cedar_Iowa,1.82403430694201e-06
+Washington_Minnesota,1.82379391063335e-06
+Llano_Texas,1.82376312239266e-06
+Calhoun_Texas,1.82300912019307e-06
+Calhoun_Texas,1.82300912019307e-06
+San Juan_New Mexico,1.82268704718555e-06
+Wilkes_Georgia,1.81854748501061e-06
+Wilkes_Georgia,1.81772245170078e-06
+Chaffee_Colorado,1.81715007202614e-06
+Salt Lake_Utah,1.80700943609751e-06
+Wasco_Oregon,1.80377720758399e-06
+Franklin_Kansas,1.8015600854036e-06
+Mercer_North Dakota,1.79986547710769e-06
+Cuming_Nebraska,1.79121839729807e-06
+Cotton_Oklahoma,1.79113050592828e-06
+Tama_Iowa,1.78842142567494e-06
+Noxubee_Mississippi,1.78601668519884e-06
+Kent_Maryland,1.77957385606969e-06
+Kent_Maryland,1.77957385606969e-06
+Washington_Texas,1.7782231899446e-06
+Grainger_Tennessee,1.77701336549078e-06
+Johnson_Arkansas,1.76876065879444e-06
+Maricopa_Arizona,1.76579467629305e-06
+Coosa_Alabama,1.76161194687563e-06
+Greenlee_Arizona,1.73913454319289e-06
+LaSalle_Illinois,1.729413175232e-06
+Ralls_Missouri,1.72836937707731e-06
+Ralls_Missouri,1.72836937707731e-06
+Bleckley_Georgia,1.72627488046476e-06
+Henry_Indiana,1.71796087543121e-06
+Dallas_Texas,1.71006617485817e-06
+Tippah_Mississippi,1.70301459600676e-06
+Ware_Georgia,1.69800533352839e-06
+Ramsey_Minnesota,1.69720374282148e-06
+Coosa_Alabama,1.68767171295955e-06
+Delaware_Oklahoma,1.68333270650395e-06
+Turner_South Dakota,1.68175872679744e-06
+Turner_South Dakota,1.68175872679744e-06
+Clay_Mississippi,1.68158057806106e-06
+Fairfax_Virginia,1.65445065068862e-06
+Wayne_New York,1.65432966736758e-06
+Clay_Texas,1.65160312921632e-06
+Noxubee_Mississippi,1.64903065253961e-06
+Onslow_North Carolina,1.64704229709599e-06
+Sacramento_California,1.64543079429281e-06
+Swisher_Texas,1.64382135366587e-06
+Swisher_Texas,1.64382135366587e-06
+Warren_Missouri,1.64346490763539e-06
+Benton_Washington,1.63470091250846e-06
+Prince William_Virginia,1.6331772408617e-06
+Dodge_Minnesota,1.61242125176564e-06
+Cape May_New Jersey,1.6120213057261e-06
+Arkansas_Arkansas,1.61184604154314e-06
+Jennings_Indiana,1.60945025022527e-06
+Oconee_Georgia,1.60937913701147e-06
+Yalobusha_Mississippi,1.60076667817184e-06
+Jackson_Georgia,1.58848775572618e-06
+Franklin_Tennessee,1.58118336246569e-06
+Chariton_Missouri,1.57836254969016e-06
+Columbia_Georgia,1.57601771790032e-06
+Madison_Florida,1.55742669486581e-06
+Carroll_Kentucky,1.5509240609607e-06
+Meeker_Minnesota,1.54821847442765e-06
+Sunflower_Mississippi,1.54505762723303e-06
+Bullitt_Kentucky,1.53593410502852e-06
+Bradford_Pennsylvania,1.53403295208882e-06
+Bond_Illinois,1.53021053384492e-06
+Orange_Texas,1.50431341849222e-06
+Kent_Rhode Island,1.50412388456492e-06
+Union_Arkansas,1.50305604485984e-06
+Berrien_Georgia,1.49909192909518e-06
+Maries_Missouri,1.49066377922974e-06
+Minidoka_Idaho,1.48619908963277e-06
+Macon_Georgia,1.48520279904725e-06
+Beadle_South Dakota,1.48502093908587e-06
+Beadle_South Dakota,1.48502093908587e-06
+Lawrence_Mississippi,1.46656866125033e-06
+Lawrence_Mississippi,1.46656866125033e-06
+McKinley_New Mexico,1.46396077246423e-06
+Phillips_Colorado,1.46035274927187e-06
+Valencia_New Mexico,1.45627054385744e-06
+Hertford_North Carolina,1.45559755617688e-06
+Santa Rosa_Florida,1.45259432788079e-06
+Tipton_Indiana,1.43637064686442e-06
+Tipton_Indiana,1.43637064686442e-06
+Strafford_New Hampshire,1.42671429061939e-06
+Benton_Washington,1.42387147670628e-06
+Lincoln_Mississippi,1.42371014056476e-06
+Jones_Iowa,1.4209004286839e-06
+Llano_Texas,1.42086266762836e-06
+Massac_Illinois,1.42079554927521e-06
+Harris_Georgia,1.42006605324518e-06
+Albany_Wyoming,1.41224375324025e-06
+Chesterfield_Virginia,1.3921773514332e-06
+Madison_Virginia,1.38806967709908e-06
+Madison_Virginia,1.38806967709908e-06
+King George_Virginia,1.38410593344421e-06
+Baltimore_Maryland,1.37838160093701e-06
+Lincoln_Georgia,1.3764437235704e-06
+Duval_Florida,1.36899258962904e-06
+Klickitat_Washington,1.36614996544713e-06
+Klickitat_Washington,1.36614996544713e-06
+Apache_Arizona,1.36125519186565e-06
+Lake_Ohio,1.35257742374214e-06
+Dearborn_Indiana,1.34568465731514e-06
+Pickens_Alabama,1.34271868674873e-06
+Mecklenburg_North Carolina,1.33975807140076e-06
+Bamberg_South Carolina,1.3353392343107e-06
+Jenkins_Georgia,1.33528718258e-06
+Jenkins_Georgia,1.33528718258e-06
+Switzerland_Indiana,1.32493577305095e-06
+Switzerland_Indiana,1.32493577305095e-06
+Sunflower_Mississippi,1.32450234410516e-06
+Greenlee_Arizona,1.32121259718498e-06
+Northumberland_Virginia,1.31912445274815e-06
+Johnson_Arkansas,1.31729869066533e-06
+White_Indiana,1.31356614156458e-06
+Powell_Kentucky,1.31307328212839e-06
+Clinton_Missouri,1.31195640893871e-06
+McLean_North Dakota,1.31025993192878e-06
+McLean_North Dakota,1.31025993192878e-06
+Galveston_Texas,1.31007795648043e-06
+Leon_Texas,1.30550029290727e-06
+Forsyth_North Carolina,1.30320157602825e-06
+Ogemaw_Michigan,1.29934874519922e-06
+Chambers_Texas,1.29519892723954e-06
+Franklin_Illinois,1.29313287043697e-06
+Clarke_Georgia,1.28940032420169e-06
+Dickinson_Michigan,1.28596239266515e-06
+Pike_Mississippi,1.28522074481087e-06
+Randolph_Indiana,1.28362787207505e-06
+Wilson_North Carolina,1.28204302215786e-06
+Covington_Mississippi,1.27786803434104e-06
+Roane_West Virginia,1.27492983014764e-06
+Henry_Iowa,1.27343228782978e-06
+Henry_Iowa,1.27343228782978e-06
+Contra Costa_California,1.27090603925048e-06
+Shelby_Iowa,1.269670097931e-06
+Hillsborough_New Hampshire,1.26939896641189e-06
+Barton_Kansas,1.26596230464747e-06
+Lincoln_Montana,1.26472072212592e-06
+Isanti_Minnesota,1.26330879467134e-06
+Isanti_Minnesota,1.2594393808667e-06
+Racine_Wisconsin,1.25774142909851e-06
+Ingham_Michigan,1.25336086760083e-06
+Clay_North Carolina,1.2521809682909e-06
+Poinsett_Arkansas,1.25002559462111e-06
+Dodge_Minnesota,1.2489836204679e-06
+Gray_Texas,1.2470027991198e-06
+Kalkaska_Michigan,1.24672267370197e-06
+Camp_Texas,1.24621780357337e-06
+Oktibbeha_Mississippi,1.24364702406296e-06
+Texas_Oklahoma,1.2369246723027e-06
+Texas_Oklahoma,1.2369246723027e-06
+Baldwin_Georgia,1.23004839734318e-06
+Tift_Georgia,1.2256481893647e-06
+Moore_Texas,1.22010484534756e-06
+Van Buren_Michigan,1.21933468815255e-06
+Jackson_Michigan,1.21807849530068e-06
+Austin_Texas,1.21484126908959e-06
+Austin_Texas,1.21484126908959e-06
+Harrison_Iowa,1.21239856317438e-06
+Gladwin_Michigan,1.21205988299866e-06
+Sandoval_New Mexico,1.20824556574455e-06
+Hays_Texas,1.20801545877795e-06
+Hamilton_Indiana,1.1991736433195e-06
+Polk_Texas,1.19593392211627e-06
+Talbot_Maryland,1.19217420996775e-06
+Hardee_Florida,1.18942393402805e-06
+Minidoka_Idaho,1.18514985020499e-06
+Litchfield_Connecticut,1.1819779479664e-06
+Macon_Missouri,1.18150120427393e-06
+Routt_Colorado,1.18101624151762e-06
+White_Indiana,1.17918049715702e-06
+Beckham_Oklahoma,1.1764556028846e-06
+Santa Clara_California,1.17576972662426e-06
+Tillamook_Oregon,1.16987506426017e-06
+Gogebic_Michigan,1.16949472652905e-06
+Cass_North Dakota,1.16714745872045e-06
+Union_South Dakota,1.16238439047035e-06
+Union_South Dakota,1.16238439047035e-06
+Yankton_South Dakota,1.16099761098499e-06
+Lancaster_Virginia,1.15723204035729e-06
+Lancaster_Virginia,1.15723204035729e-06
+Pleasants_West Virginia,1.15680741112666e-06
+Pleasants_West Virginia,1.15680741112666e-06
+Addison_Vermont,1.1566784665291e-06
+Shelby_Alabama,1.15611215445507e-06
+King George_Virginia,1.15391765545897e-06
+La Plata_Colorado,1.14973409252757e-06
+Menifee_Kentucky,1.14907439420259e-06
+Menifee_Kentucky,1.14907439420259e-06
+Divide_North Dakota,1.14873377578083e-06
+Divide_North Dakota,1.14873377578083e-06
+Pawnee_Oklahoma,1.14741173481127e-06
+Pawnee_Oklahoma,1.14741173481127e-06
+Madison_Idaho,1.1458709386803e-06
+Karnes_Texas,1.14548519801522e-06
+Karnes_Texas,1.14548519801522e-06
+Madison_Mississippi,1.14199154467078e-06
+Grant_Arkansas,1.13795418078944e-06
+Grant_Arkansas,1.13795418078944e-06
+Nevada_Arkansas,1.13748266030459e-06
+Nevada_Arkansas,1.13748266030459e-06
+Lincoln_Georgia,1.1372890682248e-06
+Wayne_Kentucky,1.13450125160858e-06
+Calhoun_Alabama,1.13443506589885e-06
+Chatham_North Carolina,1.13408635725323e-06
+Brown_Minnesota,1.13102474805406e-06
+Pike_Alabama,1.13003858242546e-06
+Pike_Alabama,1.13003858242546e-06
+Hamilton_Ohio,1.12507807220978e-06
+Faribault_Minnesota,1.12387735717015e-06
+Sumter_South Carolina,1.12263867746824e-06
+Drew_Arkansas,1.12197058047817e-06
+Drew_Arkansas,1.12197058047817e-06
+Davis_Utah,1.12109205149335e-06
+Tate_Mississippi,1.12003375996037e-06
+Shelby_Missouri,1.11817543031643e-06
+Shelby_Missouri,1.11817543031643e-06
+Newton_Arkansas,1.11733507721742e-06
+Beckham_Oklahoma,1.11509461493024e-06
+Clay_Kansas,1.11479009512151e-06
+Clay_Kansas,1.11479009512151e-06
+Lumpkin_Georgia,1.11478318790747e-06
+Willacy_Texas,1.1137666377308e-06
+Willacy_Texas,1.1137666377308e-06
+Grand_Colorado,1.11278515418695e-06
+Silver Bow_Montana,1.10986906468923e-06
+Butler_Pennsylvania,1.10891581706301e-06
+Marion_Alabama,1.10828125508486e-06
+Tillamook_Oregon,1.10478284193514e-06
+Berrien_Georgia,1.10462029747879e-06
+Dunklin_Missouri,1.09758508580959e-06
+Otero_Colorado,1.09631147306651e-06
+Otero_Colorado,1.09631147306651e-06
+Schuylkill_Pennsylvania,1.09284629513944e-06
+District of Columbia_District of Columbia,1.09247200555222e-06
+Sibley_Minnesota,1.09042172247467e-06
+Sibley_Minnesota,1.09042172247467e-06
+Crawford_Indiana,1.08498164003248e-06
+Crawford_Indiana,1.08498164003248e-06
+Aransas_Texas,1.08473485806194e-06
+Osceola_Florida,1.08280651315887e-06
+Orange_Florida,1.08118064264494e-06
+Wells_Indiana,1.08087916111349e-06
+Hancock_Iowa,1.08081667514645e-06
+Hancock_Iowa,1.08081667514645e-06
+Tate_Mississippi,1.07863890909667e-06
+Honolulu_Hawaii,1.07809940475022e-06
+Arenac_Michigan,1.07794085980342e-06
+Lawrence_South Dakota,1.07414135757652e-06
+Mahnomen_Minnesota,1.07211451198157e-06
+Mahnomen_Minnesota,1.07211451198157e-06
+San Juan_Washington,1.06598578743566e-06
+San Juan_Washington,1.06598578743566e-06
+Nash_North Carolina,1.06485559264538e-06
+Henrico_Virginia,1.06045306334186e-06
+Mercer_North Dakota,1.05808653181241e-06
+Escambia_Florida,1.05681022653642e-06
+San Benito_California,1.0560561209469e-06
+Shiawassee_Michigan,1.05200321993662e-06
+Collier_Florida,1.04950949152045e-06
+Kent_Delaware,1.04939880657346e-06
+Emanuel_Georgia,1.0491990737657e-06
+Moore_Texas,1.04814261701619e-06
+Branch_Michigan,1.04669358162861e-06
+York_Virginia,1.04453278240667e-06
+Hennepin_Minnesota,1.04099508122467e-06
+Lucas_Ohio,1.03930208830303e-06
+Conway_Arkansas,1.03470422356884e-06
+Conway_Arkansas,1.03470422356884e-06
+Lowndes_Alabama,1.03269581822244e-06
+Lowndes_Alabama,1.03269581822244e-06
+Jefferson_Montana,1.03232091978196e-06
+Jefferson_Montana,1.03232091978196e-06
+Scott_Mississippi,1.03211811141142e-06
+Rutherford_North Carolina,1.02571735684359e-06
+Morgan_West Virginia,1.01881740960395e-06
+Morgan_West Virginia,1.01881740960395e-06
+Sumner_Kansas,1.00880316047666e-06
+Sumner_Kansas,1.00880316047666e-06
+Mitchell_Kansas,1.00458610841968e-06
+Mitchell_Kansas,1.00458610841968e-06
+Cherokee_Oklahoma,1.00281509862864e-06
+Greenbrier_West Virginia,1.00000599964083e-06
+Amite_Mississippi,9.96479140203068e-07
+Walthall_Mississippi,9.94455263952484e-07
+Walthall_Mississippi,9.94455263952484e-07
+Shelby_Indiana,9.94164057114774e-07
+Torrance_New Mexico,9.93395725028144e-07
+Eaton_Michigan,9.93088587022845e-07
+Hardin_Texas,9.92213459039512e-07
+Hancock_West Virginia,9.90735134222935e-07
+Hancock_West Virginia,9.90735134222935e-07
+Jefferson_Mississippi,9.88356736803303e-07
+Jefferson_Mississippi,9.88356736803303e-07
+Love_Oklahoma,9.88273434670946e-07
+McCook_South Dakota,9.85467802412178e-07
+McCook_South Dakota,9.85467802412178e-07
+Latimer_Oklahoma,9.83244370276981e-07
+Latimer_Oklahoma,9.83244370276981e-07
+Franklin_Georgia,9.81667121177354e-07
+Hillsdale_Michigan,9.80872843181522e-07
+Pulaski_Georgia,9.80360052954467e-07
+Pulaski_Georgia,9.80360052954467e-07
+Madison_Ohio,9.77632088280609e-07
+Seminole_Florida,9.75922157719959e-07
+Copiah_Mississippi,9.70667888779958e-07
+Charleston_South Carolina,9.69827630391713e-07
+Transylvania_North Carolina,9.66845309590803e-07
+Franklin_Pennsylvania,9.66097554473077e-07
+Alameda_California,9.65952365531879e-07
+Calhoun_Florida,9.64468273212072e-07
+Broward_Florida,9.62547214779077e-07
+Kane_Illinois,9.60252847293848e-07
+Cumberland_Maine,9.5652876601541e-07
+Humboldt_California,9.52138794515268e-07
+Canyon_Idaho,9.50045761687232e-07
+Chenango_New York,9.48795512288356e-07
+Lawrence_Kentucky,9.4672728192796e-07
+Osceola_Michigan,9.45228855017279e-07
+Osceola_Michigan,9.45228855017279e-07
+Warren_Georgia,9.41924224396628e-07
+Attala_Mississippi,9.41783937973809e-07
+Peach_Georgia,9.37613753263828e-07
+Desha_Arkansas,9.3616626443158e-07
+Desha_Arkansas,9.3616626443158e-07
+Adams_Washington,9.3327023753218e-07
+Adams_Washington,9.3327023753218e-07
+Sumter_Florida,9.30406027270781e-07
+Huerfano_Colorado,9.19836813407446e-07
+Huerfano_Colorado,9.19836813407446e-07
+Jasper_Indiana,9.19826297102312e-07
+Bertie_North Carolina,9.19376867178278e-07
+Harris_Texas,9.19141451997044e-07
+Morgan_Colorado,9.19081218375445e-07
+Perry_Arkansas,9.18703333614289e-07
+Dodge_Georgia,9.17512040297692e-07
+Washakie_Wyoming,9.16063866698725e-07
+Washakie_Wyoming,9.16063866698725e-07
+Howard_Arkansas,9.13432487619941e-07
+Monroe_Tennessee,9.12808055839222e-07
+Crawford_Missouri,9.1273569447654e-07
+Codington_South Dakota,9.10616218247082e-07
+Covington_Mississippi,9.0198454330232e-07
+Goodhue_Minnesota,9.00563988382533e-07
+Adair_Oklahoma,8.98102227823244e-07
+Adair_Oklahoma,8.98102227823244e-07
+Colleton_South Carolina,8.96456553933224e-07
+Cook_Georgia,8.93094306606077e-07
+Menominee_Wisconsin,8.90914627867534e-07
+Jefferson_Alabama,8.9081814666193e-07
+Schuyler_New York,8.87174669703598e-07
+Schenectady_New York,8.82639997416026e-07
+Carroll_Virginia,8.82250221223872e-07
+Dallas_Iowa,8.81165637954191e-07
+Jefferson_Georgia,8.78947744780968e-07
+Indiana_Pennsylvania,8.77331451428921e-07
+Saline_Illinois,8.76490226676129e-07
+Richland_South Carolina,8.76081733136124e-07
+Jackson_Missouri,8.7518583419253e-07
+Atchison_Kansas,8.73748439250951e-07
+Marshall_Iowa,8.7161305693116e-07
+Craig_Oklahoma,8.70376825372541e-07
+Craig_Oklahoma,8.70376825372541e-07
+Caswell_North Carolina,8.69177761332845e-07
+Caswell_North Carolina,8.69177761332845e-07
+Carroll_Arkansas,8.64850482477425e-07
+Dade_Georgia,8.62226673380723e-07
+Leake_Mississippi,8.59397648474716e-07
+Leake_Mississippi,8.59397648474716e-07
+Stone_Missouri,8.55934277922797e-07
+Hale_Texas,8.53509206817917e-07
+Hale_Texas,8.53509206817917e-07
+Socorro_New Mexico,8.52482235332662e-07
+Reynolds_Missouri,8.52463841937988e-07
+Lincoln_Mississippi,8.51233828671506e-07
+Polk_Iowa,8.46038445384318e-07
+Rhea_Tennessee,8.41726008131465e-07
+DeKalb_Tennessee,8.41366702917243e-07
+McDonald_Missouri,8.40993065320506e-07
+Union_South Carolina,8.39965320059741e-07
+Union_Florida,8.35784057392758e-07
+Onondaga_New York,8.33310806430246e-07
+Hardy_West Virginia,8.31118250745954e-07
+Mercer_Kentucky,8.27284390906384e-07
+Mercer_Kentucky,8.27284390906384e-07
+Greenbrier_West Virginia,8.23811823158519e-07
+Stafford_Kansas,8.23536025537852e-07
+Stafford_Kansas,8.23536025537852e-07
+Josephine_Oregon,8.2155919508941e-07
+Tulsa_Oklahoma,8.21299604152184e-07
+Hendry_Florida,8.19738629582891e-07
+Peach_Georgia,8.194677381489e-07
+Overton_Tennessee,8.19410032117237e-07
+Overton_Tennessee,8.19410032117237e-07
+Crawford_Ohio,8.19162428013841e-07
+Orange_North Carolina,8.18758030303527e-07
+Murray_Georgia,8.18558279729827e-07
+Clinton_New York,8.15300878394379e-07
+Ray_Missouri,8.09477456326272e-07
+Ray_Missouri,8.09477456326272e-07
+Lincoln_Arkansas,8.09460658107118e-07
+Lincoln_Arkansas,8.09460658107118e-07
+Clatsop_Oregon,8.0670178342225e-07
+Clatsop_Oregon,8.0670178342225e-07
+Jackson_Texas,8.06674253743579e-07
+Jackson_Texas,8.06674253743579e-07
+Paulding_Georgia,8.06498478676368e-07
+Dubuque_Iowa,8.05706373020081e-07
+Washington_Utah,8.05424349442872e-07
+Val Verde_Texas,8.03088214946003e-07
+Val Verde_Texas,8.03088214946003e-07
+La Crosse_Wisconsin,8.01781371186789e-07
+Fayette_Indiana,8.01492765788619e-07
+Newton_Indiana,8.01385829524476e-07
+Newton_Indiana,8.01385829524476e-07
+Clinton_Michigan,8.01347943033198e-07
+Washington_Indiana,7.99428488128639e-07
+Winneshiek_Iowa,7.97845306201243e-07
+Winneshiek_Iowa,7.97845306201243e-07
+Yuma_Colorado,7.95404979575826e-07
+Yuma_Colorado,7.95404979575826e-07
+Jackson_Iowa,7.93503401788718e-07
+Allegheny_Pennsylvania,7.93368563725701e-07
+Callaway_Missouri,7.89499814234148e-07
+Stone_Missouri,7.88337624631551e-07
+Carroll_Indiana,7.88273020617742e-07
+Decatur_Tennessee,7.86643622323276e-07
+Wright_Iowa,7.84969832889037e-07
+Wright_Iowa,7.84969832889037e-07
+Wabasha_Minnesota,7.84545726918916e-07
+DeWitt_Texas,7.81526146163072e-07
+DeWitt_Texas,7.81526146163072e-07
+Albany_New York,7.7831254961208e-07
+Franklin_Mississippi,7.78012285014912e-07
+Franklin_Mississippi,7.78012285014912e-07
+Greenville_South Carolina,7.76400760515511e-07
+Young_Texas,7.75783246327587e-07
+Young_Texas,7.75783246327587e-07
+King William_Virginia,7.7503052242916e-07
+Rowan_North Carolina,7.73955478482463e-07
+Columbiana_Ohio,7.73902022021107e-07
+Dodge_Georgia,7.71741348741761e-07
+Hill_Texas,7.66717586776277e-07
+Allamakee_Iowa,7.622591297964e-07
+Allamakee_Iowa,7.622591297964e-07
+Baxter_Arkansas,7.62096659036332e-07
+Nelson_Virginia,7.6201027522942e-07
+Nelson_Virginia,7.6201027522942e-07
+Ohio_Indiana,7.61773468351119e-07
+Ohio_Indiana,7.61773468351119e-07
+Grady_Oklahoma,7.6149423428897e-07
+Lamoille_Vermont,7.60547042084423e-07
+Middlesex_Connecticut,7.60324908911367e-07
+Goshen_Wyoming,7.53699206064296e-07
+Goshen_Wyoming,7.53699206064296e-07
+Maui_Hawaii,7.52355102833303e-07
+Trumbull_Ohio,7.51703278600518e-07
+Pasquotank_North Carolina,7.47839899772186e-07
+Roberts_South Dakota,7.47741225037818e-07
+Roberts_South Dakota,7.47741225037818e-07
+Dade_Georgia,7.440345328897e-07
+Crawford_Illinois,7.438300483702e-07
+Hill_Texas,7.43552866153001e-07
+Fayette_Alabama,7.42038271199156e-07
+Clarion_Pennsylvania,7.39914789113714e-07
+Collin_Texas,7.35758682989855e-07
+Columbia_Arkansas,7.35411143505064e-07
+Columbia_Arkansas,7.35411143505064e-07
+Jerome_Idaho,7.34848612400668e-07
+King William_Virginia,7.34430810428087e-07
+Franklin_North Carolina,7.33976462140442e-07
+Lake_Florida,7.32513146590548e-07
+Attala_Mississippi,7.29594317830009e-07
+York_Nebraska,7.29543628310333e-07
+Ramsey_North Dakota,7.2947650268755e-07
+Ramsey_North Dakota,7.2947650268755e-07
+Miami_Indiana,7.28626688065028e-07
+Garvin_Oklahoma,7.26350102789586e-07
+Washington_Oregon,7.25082071495695e-07
+Jackson_Wisconsin,7.22914936855771e-07
+Wharton_Texas,7.22872156171987e-07
+Wharton_Texas,7.22872156171987e-07
+Marquette_Wisconsin,7.22798247379023e-07
+Merrimack_New Hampshire,7.2173161713006e-07
+Shelby_Tennessee,7.21668715346333e-07
+Schoharie_New York,7.19931172364349e-07
+Tioga_New York,7.1667241820664e-07
+Natrona_Wyoming,7.1648557625072e-07
+Schuyler_New York,7.16019922767628e-07
+Kendall_Texas,7.15035325098466e-07
+Kendall_Texas,7.15035325098466e-07
+Saline_Illinois,7.13977926775004e-07
+Tarrant_Texas,7.09846137983037e-07
+Vilas_Wisconsin,7.09822172420719e-07
+Poweshiek_Iowa,7.08597662102731e-07
+Poweshiek_Iowa,7.08597662102731e-07
+Cross_Arkansas,7.0726703668743e-07
+Cross_Arkansas,7.0726703668743e-07
+Fillmore_Minnesota,7.07088796475998e-07
+Lincoln_Oklahoma,7.06664955377847e-07
+Montour_Pennsylvania,7.06425189404628e-07
+Indian River_Florida,7.02706496963771e-07
+Grafton_New Hampshire,7.02146652667605e-07
+Cumberland_Pennsylvania,7.01817594851244e-07
+Grenada_Mississippi,6.98954022001951e-07
+Grenada_Mississippi,6.98954022001951e-07
+Erie_New York,6.98540264919737e-07
+Monroe_Florida,6.98485119949753e-07
+Gaston_North Carolina,6.97123681685637e-07
+Kanawha_West Virginia,6.94677363168656e-07
+Crawford_Pennsylvania,6.94545266021604e-07
+Granville_North Carolina,6.94231567709097e-07
+Chambers_Alabama,6.93014218627098e-07
+Carbon_Wyoming,6.92945894993104e-07
+Carbon_Wyoming,6.92945894993104e-07
+Page_Iowa,6.926445547251e-07
+Page_Iowa,6.926445547251e-07
+Currituck_North Carolina,6.91155562406357e-07
+Currituck_North Carolina,6.91155562406357e-07
+Menard_Illinois,6.90523667571233e-07
+Menard_Illinois,6.90523667571233e-07
+Juneau_Wisconsin,6.898338511482e-07
+Juneau_Wisconsin,6.898338511482e-07
+Bourbon_Kansas,6.89307511823477e-07
+Bourbon_Kansas,6.89307511823477e-07
+Washington_Vermont,6.89054437732079e-07
+Haywood_Tennessee,6.87520912362084e-07
+Haywood_Tennessee,6.87520912362084e-07
+Roosevelt_Montana,6.87140320432859e-07
+Roosevelt_Montana,6.87140320432859e-07
+Ben Hill_Georgia,6.86778438065329e-07
+McHenry_Illinois,6.86542233212279e-07
+Yellowstone_Montana,6.86034524606899e-07
+Walton_Georgia,6.84576670885906e-07
+Travis_Texas,6.82463625264392e-07
+Chaves_New Mexico,6.81807055985157e-07
+Medina_Ohio,6.78965736530753e-07
+McPherson_Kansas,6.77148631657945e-07
+McPherson_Kansas,6.77148631657945e-07
+McDonald_Missouri,6.76731176741153e-07
+Calhoun_Mississippi,6.76256935556111e-07
+Calhoun_Mississippi,6.76256935556111e-07
+Fremont_Wyoming,6.74838718964774e-07
+Alleghany_Virginia,6.74401298239776e-07
+Alleghany_Virginia,6.74401298239776e-07
+Sumter_Alabama,6.73475040461587e-07
+Franklin_Georgia,6.72939246200973e-07
+Choctaw_Oklahoma,6.71885781777871e-07
+Choctaw_Oklahoma,6.71885781777871e-07
+Livingston_Missouri,6.7037755673162e-07
+Santa Cruz_California,6.69718460060968e-07
+Pinal_Arizona,6.69485183002294e-07
+Marengo_Alabama,6.6854651840232e-07
+Garfield_Colorado,6.67884729484027e-07
+Breckinridge_Kentucky,6.64924582755936e-07
+Breckinridge_Kentucky,6.64924582755936e-07
+Pemiscot_Missouri,6.64669103384949e-07
+Utah_Utah,6.64337289104064e-07
+Bowie_Texas,6.64137060887567e-07
+Benton_Missouri,6.6405979650715e-07
+Pierce_Washington,6.63864536455749e-07
+Kearney_Nebraska,6.63545142624863e-07
+Kearney_Nebraska,6.63545142624863e-07
+Converse_Wyoming,6.62209689905281e-07
+Converse_Wyoming,6.62209689905281e-07
+Perry_Mississippi,6.6087700500706e-07
+Greene_Tennessee,6.58650850731262e-07
+Bracken_Kentucky,6.58406421491228e-07
+Bracken_Kentucky,6.58406421491228e-07
+Vilas_Wisconsin,6.54731936017396e-07
+Creek_Oklahoma,6.54596560853641e-07
+DeSoto_Mississippi,6.52018642093027e-07
+Poinsett_Arkansas,6.51593177755958e-07
+Dukes_Massachusetts,6.51213626784864e-07
+Dukes_Massachusetts,6.51213626784864e-07
+Humphreys_Mississippi,6.51097010512641e-07
+Multnomah_Oregon,6.50858159884432e-07
+Dawson_Georgia,6.50003015139076e-07
+Durham_North Carolina,6.49606313437373e-07
+Morgan_Missouri,6.48347450013482e-07
+Santa Fe_New Mexico,6.46812948679806e-07
+Chemung_New York,6.4633023999087e-07
+Smith_Tennessee,6.45921654951263e-07
+Smith_Tennessee,6.45921654951263e-07
+Walker_Georgia,6.44844113067196e-07
+Newport_Rhode Island,6.44619317039356e-07
+Fentress_Tennessee,6.43349384822428e-07
+Cerro Gordo_Iowa,6.43174897992584e-07
+Douglas_Illinois,6.43118688856943e-07
+Bonner_Idaho,6.4238261006923e-07
+Randolph_Alabama,6.41567078325156e-07
+Randolph_Alabama,6.41567078325156e-07
+Sevier_Arkansas,6.4042184119264e-07
+Sevier_Arkansas,6.4042184119264e-07
+Douglas_Minnesota,6.39546952567088e-07
+Douglas_Minnesota,6.39546952567088e-07
+Forsyth_Georgia,6.39277109977395e-07
+Crowley_Colorado,6.38421038672733e-07
+Crowley_Colorado,6.38421038672733e-07
+Seminole_Oklahoma,6.37365076598074e-07
+Seminole_Oklahoma,6.37365076598074e-07
+Jackson_Iowa,6.37327006175196e-07
+Ford_Illinois,6.36151405306435e-07
+Wyandot_Ohio,6.34540401963475e-07
+Oceana_Michigan,6.339967709873e-07
+Oceana_Michigan,6.339967709873e-07
+Hempstead_Arkansas,6.33301686042334e-07
+Hempstead_Arkansas,6.33301686042334e-07
+Amelia_Virginia,6.33192349637272e-07
+Lake_Montana,6.32762378504228e-07
+Lake_Montana,6.32762378504228e-07
+Burnet_Texas,6.32458118708588e-07
+Ector_Texas,6.30858515137311e-07
+Searcy_Arkansas,6.30528300477873e-07
+Searcy_Arkansas,6.30528300477873e-07
+Cibola_New Mexico,6.29863916435939e-07
+Cibola_New Mexico,6.29863916435939e-07
+Robertson_Tennessee,6.29036379084278e-07
+Hill_Montana,6.28755378427129e-07
+Hill_Montana,6.28755378427129e-07
+Faulkner_Arkansas,6.28585072921212e-07
+Orleans_Vermont,6.24586963486882e-07
+Benton_Iowa,6.24120501615631e-07
+Steuben_New York,6.22734267092064e-07
+Limestone_Texas,6.20031531153867e-07
+Lamb_Texas,6.19523526976062e-07
+Lamb_Texas,6.19523526976062e-07
+Hughes_South Dakota,6.18273872512483e-07
+Hughes_South Dakota,6.18273872512483e-07
+Archuleta_Colorado,6.18181396189368e-07
+Oconto_Wisconsin,6.17379284104693e-07
+Ottawa_Ohio,6.17267876843484e-07
+Martin_Texas,6.17037318069904e-07
+Martin_Texas,6.17037318069904e-07
+Rogers_Oklahoma,6.16865494943034e-07
+Schoharie_New York,6.16651551378207e-07
+Lawrence_Tennessee,6.16310773344441e-07
+Moniteau_Missouri,6.1618835239015e-07
+Marshall_Mississippi,6.12733516487006e-07
+Wetzel_West Virginia,6.1175352071481e-07
+Wetzel_West Virginia,6.1175352071481e-07
+Jefferson_Missouri,6.10421661988982e-07
+Delaware_Oklahoma,6.08904984779101e-07
+Ottawa_Ohio,6.08893614335763e-07
+Macon_Alabama,6.05949335717921e-07
+Macon_Alabama,6.05949335717921e-07
+Steele_Minnesota,6.05472438617033e-07
+Lawrence_Indiana,6.03607375848299e-07
+Burleigh_North Dakota,6.03016499238802e-07
+Polk_North Carolina,6.01799399668783e-07
+Big Stone_Minnesota,6.01543872469055e-07
+Big Stone_Minnesota,6.01543872469055e-07
+Bleckley_Georgia,6.00643634654008e-07
+Dorchester_Maryland,6.00520414749472e-07
+Kitsap_Washington,5.98607556977798e-07
+Rockbridge_Virginia,5.97335864644466e-07
+Rockbridge_Virginia,5.97335864644466e-07
+Porter_Indiana,5.95724163099475e-07
+Montgomery_Illinois,5.94593936666148e-07
+Oneida_Wisconsin,5.9438504600816e-07
+Fall River_South Dakota,5.93852760266328e-07
+Fall River_South Dakota,5.93852760266328e-07
+Elko_Nevada,5.91562807308725e-07
+Appling_Georgia,5.91172480549934e-07
+Maury_Tennessee,5.904944774838e-07
+Jefferson_West Virginia,5.8986258757389e-07
+Halifax_North Carolina,5.86387316170427e-07
+Butler_Missouri,5.85433213449616e-07
+Beltrami_Minnesota,5.85266991233901e-07
+Boone_Iowa,5.85026556961198e-07
+Boone_Iowa,5.85026556961198e-07
+Scotts Bluff_Nebraska,5.84449488324864e-07
+Scotts Bluff_Nebraska,5.84449488324864e-07
+Wilkin_Minnesota,5.83164826262247e-07
+Wilkin_Minnesota,5.83164826262247e-07
+Crawford_Illinois,5.8189178036961e-07
+Screven_Georgia,5.8099652690309e-07
+Huron_Michigan,5.80007238075997e-07
+Huron_Michigan,5.80007238075997e-07
+Moffat_Colorado,5.78846878335214e-07
+Park_Colorado,5.75955813271069e-07
+York_Pennsylvania,5.75663994830523e-07
+Mahaska_Iowa,5.73207321936616e-07
+Mahaska_Iowa,5.73207321936616e-07
+Audubon_Iowa,5.73059609951814e-07
+Upson_Georgia,5.72948583430394e-07
+Upson_Georgia,5.72948583430394e-07
+Neshoba_Mississippi,5.72466387252878e-07
+Neshoba_Mississippi,5.72466387252878e-07
+Vermillion_Indiana,5.71861292938851e-07
+Vermillion_Indiana,5.71861292938851e-07
+Pottawatomie_Kansas,5.69692838208787e-07
+Shelby_Texas,5.69644820676214e-07
+Washington_Maryland,5.69140977390163e-07
+Cumberland_New Jersey,5.68482512083536e-07
+Putnam_Indiana,5.67653604385068e-07
+Limestone_Texas,5.66111556848096e-07
+Grand_Colorado,5.65943949600529e-07
+Bourbon_Kentucky,5.65468002024014e-07
+Box Elder_Utah,5.65147917771785e-07
+Door_Wisconsin,5.6499881596394e-07
+Chester_Tennessee,5.63843422950176e-07
+Greensville_Virginia,5.62156922172836e-07
+Neosho_Kansas,5.61873815740383e-07
+Neosho_Kansas,5.61873815740383e-07
+Sioux_Iowa,5.61149755765161e-07
+Clay_Florida,5.61030131056093e-07
+Shelby_Ohio,5.60572152442885e-07
+Louisa_Virginia,5.59468653150683e-07
+Montezuma_Colorado,5.57785388209784e-07
+Montezuma_Colorado,5.57785388209784e-07
+Iosco_Michigan,5.57495732926037e-07
+Iosco_Michigan,5.57495732926037e-07
+Colleton_South Carolina,5.57397168376569e-07
+Muskegon_Michigan,5.56625629928127e-07
+Lee_South Carolina,5.56548044248579e-07
+Lee_South Carolina,5.56548044248579e-07
+Highlands_Florida,5.56177095180449e-07
+Kimball_Nebraska,5.55693529564822e-07
+Antrim_Michigan,5.54643517826196e-07
+Charlotte_Florida,5.54397817367499e-07
+Holmes_Florida,5.54377305618722e-07
+Morgan_Missouri,5.54005107613278e-07
+Montague_Texas,5.52518226441627e-07
+Montague_Texas,5.52518226441627e-07
+Edgecombe_North Carolina,5.52509435823852e-07
+Waseca_Minnesota,5.52498705720789e-07
+Waseca_Minnesota,5.52498705720789e-07
+Teton_Idaho,5.52200289838261e-07
+Teton_Idaho,5.52200289838261e-07
+Delaware_Indiana,5.51906771618801e-07
+Potter_Pennsylvania,5.4983853176664e-07
+Potter_Pennsylvania,5.4983853176664e-07
+Stafford_Virginia,5.49329429837846e-07
+Nueces_Texas,5.48347212785064e-07
+Macon_Tennessee,5.4737265824656e-07
+Cabarrus_North Carolina,5.47062290280938e-07
+Tallahatchie_Mississippi,5.46942868954805e-07
+Tallahatchie_Mississippi,5.46942868954805e-07
+Franklin_Vermont,5.46703688201545e-07
+Buchanan_Missouri,5.45374597273686e-07
+Lexington_South Carolina,5.45238820329482e-07
+Itawamba_Mississippi,5.45200746319436e-07
+Itawamba_Mississippi,5.45200746319436e-07
+Gasconade_Missouri,5.45069718173786e-07
+Santa Barbara_California,5.44930974563416e-07
+Jackson_West Virginia,5.42624633950221e-07
+Livingston_Missouri,5.41896484077098e-07
+Prince Edward_Virginia,5.41577182183855e-07
+Prince Edward_Virginia,5.41577182183855e-07
+Clay_Alabama,5.41167484683074e-07
+Clay_Alabama,5.41167484683074e-07
+Valley_Idaho,5.3835974856054e-07
+Carroll_Ohio,5.37822300606713e-07
+Franklin_Missouri,5.37692919594463e-07
+Chatham_Georgia,5.37569973649872e-07
+Stark_Ohio,5.35949429868256e-07
+Platte_Missouri,5.34303129788582e-07
+Lewis_Kentucky,5.33596881476181e-07
+Lewis_Kentucky,5.33596881476181e-07
+Toombs_Georgia,5.33471229287072e-07
+Meigs_Tennessee,5.3237339290312e-07
+Meigs_Tennessee,5.3237339290312e-07
+Newton_Mississippi,5.32142519951298e-07
+Vance_North Carolina,5.31976173129614e-07
+Morton_North Dakota,5.31136098055998e-07
+Perry_Mississippi,5.30815462067993e-07
+Fauquier_Virginia,5.3072183136441e-07
+Carroll_Illinois,5.28535178742368e-07
+McHenry_North Dakota,5.26506739123479e-07
+Habersham_Georgia,5.25125146763322e-07
+Wayne_Pennsylvania,5.24762616683153e-07
+Grimes_Texas,5.23915842152272e-07
+Posey_Indiana,5.23695543428732e-07
+Labette_Kansas,5.23064221872626e-07
+Cumberland_Tennessee,5.2195200944007e-07
+Alachua_Florida,5.21345419495145e-07
+Leon_Texas,5.21344683817367e-07
+Meriwether_Georgia,5.20555116851731e-07
+Chilton_Alabama,5.20552445977599e-07
+Leavenworth_Kansas,5.19275360648322e-07
+Jefferson_Washington,5.17680639838743e-07
+Jefferson_Washington,5.17680639838743e-07
+Kleberg_Texas,5.16566014941021e-07
+Kleberg_Texas,5.16566014941021e-07
+Conecuh_Alabama,5.16424819368635e-07
+Troup_Georgia,5.1640463467549e-07
+Washington_New York,5.14359855234259e-07
+Curry_New Mexico,5.12299450482246e-07
+Curry_New Mexico,5.12299450482246e-07
+Cape Girardeau_Missouri,5.12058459033772e-07
+Taos_New Mexico,5.11085678560733e-07
+Richland_Wisconsin,5.10642630579653e-07
+Richland_Wisconsin,5.10642630579653e-07
+Chattooga_Georgia,5.10500915604041e-07
+Ashley_Arkansas,5.10403675596161e-07
+Ashley_Arkansas,5.10403675596161e-07
+Robertson_Texas,5.09478640968657e-07
+Robertson_Texas,5.09478640968657e-07
+Alcorn_Mississippi,5.08976876983175e-07
+Chester_Tennessee,5.08687501380825e-07
+Clay_Mississippi,5.08192075139833e-07
+Morris_Texas,5.08096432885594e-07
+Morris_Texas,5.08096432885594e-07
+Simpson_Mississippi,5.0558113313968e-07
+Simpson_Mississippi,5.0558113313968e-07
+Colusa_California,5.03832758493338e-07
+Colusa_California,5.03832758493338e-07
+Marengo_Alabama,5.03405553211016e-07
+Noble_Oklahoma,5.03034277117369e-07
+Graves_Kentucky,5.02419333991608e-07
+Polk_Oregon,5.01939623319142e-07
+Hot Springs_Wyoming,4.99925931763773e-07
+Hot Springs_Wyoming,4.99925931763773e-07
+Lyon_Kentucky,4.99633351962368e-07
+Lyon_Kentucky,4.99633351962368e-07
+Taylor_Kentucky,4.97654799843429e-07
+Taylor_Kentucky,4.97654799843429e-07
+Chaves_New Mexico,4.96255585969189e-07
+Iroquois_Illinois,4.95938590673088e-07
+Iroquois_Illinois,4.95938590673088e-07
+Sioux_North Dakota,4.9562311972813e-07
+Sioux_North Dakota,4.9562311972813e-07
+Iron_Utah,4.95290327951221e-07
+Woodruff_Arkansas,4.94424332590259e-07
+Woodruff_Arkansas,4.94424332590259e-07
+Barnes_North Dakota,4.94198894338417e-07
+Barnes_North Dakota,4.94198894338417e-07
+Wake_North Carolina,4.93961764123047e-07
+Custer_Oklahoma,4.91577159137273e-07
+Custer_Oklahoma,4.91577159137273e-07
+Franklin_New York,4.90725985387707e-07
+Hale_Alabama,4.90509130202062e-07
+Houghton_Michigan,4.90424385005692e-07
+Sonoma_California,4.89602743994516e-07
+Penobscot_Maine,4.8825213923731e-07
+Cortland_New York,4.87981525871247e-07
+Pottawatomie_Oklahoma,4.87762917040321e-07
+Fayette_Alabama,4.87418352040363e-07
+Burnet_Texas,4.87043800218606e-07
+Hall_Nebraska,4.86720763333708e-07
+Anderson_South Carolina,4.85037337360244e-07
+Bibb_Georgia,4.82474838560184e-07
+Talbot_Georgia,4.82349610539319e-07
+Clark_Illinois,4.8233440133689e-07
+Eastland_Texas,4.8227604879849e-07
+Eastland_Texas,4.8227604879849e-07
+Lincoln_South Dakota,4.82031165159755e-07
+Ben Hill_Georgia,4.80061442462226e-07
+Florence_South Carolina,4.79724807547305e-07
+Garland_Arkansas,4.79579517760132e-07
+Williamsburg_South Carolina,4.78934285588652e-07
+Williamsburg_South Carolina,4.78934285588652e-07
+Missoula_Montana,4.78835721631055e-07
+Fairfield_South Carolina,4.76260052351844e-07
+Coweta_Georgia,4.75669975498815e-07
+Spartanburg_South Carolina,4.75640578954727e-07
+Meriwether_Georgia,4.73623024891448e-07
+Marion_Missouri,4.72325615188379e-07
+Goodhue_Minnesota,4.72235297023578e-07
+Comanche_Oklahoma,4.71792947290341e-07
+New Kent_Virginia,4.71274705449919e-07
+New Kent_Virginia,4.71274705449919e-07
+Douglas_Georgia,4.70733446903506e-07
+Randolph_Illinois,4.70074269248252e-07
+Cleveland_Oklahoma,4.69560034642405e-07
+Jay_Indiana,4.68641902134639e-07
+Grant_Washington,4.68350351598845e-07
+Fremont_Colorado,4.68103929468882e-07
+Bonner_Idaho,4.67399054083011e-07
+Cherokee_Texas,4.65429147873558e-07
+Cherokee_Texas,4.65429147873558e-07
+Dunn_North Dakota,4.65149137154496e-07
+Dunn_North Dakota,4.65149137154496e-07
+Pamlico_North Carolina,4.64248579502134e-07
+Pamlico_North Carolina,4.64248579502134e-07
+Nicholas_Kentucky,4.63574260473345e-07
+Nicholas_Kentucky,4.63574260473345e-07
+Holmes_Ohio,4.63441285927444e-07
+Georgetown_South Carolina,4.63399884609643e-07
+Union_Mississippi,4.6237550353269e-07
+Union_Mississippi,4.6237550353269e-07
+Dorchester_South Carolina,4.6190940130018e-07
+Taylor_Texas,4.60655246218212e-07
+McIntosh_Georgia,4.60647764500968e-07
+Limestone_Alabama,4.60585991942114e-07
+Grady_Georgia,4.60050447284171e-07
+Andrews_Texas,4.59585472540295e-07
+Andrews_Texas,4.59585472540295e-07
+Wright_Missouri,4.58855639079429e-07
+Lenawee_Michigan,4.58808689550415e-07
+DeKalb_Tennessee,4.58573390837657e-07
+Crawford_Missouri,4.5815375429412e-07
+Cook_Georgia,4.55747415164125e-07
+Goochland_Virginia,4.55685102214396e-07
+Telfair_Georgia,4.55488671325957e-07
+McDuffie_Georgia,4.55070638187719e-07
+Clark_Illinois,4.55046736902497e-07
+Levy_Florida,4.55030376052027e-07
+Levy_Florida,4.55030376052027e-07
+Prentiss_Mississippi,4.54996574757811e-07
+Prentiss_Mississippi,4.54996574757811e-07
+Blue Earth_Minnesota,4.54489070361714e-07
+Douglas_Nebraska,4.54387814536864e-07
+Lincoln_Maine,4.54190995888098e-07
+Foster_North Dakota,4.53221964346796e-07
+Foster_North Dakota,4.53221964346796e-07
+Montgomery_Indiana,4.53035731654696e-07
+Polk_Arkansas,4.52890932525783e-07
+Walsh_North Dakota,4.51756896003162e-07
+Walsh_North Dakota,4.51756896003162e-07
+Randolph_West Virginia,4.50962099530415e-07
+Marion_Illinois,4.50683590060647e-07
+Clayton_Iowa,4.49618015517769e-07
+Clayton_Iowa,4.49618015517769e-07
+Eddy_New Mexico,4.49151401270172e-07
+Eddy_New Mexico,4.49151401270172e-07
+Preble_Ohio,4.49062138570186e-07
+Mayes_Oklahoma,4.4800656592954e-07
+Dane_Wisconsin,4.47952179040945e-07
+Webster_Kentucky,4.46844514366767e-07
+Clackamas_Oregon,4.46710517907597e-07
+Livingston_Illinois,4.45915792930065e-07
+Newton_Mississippi,4.45731009112196e-07
+Roosevelt_New Mexico,4.45354122039425e-07
+Roosevelt_New Mexico,4.45354122039425e-07
+Alamosa_Colorado,4.44609827151903e-07
+Alamosa_Colorado,4.44609827151903e-07
+Harnett_North Carolina,4.43445777780205e-07
+Martin_Kentucky,4.43338798145289e-07
+Martin_Kentucky,4.43338798145289e-07
+Burleson_Texas,4.42909986361948e-07
+Burleson_Texas,4.42909986361948e-07
+Lawrence_Indiana,4.4275944445482e-07
+Clark_Wisconsin,4.42754812574726e-07
+Clark_Wisconsin,4.42754812574726e-07
+Osage_Missouri,4.42661719977176e-07
+Jefferson_Kansas,4.42396423895927e-07
+Jefferson_Kansas,4.42396423895927e-07
+Jo Daviess_Illinois,4.42272434194052e-07
+Jo Daviess_Illinois,4.42272434194052e-07
+Ottawa_Oklahoma,4.410544859025e-07
+Santa Cruz_Arizona,4.39458706542195e-07
+Santa Cruz_Arizona,4.39458706542195e-07
+Wilson_Tennessee,4.39140953775773e-07
+Umatilla_Oregon,4.38252677913121e-07
+Pike_Missouri,4.37012573770868e-07
+Essex_New York,4.36901170292693e-07
+Montgomery_Tennessee,4.35502450436598e-07
+Camden_Missouri,4.3380548868833e-07
+Cooper_Missouri,4.33665184962221e-07
+Amherst_Virginia,4.32600966923166e-07
+Caddo_Oklahoma,4.3206524788332e-07
+Caddo_Oklahoma,4.3206524788332e-07
+Pontotoc_Oklahoma,4.30394168037296e-07
+Grant_Wisconsin,4.29263312668441e-07
+Blanco_Texas,4.29233809586213e-07
+Blanco_Texas,4.29233809586213e-07
+Yavapai_Arizona,4.27991247183335e-07
+Otsego_New York,4.27238021110737e-07
+Smith_Mississippi,4.27025125769872e-07
+Smith_Mississippi,4.27025125769872e-07
+Montgomery_Indiana,4.26493991313475e-07
+Morgan_Tennessee,4.26459904035707e-07
+Morgan_Tennessee,4.26459904035707e-07
+Henry_Missouri,4.26217447900239e-07
+Henry_Missouri,4.26217447900239e-07
+Flathead_Montana,4.26062459155891e-07
+Emmet_Michigan,4.25637689013555e-07
+Newberry_South Carolina,4.24394792911017e-07
+Newberry_South Carolina,4.24394792911017e-07
+Bollinger_Missouri,4.22011574031603e-07
+Bollinger_Missouri,4.22011574031603e-07
+Chesterfield_South Carolina,4.21341604687963e-07
+Rock Island_Illinois,4.20283764987026e-07
+Jeff Davis_Georgia,4.20052086716999e-07
+Steele_Minnesota,4.19510514958678e-07
+Marshall_South Dakota,4.19375309349308e-07
+Oswego_New York,4.1908509433078e-07
+Washington_Alabama,4.1883427814723e-07
+Matanuska-Susitna Borough_Alaska,4.1873717355153e-07
+Yadkin_North Carolina,4.18734389887554e-07
+Fountain_Indiana,4.18706699700592e-07
+Fountain_Indiana,4.18706699700592e-07
+Placer_California,4.17160435443392e-07
+Marion_Oregon,4.16331768958201e-07
+Long_Georgia,4.16133548188062e-07
+Long_Georgia,4.16133548188062e-07
+Gratiot_Michigan,4.15104583632336e-07
+Gratiot_Michigan,4.15104583632336e-07
+Butler_Alabama,4.14663161770617e-07
+Butler_Alabama,4.14663161770617e-07
+Lonoke_Arkansas,4.1463290466964e-07
+Ford_Kansas,4.14449112273074e-07
+Ford_Kansas,4.14449112273074e-07
+Essex_New York,4.14396714450221e-07
+Pike_Georgia,4.14170468087044e-07
+Pike_Georgia,4.14170468087044e-07
+Portage_Ohio,4.14004509336842e-07
+Habersham_Georgia,4.13766868455008e-07
+Montgomery_Kansas,4.136813012142e-07
+Delta_Michigan,4.13339050506775e-07
+Elbert_Colorado,4.13070837757886e-07
+Lowndes_Georgia,4.12965273668872e-07
+Bates_Missouri,4.12592193200828e-07
+Franklin_Kentucky,4.1257863284734e-07
+Prince George_Virginia,4.11871735867641e-07
+Lafayette_Missouri,4.11618030233807e-07
+Payette_Idaho,4.11419543708864e-07
+Payette_Idaho,4.11419543708864e-07
+Skamania_Washington,4.1116615315946e-07
+Skamania_Washington,4.1116615315946e-07
+Fulton_Indiana,4.10266331833254e-07
+Fulton_Indiana,4.10266331833254e-07
+Jackson_Minnesota,4.10176975940502e-07
+Jackson_Minnesota,4.10176975940502e-07
+Fremont_Colorado,4.1002987476253e-07
+Washington_Pennsylvania,4.10006848321427e-07
+Okmulgee_Oklahoma,4.09673178990106e-07
+Okmulgee_Oklahoma,4.09673178990106e-07
+Oliver_North Dakota,4.0944466697186e-07
+Jones_Georgia,4.09218873307361e-07
+Morrow_Oregon,4.09140956191966e-07
+Morrow_Oregon,4.09140956191966e-07
+Deaf Smith_Texas,4.08404565864465e-07
+Deaf Smith_Texas,4.08404565864465e-07
+Gila_Arizona,4.08319673081516e-07
+Gila_Arizona,4.08319673081516e-07
+Washington_Texas,4.0812645475653e-07
+Douglas_Wisconsin,4.07218050578284e-07
+Douglas_Wisconsin,4.07218050578284e-07
+Hutchinson_South Dakota,4.06642952809142e-07
+Hutchinson_South Dakota,4.06642952809142e-07
+Pearl River_Mississippi,4.06634260783038e-07
+Lawrence_Alabama,4.06391020755783e-07
+Lawrence_Alabama,4.06391020755783e-07
+Mobile_Alabama,4.06046669836902e-07
+Latah_Idaho,4.05931672480904e-07
+Brooks_Georgia,4.05724635473934e-07
+Holmes_Florida,4.05180719168232e-07
+Sharkey_Mississippi,4.04763130438514e-07
+Sharkey_Mississippi,4.04763130438514e-07
+Thomas_Georgia,4.03865463773085e-07
+Greene_North Carolina,4.03444739930513e-07
+Greene_North Carolina,4.03444739930513e-07
+Osage_Missouri,4.03383514418668e-07
+Northampton_Virginia,4.03004515839871e-07
+Northampton_Virginia,4.03004515839871e-07
+McIntosh_Georgia,4.02908470497643e-07
+Scott_Tennessee,4.02804879824575e-07
+Scott_Tennessee,4.02804879824575e-07
+Stevens_Washington,4.02314771545203e-07
+Sullivan_Indiana,4.01603411173768e-07
+Okeechobee_Florida,4.00850165866563e-07
+Marshall_South Dakota,4.00094901782661e-07
+Carlton_Minnesota,3.99540252419955e-07
+Houghton_Michigan,3.98202966570814e-07
+Bell_Texas,3.98008205396677e-07
+Greene_Pennsylvania,3.9750083459956e-07
+Taylor_Iowa,3.96949966200741e-07
+Taylor_Iowa,3.96949966200741e-07
+Greenwood_South Carolina,3.96791350700093e-07
+Rush_Indiana,3.96723792087463e-07
+Cascade_Montana,3.95803276624847e-07
+Rutherford_Tennessee,3.95269919754624e-07
+Juniata_Pennsylvania,3.9495739862237e-07
+Clark_South Dakota,3.94730688152732e-07
+Clark_South Dakota,3.94730688152732e-07
+Mecklenburg_Virginia,3.93859996366628e-07
+Mecklenburg_Virginia,3.93859996366628e-07
+Hood River_Oregon,3.9320781084983e-07
+Grand Forks_North Dakota,3.93041811410063e-07
+Grant_Oregon,3.92826315244177e-07
+Grant_Oregon,3.92826315244177e-07
+Bayfield_Wisconsin,3.92199808508029e-07
+Bayfield_Wisconsin,3.92199808508029e-07
+Park_Wyoming,3.92028402757828e-07
+Park_Wyoming,3.92028402757828e-07
+Warren_Iowa,3.91739440825772e-07
+Chester_South Carolina,3.91222306457743e-07
+Chester_South Carolina,3.91222306457743e-07
+Shenandoah_Virginia,3.91205231476441e-07
+Pemiscot_Missouri,3.90928590012997e-07
+Itasca_Minnesota,3.90889869778709e-07
+Bryan_Georgia,3.90830175234023e-07
+Bryan_Georgia,3.90830175234023e-07
+Barnwell_South Carolina,3.90630819385815e-07
+Bay_Michigan,3.90605007762347e-07
+Cleburne_Alabama,3.90602503836276e-07
+Cleburne_Alabama,3.90602503836276e-07
+Anderson_Kentucky,3.90350001759082e-07
+Anderson_Kentucky,3.90350001759082e-07
+Carroll_Indiana,3.89528978681815e-07
+Antelope_Nebraska,3.88681572172334e-07
+San Jacinto_Texas,3.88554224758288e-07
+San Jacinto_Texas,3.88554224758288e-07
+Boone_Missouri,3.8816737968732e-07
+Grant_Washington,3.87716582067452e-07
+Flagler_Florida,3.85987465643862e-07
+Matanuska-Susitna Borough_Alaska,3.85052743762342e-07
+Spalding_Georgia,3.84973197759138e-07
+Barren_Kentucky,3.84629071813554e-07
+San Luis Obispo_California,3.84117865592879e-07
+Tioga_Pennsylvania,3.8384728587415e-07
+Bennington_Vermont,3.83775567410164e-07
+Russell_Kentucky,3.83472572967106e-07
+Kenai Peninsula Borough_Alaska,3.82920334001222e-07
+Saunders_Nebraska,3.82906953301084e-07
+Saunders_Nebraska,3.82906953301084e-07
+Victoria_Texas,3.8245768401319e-07
+Breathitt_Kentucky,3.82144254513865e-07
+Breathitt_Kentucky,3.82144254513865e-07
+Henderson_North Carolina,3.82126880740932e-07
+Faulkner_Arkansas,3.82026355379342e-07
+Fentress_Tennessee,3.81917709433122e-07
+Atchison_Kansas,3.81422576518089e-07
+Baker_Florida,3.80038349547624e-07
+Barnwell_South Carolina,3.79825577758116e-07
+Cherokee_Kansas,3.79696838557962e-07
+Morgan_Illinois,3.79674432533525e-07
+Dodge_Nebraska,3.79289901295027e-07
+Dodge_Nebraska,3.79289901295027e-07
+Warren_Pennsylvania,3.79089309515608e-07
+Warren_Pennsylvania,3.79089309515608e-07
+Webster_Missouri,3.79068367520797e-07
+Jackson_Indiana,3.77719642553107e-07
+White_Arkansas,3.75716131798286e-07
+Hamilton_Tennessee,3.75292682579901e-07
+Cass_Texas,3.74920770326344e-07
+Cass_Texas,3.74920770326344e-07
+Delta_Michigan,3.74837063930307e-07
+Rockwall_Texas,3.74291629781312e-07
+Moniteau_Missouri,3.73155113119484e-07
+Franklin_Maine,3.72327246509619e-07
+Franklin_Maine,3.72327246509619e-07
+Belknap_New Hampshire,3.72071734040386e-07
+Union_Kentucky,3.71993880068697e-07
+Botetourt_Virginia,3.71855298159851e-07
+Cameron_Pennsylvania,3.71821749722207e-07
+Cameron_Pennsylvania,3.71821749722207e-07
+Cochise_Arizona,3.71756195232976e-07
+Fayette_Illinois,3.71234065676085e-07
+Fayette_Illinois,3.71234065676085e-07
+Lamar_Alabama,3.70865637382884e-07
+Lamar_Alabama,3.70865637382884e-07
+Cass_Indiana,3.70713442397168e-07
+Buchanan_Iowa,3.70450528552666e-07
+Buchanan_Iowa,3.70450528552666e-07
+Jefferson_Wisconsin,3.69764226413094e-07
+Pontotoc_Mississippi,3.6918118956529e-07
+Idaho_Idaho,3.69058170091391e-07
+Idaho_Idaho,3.69058170091391e-07
+Marshall_Alabama,3.6853921518411e-07
+Pike_Missouri,3.6799081383295e-07
+Kendall_Illinois,3.67963375044373e-07
+Lee_Virginia,3.67502752153264e-07
+Lee_Virginia,3.67502752153264e-07
+Darlington_South Carolina,3.67345234278879e-07
+Gibson_Indiana,3.67131195151657e-07
+Gibson_Indiana,3.67131195151657e-07
+Uintah_Utah,3.66593973248395e-07
+Uintah_Utah,3.66593973248395e-07
+Williamson_Tennessee,3.66156449685611e-07
+Elmore_Alabama,3.65823824283257e-07
+Okanogan_Washington,3.65327202875302e-07
+Okanogan_Washington,3.65327202875302e-07
+Colbert_Alabama,3.65022664665708e-07
+McKean_Pennsylvania,3.63997050193305e-07
+McKean_Pennsylvania,3.63997050193305e-07
+Pierce_Georgia,3.63924267168378e-07
+Fremont_Idaho,3.63834907110377e-07
+Fremont_Idaho,3.63834907110377e-07
+Kent_Michigan,3.63830916335014e-07
+Roane_West Virginia,3.63619723238421e-07
+Randall_Texas,3.63382045043777e-07
+Winston_Mississippi,3.62367090364305e-07
+Garland_Arkansas,3.61034233635935e-07
+Page_Virginia,3.60845709215983e-07
+Delta_Colorado,3.60705221804598e-07
+Delta_Colorado,3.60705221804598e-07
+Navarro_Texas,3.60644524915784e-07
+Marion_Kentucky,3.60381735826764e-07
+Atchison_Missouri,3.60316066849797e-07
+Atchison_Missouri,3.60316066849797e-07
+Jasper_Iowa,3.59339215864458e-07
+Missaukee_Michigan,3.57464755601331e-07
+Missaukee_Michigan,3.57464755601331e-07
+Cheboygan_Michigan,3.56933921516924e-07
+Cheboygan_Michigan,3.56933921516924e-07
+Spencer_Kentucky,3.56424006806151e-07
+Perquimans_North Carolina,3.5612323904377e-07
+Perquimans_North Carolina,3.5612323904377e-07
+Renville_Minnesota,3.55791615073663e-07
+Renville_Minnesota,3.55791615073663e-07
+Lincoln_Nebraska,3.55669701139894e-07
+Charles City_Virginia,3.55474060723533e-07
+Charles City_Virginia,3.55474060723533e-07
+Crenshaw_Alabama,3.55175209884943e-07
+Crenshaw_Alabama,3.55175209884943e-07
+Butler_Kentucky,3.55058874647201e-07
+Butler_Kentucky,3.55058874647201e-07
+Warren_Virginia,3.54130239737505e-07
+Gaines_Texas,3.52737079980607e-07
+Gaines_Texas,3.52737079980607e-07
+Muscogee_Georgia,3.50546634872016e-07
+Shelby_Texas,3.5048349693017e-07
+Gonzales_Texas,3.49718148941444e-07
+Madison_Nebraska,3.47108472016908e-07
+Madison_Nebraska,3.47108472016908e-07
+Fayette_Iowa,3.46803067729418e-07
+Fayette_Iowa,3.46803067729418e-07
+Union_Oregon,3.46400240432262e-07
+Union_Oregon,3.46400240432262e-07
+Oxford_Maine,3.46178672857488e-07
+Oxford_Maine,3.46178672857488e-07
+Allen_Kentucky,3.45878568230877e-07
+Allen_Kentucky,3.45878568230877e-07
+Androscoggin_Maine,3.44926716533716e-07
+Starke_Indiana,3.44451299671571e-07
+Starke_Indiana,3.44451299671571e-07
+Mayes_Oklahoma,3.4442084252246e-07
+Pittsburg_Oklahoma,3.43693298121224e-07
+Pittsburg_Oklahoma,3.43693298121224e-07
+Washington_Florida,3.43489771368622e-07
+Washington_Florida,3.43489771368622e-07
+Pima_Arizona,3.43114100417229e-07
+Douglas_Washington,3.4188676293076e-07
+Douglas_Washington,3.4188676293076e-07
+Wood_Texas,3.41609012263777e-07
+Ferry_Washington,3.41509979834589e-07
+Ferry_Washington,3.41509979834589e-07
+Hardin_Iowa,3.41214713781811e-07
+Hardin_Iowa,3.41214713781811e-07
+Penobscot_Maine,3.40612867863763e-07
+Marion_Tennessee,3.39805836471473e-07
+Orange_Indiana,3.38940040203388e-07
+York_Nebraska,3.38629460326579e-07
+Socorro_New Mexico,3.38217934000452e-07
+Marlboro_South Carolina,3.38062186093717e-07
+Marlboro_South Carolina,3.38062186093717e-07
+Logan_Oklahoma,3.38021011543118e-07
+Clarke_Alabama,3.37797657900956e-07
+Pontotoc_Mississippi,3.37788926583694e-07
+Putnam_Tennessee,3.35955854141281e-07
+Christian_Missouri,3.35913801825288e-07
+Jackson_North Carolina,3.35266694223245e-07
+Jackson_North Carolina,3.35266694223245e-07
+Southampton_Virginia,3.34775891168229e-07
+Southampton_Virginia,3.34775891168229e-07
+Huntington_Indiana,3.34506056605161e-07
+Boyd_Kentucky,3.34215121868893e-07
+Boyd_Kentucky,3.34215121868893e-07
+Minnehaha_South Dakota,3.3389524027986e-07
+Greene_Virginia,3.33454894048783e-07
+Greene_Virginia,3.33454894048783e-07
+Montgomery_Iowa,3.33376125828501e-07
+Montgomery_Iowa,3.33376125828501e-07
+Marshall_Illinois,3.33160078180188e-07
+Marshall_Illinois,3.33160078180188e-07
+Weakley_Tennessee,3.32681916201251e-07
+Weakley_Tennessee,3.32681916201251e-07
+Sheboygan_Wisconsin,3.32367478375335e-07
+Cumberland_Illinois,3.3200720175188e-07
+Cumberland_Illinois,3.3200720175188e-07
+Chattahoochee_Georgia,3.3073574709649e-07
+Chattahoochee_Georgia,3.3073574709649e-07
+Oglethorpe_Georgia,3.30639287806932e-07
+Windham_Vermont,3.30305167667225e-07
+Windham_Vermont,3.30305167667225e-07
+Hancock_Mississippi,3.29671718222457e-07
+Summit_Ohio,3.29428940187038e-07
+Hawkins_Tennessee,3.29213799097217e-07
+Jackson_Oklahoma,3.28978131481383e-07
+Jackson_Oklahoma,3.28978131481383e-07
+Jackson_Indiana,3.28779104988398e-07
+Warren_Tennessee,3.28567544064048e-07
+Whitman_Washington,3.2847926103118e-07
+Whitman_Washington,3.2847926103118e-07
+San Miguel_New Mexico,3.27745794064115e-07
+San Miguel_New Mexico,3.27745794064115e-07
+Washington_Rhode Island,3.26803620790481e-07
+Butler_Iowa,3.26001547134912e-07
+Butler_Iowa,3.26001547134912e-07
+Bledsoe_Tennessee,3.25804124037186e-07
+Bledsoe_Tennessee,3.25804124037186e-07
+Jefferson_Idaho,3.2538380564961e-07
+Lee_Mississippi,3.24805459529735e-07
+Marion_Kentucky,3.23416504614181e-07
+Fannin_Georgia,3.2323595013245e-07
+Washington_Indiana,3.23167347892346e-07
+Nemaha_Nebraska,3.2208429388851e-07
+Nemaha_Nebraska,3.2208429388851e-07
+Saline_Arkansas,3.2207374387331e-07
+Archuleta_Colorado,3.21243629644412e-07
+Union_South Carolina,3.20510282461504e-07
+Knox_Nebraska,3.1955348362598e-07
+Knox_Nebraska,3.1955348362598e-07
+Frederick_Maryland,3.19548548547271e-07
+Gloucester_Virginia,3.19469790969343e-07
+Twin Falls_Idaho,3.19122445135051e-07
+Harvey_Kansas,3.18768501982876e-07
+Harvey_Kansas,3.18768501982876e-07
+Houston_Alabama,3.18107440601067e-07
+Yakima_Washington,3.16496320245396e-07
+Yakima_Washington,3.16496320245396e-07
+Stevens_Washington,3.15777334764239e-07
+Sullivan_New Hampshire,3.14014063576197e-07
+Bureau_Illinois,3.13437058263451e-07
+Bureau_Illinois,3.13437058263451e-07
+Gilmer_Georgia,3.13305308252148e-07
+Amador_California,3.13302579577396e-07
+Amador_California,3.13302579577396e-07
+Monroe_Indiana,3.13301810650148e-07
+Montgomery_Texas,3.13244350007886e-07
+Chesterfield_South Carolina,3.13107247724946e-07
+Itasca_Minnesota,3.1295609915378e-07
+Meade_South Dakota,3.11168504206951e-07
+Meade_South Dakota,3.11168504206951e-07
+Whatcom_Washington,3.10859225919402e-07
+Whatcom_Washington,3.10859225919402e-07
+Scott_Missouri,3.10700465050704e-07
+Mason_Kentucky,3.10469950351819e-07
+Mason_Kentucky,3.10469950351819e-07
+Licking_Ohio,3.09827429484529e-07
+Roscommon_Michigan,3.09576065458881e-07
+Roscommon_Michigan,3.09576065458881e-07
+George_Mississippi,3.08206354028365e-07
+George_Mississippi,3.08206354028365e-07
+Harrison_Indiana,3.08048080050619e-07
+Bingham_Idaho,3.07991144242886e-07
+Falls_Texas,3.07897311926923e-07
+Falls_Texas,3.07897311926923e-07
+Olmsted_Minnesota,3.07639046563207e-07
+Jasper_Georgia,3.07148360363647e-07
+Jasper_Georgia,3.07148360363647e-07
+Blue Earth_Minnesota,3.06269440253826e-07
+Bonneville_Idaho,3.06265202060047e-07
+Tallapoosa_Alabama,3.06084639127657e-07
+Jackson_Kansas,3.05836035468e-07
+Jackson_Kansas,3.05836035468e-07
+Sussex_Delaware,3.04849306544604e-07
+Gosper_Nebraska,3.04782123061819e-07
+Gosper_Nebraska,3.04782123061819e-07
+Marion_Mississippi,3.04646026981439e-07
+Nottoway_Virginia,3.04641950741606e-07
+Nottoway_Virginia,3.04641950741606e-07
+Lamar_Georgia,3.02998898060176e-07
+Lamar_Georgia,3.02998898060176e-07
+Pasco_Florida,3.01735789598419e-07
+Volusia_Florida,3.01586508356051e-07
+Brookings_South Dakota,3.01266998438154e-07
+Brookings_South Dakota,3.01266998438154e-07
+Valley_Idaho,3.00151483922245e-07
+Columbus_North Carolina,2.99814216446088e-07
+Bedford_Pennsylvania,2.99697104107001e-07
+McCracken_Kentucky,2.99570657503116e-07
+Morgan_Georgia,2.99362274389305e-07
+Cochise_Arizona,2.99005573056408e-07
+Kossuth_Iowa,2.9879178589138e-07
+Kossuth_Iowa,2.9879178589138e-07
+Lewis_New York,2.98727409191133e-07
+Lewis_New York,2.98727409191133e-07
+Fayette_Pennsylvania,2.97492924565035e-07
+Navarro_Texas,2.9728045673867e-07
+Randolph_West Virginia,2.96314397461912e-07
+Westmoreland_Pennsylvania,2.96080754200604e-07
+Warren_Tennessee,2.95855969956166e-07
+Charlevoix_Michigan,2.94861574885105e-07
+Charlevoix_Michigan,2.94861574885105e-07
+Caroline_Maryland,2.94326554187752e-07
+Gilmer_Georgia,2.93796324988415e-07
+Knox_Maine,2.93747707062703e-07
+Autauga_Alabama,2.93464908302588e-07
+Tipton_Tennessee,2.93091090930487e-07
+Pierce_Wisconsin,2.92213095391236e-07
+Monroe_Alabama,2.92087799149929e-07
+Monroe_Alabama,2.92087799149929e-07
+Van Wert_Ohio,2.90989486745177e-07
+Van Wert_Ohio,2.90989486745177e-07
+Lincoln_Washington,2.90778530230813e-07
+Lincoln_Washington,2.90778530230813e-07
+Somerset_Maryland,2.90632291538522e-07
+Somerset_Maryland,2.90632291538522e-07
+Halifax_Virginia,2.90580529511649e-07
+Halifax_Virginia,2.90580529511649e-07
+Morrow_Ohio,2.89269544872096e-07
+Tucker_West Virginia,2.88883285037067e-07
+Tucker_West Virginia,2.88883285037067e-07
+Hardeman_Tennessee,2.88166564891395e-07
+Hardeman_Tennessee,2.88166564891395e-07
+Venango_Pennsylvania,2.87190809906925e-07
+Fannin_Texas,2.86052844749309e-07
+Fannin_Texas,2.86052844749309e-07
+Ripley_Missouri,2.85515638358603e-07
+Ripley_Missouri,2.85515638358603e-07
+Sarpy_Nebraska,2.85320407024129e-07
+Pettis_Missouri,2.85278178953544e-07
+Pettis_Missouri,2.85278178953544e-07
+Saluda_South Carolina,2.84378194100569e-07
+Saluda_South Carolina,2.84378194100569e-07
+Wythe_Virginia,2.84350728337343e-07
+Wythe_Virginia,2.84350728337343e-07
+Washington_North Carolina,2.84316031535036e-07
+Marion_Florida,2.84025434793139e-07
+Caledonia_Vermont,2.83272324697438e-07
+Caledonia_Vermont,2.83272324697438e-07
+Monroe_Mississippi,2.82368039162511e-07
+Ward_North Dakota,2.81439688216142e-07
+McCreary_Kentucky,2.81282648400293e-07
+McCreary_Kentucky,2.81282648400293e-07
+Walker_Alabama,2.81091461246635e-07
+Ottawa_Kansas,2.80684127056404e-07
+Ottawa_Kansas,2.80684127056404e-07
+Hamilton_New York,2.80371187526788e-07
+Hamilton_New York,2.80371187526788e-07
+Saline_Kansas,2.79525949398898e-07
+Pickens_Georgia,2.79323446138365e-07
+Henry_Kentucky,2.79203468212702e-07
+Iowa_Wisconsin,2.78373745980979e-07
+Iowa_Wisconsin,2.78373745980979e-07
+Graham_Arizona,2.7783976413849e-07
+Graham_Arizona,2.7783976413849e-07
+Chisago_Minnesota,2.77681590842513e-07
+Le Flore_Oklahoma,2.77153510518369e-07
+Le Flore_Oklahoma,2.77153510518369e-07
+Steuben_Indiana,2.77083948620347e-07
+Steuben_Indiana,2.77083948620347e-07
+Winston_Alabama,2.77045489679977e-07
+Winston_Alabama,2.77045489679977e-07
+Johnson_Iowa,2.76487139204216e-07
+Saratoga_New York,2.76272232527198e-07
+Madera_California,2.76023300947637e-07
+Milam_Texas,2.7576788776788e-07
+Milam_Texas,2.7576788776788e-07
+Nicollet_Minnesota,2.75439190151712e-07
+Nicollet_Minnesota,2.75439190151712e-07
+Charles Mix_South Dakota,2.75180288112076e-07
+Charles Mix_South Dakota,2.75180288112076e-07
+Dawson_Nebraska,2.7487536993216e-07
+Dawson_Nebraska,2.7487536993216e-07
+Suwannee_Florida,2.74264612878236e-07
+Dickinson_Iowa,2.71848884512725e-07
+Dickinson_Iowa,2.71848884512725e-07
+Warren_Mississippi,2.71412662614151e-07
+Warren_Mississippi,2.71412662614151e-07
+Solano_California,2.70045182405622e-07
+Sagadahoc_Maine,2.69885987372244e-07
+Sagadahoc_Maine,2.69885987372244e-07
+Kerr_Texas,2.69612745826593e-07
+Miller_Arkansas,2.6953869115435e-07
+Siskiyou_California,2.69279476315884e-07
+Siskiyou_California,2.69279476315884e-07
+Harrison_Kentucky,2.69164652092433e-07
+Harrison_Kentucky,2.69164652092433e-07
+Doña Ana_New Mexico,2.69012074447934e-07
+Cooke_Texas,2.68977361350117e-07
+Cooke_Texas,2.68977361350117e-07
+La Paz_Arizona,2.68380329221572e-07
+La Paz_Arizona,2.68380329221572e-07
+Reno_Kansas,2.6796893527176e-07
+Reno_Kansas,2.6796893527176e-07
+Wright_Missouri,2.67739294747954e-07
+Unicoi_Tennessee,2.6750592686629e-07
+Unicoi_Tennessee,2.6750592686629e-07
+Hernando_Florida,2.67108331200559e-07
+Bibb_Alabama,2.66849634244446e-07
+Bonneville_Idaho,2.66311276537206e-07
+Pennington_South Dakota,2.66134957645029e-07
+Jasper_South Carolina,2.65698793688017e-07
+Jasper_South Carolina,2.65698793688017e-07
+Crawford_Kansas,2.65160683042027e-07
+Yazoo_Mississippi,2.64117766953038e-07
+Carroll_Iowa,2.63978608603913e-07
+Carroll_Iowa,2.63978608603913e-07
+Oneida_New York,2.63584180566859e-07
+Putnam_Indiana,2.62282239037796e-07
+Stoddard_Missouri,2.62212577608798e-07
+White_Tennessee,2.61958774052958e-07
+White_Tennessee,2.61958774052958e-07
+Amherst_Virginia,2.61865829231454e-07
+Fayette_Texas,2.61449228271317e-07
+Fluvanna_Virginia,2.61332097276573e-07
+Fluvanna_Virginia,2.61332097276573e-07
+Benton_Arkansas,2.61033798697602e-07
+Preble_Ohio,2.60968723382549e-07
+Marquette_Michigan,2.60928988799882e-07
+Sedgwick_Kansas,2.60410558016837e-07
+Marshall_Tennessee,2.60270115330289e-07
+Knox_Indiana,2.60117098801032e-07
+Knox_Indiana,2.60117098801032e-07
+Chisago_Minnesota,2.58650846113551e-07
+Pope_Arkansas,2.58532249032489e-07
+Ward_North Dakota,2.58503457893708e-07
+Bradford_Florida,2.58488081913651e-07
+Bradford_Florida,2.58488081913651e-07
+Fresno_California,2.58450938011594e-07
+Upshur_Texas,2.58231442205331e-07
+Hall_Texas,2.580981763045e-07
+Costilla_Colorado,2.58098176304495e-07
+Barry_Michigan,2.57599435445049e-07
+Campbell_Kentucky,2.56682608203158e-07
+Catoosa_Georgia,2.56499158097524e-07
+Monroe_Illinois,2.55892800919127e-07
+Monroe_Illinois,2.55892800919127e-07
+Cattaraugus_New York,2.55126095397028e-07
+Platte_Nebraska,2.55003627026319e-07
+Platte_Nebraska,2.55003627026319e-07
+Logan_Oklahoma,2.54329899238848e-07
+Woodford_Illinois,2.54042915106811e-07
+Woodford_Illinois,2.54042915106811e-07
+Lea_New Mexico,2.53481595497288e-07
+Lea_New Mexico,2.53481595497288e-07
+Pulaski_Arkansas,2.52602629882139e-07
+Davidson_North Carolina,2.52523512107365e-07
+Orange_Vermont,2.52515126798195e-07
+Washington_Alabama,2.52157494207116e-07
+Ogle_Illinois,2.51981303967618e-07
+Marion_Illinois,2.51957185958622e-07
+Clallam_Washington,2.51855779181699e-07
+Clallam_Washington,2.51855779181699e-07
+Dallas_Alabama,2.51583277388016e-07
+Dallas_Alabama,2.51583277388016e-07
+Huntingdon_Pennsylvania,2.51475455537823e-07
+Huntingdon_Pennsylvania,2.51475455537823e-07
+Washington_Kentucky,2.51143746099678e-07
+Washington_Kentucky,2.51143746099678e-07
+Charlton_Georgia,2.50863758110063e-07
+Charlton_Georgia,2.50863758110063e-07
+Wexford_Michigan,2.50649028024339e-07
+Crane_Texas,2.50369273072286e-07
+Crane_Texas,2.50369273072286e-07
+Franklin_Tennessee,2.50263086086807e-07
+Independence_Arkansas,2.50174416630358e-07
+Kalamazoo_Michigan,2.50130985212955e-07
+Clinton_Missouri,2.50121326689313e-07
+Heard_Georgia,2.49607927350874e-07
+Heard_Georgia,2.49607927350874e-07
+Payne_Oklahoma,2.48817348233295e-07
+Lowndes_Mississippi,2.48650613967052e-07
+Hopkins_Texas,2.48595424588693e-07
+Union_Tennessee,2.48359634552544e-07
+Union_Tennessee,2.48359634552544e-07
+Barry_Missouri,2.48214157250175e-07
+Barry_Missouri,2.48214157250175e-07
+Pitt_North Carolina,2.48126656584328e-07
+Rankin_Mississippi,2.48056286544756e-07
+Wichita_Texas,2.47851073647306e-07
+Wise_Texas,2.47388832375255e-07
+Howard_Indiana,2.46496188235304e-07
+Camden_Georgia,2.46249081804147e-07
+Kern_California,2.45601522625119e-07
+Lyon_Nevada,2.45594192193531e-07
+Lyon_Nevada,2.45594192193531e-07
+Grayson_Kentucky,2.45328133300284e-07
+Grayson_Kentucky,2.45328133300284e-07
+Cass_Nebraska,2.44806768530969e-07
+Cass_Nebraska,2.44806768530969e-07
+Stephens_Georgia,2.4474005594861e-07
+Belknap_New Hampshire,2.44301982962381e-07
+Ravalli_Montana,2.44265358204345e-07
+Ravalli_Montana,2.44265358204345e-07
+Tattnall_Georgia,2.4360044710385e-07
+Tattnall_Georgia,2.4360044710385e-07
+Lyon_Kansas,2.42294104907567e-07
+Caroline_Maryland,2.41797394537286e-07
+Pennington_South Dakota,2.41332211990489e-07
+Calhoun_Michigan,2.40760955937103e-07
+Edgefield_South Carolina,2.40734762362432e-07
+Edgefield_South Carolina,2.40734762362432e-07
+Cass_Minnesota,2.40713138552215e-07
+Cass_Minnesota,2.40713138552215e-07
+Suwannee_Florida,2.40695293640346e-07
+Albemarle_Virginia,2.40427328195555e-07
+Jefferson_Indiana,2.39914032433996e-07
+Marshall_Tennessee,2.38978543659551e-07
+Doniphan_Kansas,2.3877429911865e-07
+Doniphan_Kansas,2.3877429911865e-07
+Wilkes_North Carolina,2.38684389399956e-07
+Clay_Indiana,2.38577736042816e-07
+Clay_Indiana,2.38577736042816e-07
+Door_Wisconsin,2.37963442734844e-07
+Skagit_Washington,2.37292790653015e-07
+Skagit_Washington,2.37292790653015e-07
+Josephine_Oregon,2.36549161354332e-07
+Mohave_Arizona,2.36258102124321e-07
+Newton_Texas,2.35881791816856e-07
+Clare_Michigan,2.35425223608004e-07
+Clare_Michigan,2.35425223608004e-07
+Ottawa_Michigan,2.3541437319833e-07
+Somerset_Maine,2.34997406004995e-07
+Somerset_Maine,2.34997406004995e-07
+Logan_Kentucky,2.34700887819994e-07
+Logan_Kentucky,2.34700887819994e-07
+Sequoyah_Oklahoma,2.34644522814336e-07
+Sequoyah_Oklahoma,2.34644522814336e-07
+Forrest_Mississippi,2.34624814364882e-07
+Upshur_West Virginia,2.34581341172787e-07
+Upshur_West Virginia,2.34581341172787e-07
+Saline_Kansas,2.33535194175833e-07
+Grant_Kentucky,2.33076397901806e-07
+Grant_Kentucky,2.33076397901806e-07
+Boone_Arkansas,2.32916537029613e-07
+Huntington_Indiana,2.32902024180389e-07
+Franklin_Alabama,2.32619471783348e-07
+Franklin_Alabama,2.32619471783348e-07
+Washington_Colorado,2.32570553845789e-07
+Washington_Colorado,2.32570553845789e-07
+Lamoille_Vermont,2.32379953456191e-07
+Comal_Texas,2.32326721657395e-07
+Webster_Iowa,2.32135769591967e-07
+Webster_Iowa,2.32135769591967e-07
+Butler_Ohio,2.32122454575585e-07
+Marion_Tennessee,2.31567086230581e-07
+Manistee_Michigan,2.30654647363962e-07
+Manistee_Michigan,2.30654647363962e-07
+Boone_Indiana,2.30469157995955e-07
+Pickens_South Carolina,2.30296149953723e-07
+Fayette_Texas,2.30145080792967e-07
+Tishomingo_Mississippi,2.30030137986519e-07
+Frederick_Virginia,2.29932086655273e-07
+Smyth_Virginia,2.29595089908978e-07
+Garrett_Maryland,2.29032551929804e-07
+Garrett_Maryland,2.29032551929804e-07
+Fulton_Ohio,2.28658115700329e-07
+Fulton_Ohio,2.28658115700329e-07
+Logan_West Virginia,2.28657020825441e-07
+Person_North Carolina,2.28497220786966e-07
+Sweetwater_Wyoming,2.28140018101984e-07
+Carteret_North Carolina,2.27873561041767e-07
+Rusk_Texas,2.26686365921528e-07
+Rusk_Texas,2.26686365921528e-07
+Centre_Pennsylvania,2.26227909042682e-07
+Susquehanna_Pennsylvania,2.26186529457954e-07
+Susquehanna_Pennsylvania,2.26186529457954e-07
+Leelanau_Michigan,2.26116113141979e-07
+Leelanau_Michigan,2.26116113141979e-07
+Stanislaus_California,2.24787453025014e-07
+Taney_Missouri,2.23268505723242e-07
+Taney_Missouri,2.23268505723242e-07
+Powhatan_Virginia,2.23199331880057e-07
+Davison_South Dakota,2.22987009785618e-07
+Davison_South Dakota,2.22987009785618e-07
+McClain_Oklahoma,2.22559240590557e-07
+Upshur_Texas,2.21289540146537e-07
+Washington_Arkansas,2.21179274849249e-07
+Clark_Washington,2.2096910946739e-07
+Miami_Kansas,2.20799637391416e-07
+Miami_Kansas,2.20799637391416e-07
+Logan_Ohio,2.20607273051344e-07
+Logan_Ohio,2.20607273051344e-07
+Berkeley_West Virginia,2.20363886678438e-07
+Champaign_Ohio,2.20299025018715e-07
+Crawford_Ohio,2.2016460176961e-07
+Mohave_Arizona,2.20164182446785e-07
+Woodbury_Iowa,2.19522584990759e-07
+Woodbury_Iowa,2.19522584990759e-07
+Carter_Tennessee,2.19273727983671e-07
+Carter_Tennessee,2.19273727983671e-07
+Wayne_Ohio,2.17733135228836e-07
+Valencia_New Mexico,2.17626399748203e-07
+Brown_Texas,2.17559102778897e-07
+Brown_Texas,2.17559102778897e-07
+Crawford_Pennsylvania,2.16914749951748e-07
+Smyth_Virginia,2.16558846862964e-07
+Bon Homme_South Dakota,2.16244288423911e-07
+Bon Homme_South Dakota,2.16244288423911e-07
+Jackson_Alabama,2.16142163576033e-07
+Dillon_South Carolina,2.15705737560669e-07
+Dillon_South Carolina,2.15705737560669e-07
+Shelby_Kentucky,2.15648421227084e-07
+Cass_Missouri,2.15467672493694e-07
+Scotland_North Carolina,2.15221553843179e-07
+Scotland_North Carolina,2.15221553843179e-07
+Kandiyohi_Minnesota,2.14965973903435e-07
+Pottawattamie_Iowa,2.14524358599554e-07
+Boyle_Kentucky,2.14425246474695e-07
+Boyle_Kentucky,2.14425246474695e-07
+Obion_Tennessee,2.13633611441464e-07
+Obion_Tennessee,2.13633611441464e-07
+Ross_Ohio,2.13543737589747e-07
+LaGrange_Indiana,2.1328667650931e-07
+LaGrange_Indiana,2.1328667650931e-07
+Ashland_Wisconsin,2.13128413393385e-07
+Jackson_Mississippi,2.12929681933718e-07
+Adair_Iowa,2.11951743139395e-07
+Adair_Iowa,2.11951743139395e-07
+Whitley_Indiana,2.11414479574452e-07
+Butler_Kansas,2.11166248085078e-07
+Butler_Kansas,2.11166248085078e-07
+Carroll_New Hampshire,2.10611915595985e-07
+Clay_Missouri,2.10197401747689e-07
+Escambia_Alabama,2.10178473551929e-07
+Escambia_Alabama,2.10178473551929e-07
+Covington_Alabama,2.09872946895519e-07
+Covington_Alabama,2.09872946895519e-07
+Autauga_Alabama,2.09789963332355e-07
+Lorain_Ohio,2.09051235616328e-07
+Doña Ana_New Mexico,2.09036509817093e-07
+Wexford_Michigan,2.08911428105007e-07
+Mercer_Ohio,2.08882673817208e-07
+Mercer_Ohio,2.08882673817208e-07
+Nevada_California,2.08675618375831e-07
+Dakota_Minnesota,2.08653235819555e-07
+Linn_Oregon,2.08271096776602e-07
+Citrus_Florida,2.08047430836689e-07
+Stephenson_Illinois,2.0798836075955e-07
+Stephenson_Illinois,2.0798836075955e-07
+Coshocton_Ohio,2.07623858789206e-07
+Cache_Utah,2.07332409330268e-07
+Chippewa_Michigan,2.0674377659144e-07
+Chippewa_Michigan,2.0674377659144e-07
+McMinn_Tennessee,2.0673323458712e-07
+McMinn_Tennessee,2.0673323458712e-07
+Outagamie_Wisconsin,2.05822669278577e-07
+Orange_Vermont,2.05695437298046e-07
+Hale_Alabama,2.05486709652974e-07
+Mason_West Virginia,2.05418932685887e-07
+Mason_West Virginia,2.05418932685887e-07
+Clinton_Indiana,2.053552936282e-07
+Clinton_Indiana,2.053552936282e-07
+Des Moines_Iowa,2.05081669729092e-07
+Des Moines_Iowa,2.05081669729092e-07
+Glenn_California,2.05032007119593e-07
+Washington_Ohio,2.04884894571199e-07
+Washington_Ohio,2.04884894571199e-07
+Delaware_Ohio,2.04766773534576e-07
+Tom Green_Texas,2.04737816184111e-07
+Hardin_Tennessee,2.04427387591657e-07
+Hardin_Tennessee,2.04427387591657e-07
+McNairy_Tennessee,2.04123400004082e-07
+McNairy_Tennessee,2.04123400004082e-07
+Henry_Tennessee,2.04108982985233e-07
+Henry_Tennessee,2.04108982985233e-07
+Lawrence_Tennessee,2.03513839805637e-07
+Gallia_Ohio,2.03017034559424e-07
+Gallia_Ohio,2.03017034559424e-07
+Lincoln_Tennessee,2.02931887183491e-07
+Lincoln_Tennessee,2.02931887183491e-07
+Bradley_Tennessee,2.01061247750524e-07
+Randolph_Missouri,2.00839787421334e-07
+Madison_Georgia,2.00552769819657e-07
+Dubois_Indiana,2.00477864905712e-07
+Orleans_New York,2.00293847243328e-07
+Telfair_Georgia,1.99483925484177e-07
+Adams_Nebraska,1.9922414677484e-07
+Kauai_Hawaii,1.98072447692318e-07
+Kauai_Hawaii,1.98072447692318e-07
+Adams_Nebraska,1.97816699811202e-07
+Clinton_Illinois,1.97740848935264e-07
+Oneida_Wisconsin,1.97533454444202e-07
+Johnson_Tennessee,1.96177109894476e-07
+Johnson_Tennessee,1.96177109894476e-07
+Cape May_New Jersey,1.96127625857403e-07
+Cullman_Alabama,1.96106667026635e-07
+Clay_Minnesota,1.96082542288248e-07
+Whitfield_Georgia,1.96021147569847e-07
+Guadalupe_Texas,1.95548980521658e-07
+Harrison_Indiana,1.95332719719066e-07
+Kootenai_Idaho,1.95272643971603e-07
+Coffee_Tennessee,1.94572978633242e-07
+Coffee_Tennessee,1.94572978633242e-07
+Morris_Kansas,1.94421531725043e-07
+Morris_Kansas,1.94421531725043e-07
+Warren_New York,1.94348400712094e-07
+Warren_New York,1.94348400712094e-07
+Clermont_Ohio,1.94197734285689e-07
+Jasper_Missouri,1.93628702679061e-07
+Marshall_West Virginia,1.93420894609201e-07
+Marshall_West Virginia,1.93420894609201e-07
+Marinette_Wisconsin,1.92990045391633e-07
+Marinette_Wisconsin,1.92990045391633e-07
+Columbus_North Carolina,1.92624633638171e-07
+Coffee_Georgia,1.92514205760901e-07
+Monroe_Wisconsin,1.92132123391759e-07
+Marshall_Kentucky,1.92075988302643e-07
+Hickman_Tennessee,1.90938453386756e-07
+Sanilac_Michigan,1.90872180154105e-07
+Brown_Wisconsin,1.9085562318551e-07
+Jackson_Illinois,1.90758972864147e-07
+Athens_Ohio,1.9065413678717e-07
+Knox_Illinois,1.89861238810952e-07
+Knox_Illinois,1.89861238810952e-07
+Randolph_Arkansas,1.89305001682164e-07
+Thurston_Washington,1.88518187915057e-07
+Garfield_Oklahoma,1.88286485245033e-07
+Garfield_Oklahoma,1.88286485245033e-07
+Leon_Florida,1.88128106070693e-07
+Cerro Gordo_Iowa,1.87990428737599e-07
+Miami_Indiana,1.87707654106366e-07
+Nassau_Florida,1.87418193983556e-07
+Orange_Virginia,1.86983862959968e-07
+Floyd_Indiana,1.86956138949524e-07
+Cherokee_Alabama,1.86812636040314e-07
+Cherokee_Alabama,1.86812636040314e-07
+Phillips_Colorado,1.86400006951899e-07
+Bates_Missouri,1.86366027936251e-07
+Lane_Oregon,1.86246769211725e-07
+Ontario_New York,1.85530557859148e-07
+Brown_South Dakota,1.85145286932569e-07
+LaPorte_Indiana,1.85096959016851e-07
+Walworth_Wisconsin,1.84752825213961e-07
+Walworth_Wisconsin,1.84752825213961e-07
+Gregg_Texas,1.84045084413903e-07
+Greene_Arkansas,1.83626963161268e-07
+Culpeper_Virginia,1.83508764705301e-07
+Horry_South Carolina,1.83291276548336e-07
+Anderson_Texas,1.83051124637824e-07
+Scott_Indiana,1.82558344445464e-07
+Scott_Indiana,1.82558344445464e-07
+Perry_Ohio,1.82022035187642e-07
+Carroll_Ohio,1.81609273703289e-07
+Lincoln_Colorado,1.81338269022312e-07
+Lincoln_Colorado,1.81338269022312e-07
+Iron_Wisconsin,1.80645315889888e-07
+Iron_Wisconsin,1.80645315889888e-07
+Accomack_Virginia,1.80178611451757e-07
+Scott_Minnesota,1.79924825434805e-07
+Montgomery_New York,1.78460726182016e-07
+Lapeer_Michigan,1.78270314403946e-07
+Maui_Hawaii,1.78263657243012e-07
+Lewis_Tennessee,1.78084220875442e-07
+Lewis_Tennessee,1.78084220875442e-07
+Lincoln_Missouri,1.77373291038836e-07
+Adair_Missouri,1.77267970580511e-07
+Adair_Missouri,1.77267970580511e-07
+Tazewell_Virginia,1.76518251604516e-07
+Brown_South Dakota,1.75514936883326e-07
+Scott_Minnesota,1.75206242423583e-07
+Shawnee_Kansas,1.75190466205287e-07
+Wakulla_Florida,1.75034896016947e-07
+Wakulla_Florida,1.75034896016947e-07
+Muskegon_Michigan,1.74954650584082e-07
+Carroll_Tennessee,1.74780077086377e-07
+Carroll_Tennessee,1.74780077086377e-07
+Lincoln_Minnesota,1.74376872156701e-07
+Lincoln_Minnesota,1.74376872156701e-07
+Walton_Florida,1.73269272940073e-07
+Greene_Indiana,1.72141161774456e-07
+Dyer_Tennessee,1.71598957381421e-07
+Dyer_Tennessee,1.71598957381421e-07
+Cullman_Alabama,1.71334481263463e-07
+Gove_Kansas,1.71218394450893e-07
+Gove_Kansas,1.71218394450893e-07
+Hawaii_Hawaii,1.70746924515861e-07
+Armstrong_Pennsylvania,1.70566865604285e-07
+Harrison_Mississippi,1.70074825513002e-07
+Union_North Carolina,1.69930686043803e-07
+Pike_Ohio,1.69722415378558e-07
+Pike_Ohio,1.69722415378558e-07
+Polk_Georgia,1.69483755928146e-07
+Jackson_Oregon,1.68887804628653e-07
+Morgan_Alabama,1.68870549704319e-07
+Green_Wisconsin,1.68633912309534e-07
+Wabash_Indiana,1.68536469726107e-07
+Wabash_Indiana,1.68536469726107e-07
+Johnston_North Carolina,1.68427859862103e-07
+Anderson_Tennessee,1.6838598458377e-07
+Lac qui Parle_Minnesota,1.68052630843509e-07
+Lac qui Parle_Minnesota,1.68052630843509e-07
+Douglas_Nevada,1.67403977200088e-07
+Douglas_Nevada,1.67403977200088e-07
+Monroe_Michigan,1.66552398110463e-07
+Cumberland_North Carolina,1.66494953402946e-07
+Starr_Texas,1.66127991777955e-07
+Starr_Texas,1.66127991777955e-07
+Dunn_Wisconsin,1.66110404490942e-07
+Dunn_Wisconsin,1.66110404490942e-07
+Washington_Oklahoma,1.6605297897647e-07
+Maverick_Texas,1.66044790369594e-07
+Maverick_Texas,1.66044790369594e-07
+Seneca_New York,1.65434077565364e-07
+Anson_North Carolina,1.65319631428569e-07
+Meagher_Montana,1.65258785434069e-07
+Meagher_Montana,1.65258785434069e-07
+Lamar_Mississippi,1.63753670866119e-07
+Etowah_Alabama,1.63514677804934e-07
+Mason_Washington,1.63432255354557e-07
+Mason_Washington,1.63432255354557e-07
+Berrien_Michigan,1.63407526289558e-07
+Wicomico_Maryland,1.63335183080142e-07
+Clearfield_Pennsylvania,1.63270254003496e-07
+Forrest_Mississippi,1.62713027516156e-07
+Madison_Kentucky,1.62700736280065e-07
+Banks_Georgia,1.62277861277744e-07
+Imperial_California,1.6174887639801e-07
+Cowlitz_Washington,1.61106707319159e-07
+Cowlitz_Washington,1.61106707319159e-07
+Champaign_Ohio,1.60981853965281e-07
+Mecosta_Michigan,1.60356154155206e-07
+Marshall_Kentucky,1.59130220916463e-07
+Cattaraugus_New York,1.58693027500264e-07
+Deuel_South Dakota,1.58675471071004e-07
+Deuel_South Dakota,1.58675471071004e-07
+Cleveland_North Carolina,1.5853586367804e-07
+Orangeburg_South Carolina,1.58052636058833e-07
+Marion_West Virginia,1.57599259788872e-07
+Marion_West Virginia,1.57599259788872e-07
+Clark_Kentucky,1.57406708414513e-07
+Blair_Pennsylvania,1.57396928795806e-07
+Adams_Pennsylvania,1.57206685676257e-07
+Hinsdale_Colorado,1.57181399957997e-07
+Hinsdale_Colorado,1.57181399957997e-07
+Clinch_Georgia,1.5682875474515e-07
+Clinch_Georgia,1.5682875474515e-07
+Sebastian_Arkansas,1.56536352228746e-07
+Jefferson_New York,1.56528638365014e-07
+Holmes_Ohio,1.56224243590318e-07
+Bryan_Oklahoma,1.56147891637262e-07
+Bryan_Oklahoma,1.56147891637262e-07
+Lewis_Washington,1.55814152245765e-07
+Lewis_Washington,1.55814152245765e-07
+Kaufman_Texas,1.55122131260248e-07
+New Hanover_North Carolina,1.54719074469256e-07
+Cocke_Tennessee,1.5463890082743e-07
+Cocke_Tennessee,1.5463890082743e-07
+Defiance_Ohio,1.53877928031291e-07
+Defiance_Ohio,1.53877928031291e-07
+Greene_Tennessee,1.53620631151956e-07
+Bastrop_Texas,1.53521128311684e-07
+Anoka_Minnesota,1.53278370375611e-07
+Newaygo_Michigan,1.52820057543977e-07
+Newaygo_Michigan,1.52820057543977e-07
+Roane_Tennessee,1.52689778112853e-07
+Roane_Tennessee,1.52689778112853e-07
+Waupaca_Wisconsin,1.52655201747117e-07
+Waupaca_Wisconsin,1.52655201747117e-07
+Tazewell_Virginia,1.52616339340004e-07
+Adams_Indiana,1.52457546844607e-07
+Adams_Indiana,1.52457546844607e-07
+Nelson_Kentucky,1.52124705930139e-07
+Nelson_Kentucky,1.52124705930139e-07
+Wapello_Iowa,1.5206243064791e-07
+Wapello_Iowa,1.5206243064791e-07
+Rock_Wisconsin,1.51230633369834e-07
+Sherburne_Minnesota,1.51060214124535e-07
+Carver_Minnesota,1.50951342993439e-07
+Montgomery_Virginia,1.50948426087496e-07
+Montgomery_Virginia,1.50948426087496e-07
+Clinton_Ohio,1.5047015086613e-07
+Clinton_Ohio,1.5047015086613e-07
+Culpeper_Virginia,1.50383878519767e-07
+Claiborne_Tennessee,1.50363600072559e-07
+Claiborne_Tennessee,1.50363600072559e-07
+Warrick_Indiana,1.50050508376144e-07
+Warrick_Indiana,1.50050508376144e-07
+Crawford_Arkansas,1.48768795954268e-07
+Moore_North Carolina,1.4737926618904e-07
+Columbia_Washington,1.46853658728742e-07
+Columbia_Washington,1.46853658728742e-07
+Sumter_Alabama,1.46674714763294e-07
+Carter_Oklahoma,1.46547530189281e-07
+Carter_Oklahoma,1.46547530189281e-07
+Otter Tail_Minnesota,1.46504648915614e-07
+Otter Tail_Minnesota,1.46504648915614e-07
+Grundy_Illinois,1.46439023101934e-07
+Washington_Illinois,1.46198053380414e-07
+Washington_Illinois,1.46198053380414e-07
+Wicomico_Maryland,1.46144941296439e-07
+Union_Pennsylvania,1.45861182031626e-07
+Columbia_Pennsylvania,1.45838822859145e-07
+Scott_Iowa,1.45294821507389e-07
+Van Zandt_Texas,1.45276506364255e-07
+Oldham_Texas,1.45059451818641e-07
+Oldham_Texas,1.45059451818641e-07
+Dodge_Wisconsin,1.44878296874888e-07
+Newton_Missouri,1.43956839345802e-07
+Cumberland_Tennessee,1.43238060390047e-07
+Allegany_New York,1.43064047083321e-07
+Carson City_Nevada,1.42903925787876e-07
+Carson City_Nevada,1.42903925787876e-07
+Mesa_Colorado,1.42850240913433e-07
+Greene_Arkansas,1.4264174023681e-07
+Stanly_North Carolina,1.41798307919171e-07
+Stanly_North Carolina,1.41798307919171e-07
+Richmond_North Carolina,1.41762765790193e-07
+Richmond_North Carolina,1.41762765790193e-07
+Coshocton_Ohio,1.4156268477659e-07
+Putnam_Florida,1.41265248353397e-07
+Brazos_Texas,1.40896308877416e-07
+Cortland_New York,1.40438954091491e-07
+Floyd_Kentucky,1.40430981107606e-07
+Floyd_Kentucky,1.40430981107606e-07
+Rice_Minnesota,1.39884142779482e-07
+Rice_Minnesota,1.39884142779482e-07
+Orange_Texas,1.38788947397546e-07
+Winnebago_Illinois,1.38636018664109e-07
+Warren_Ohio,1.38570221658812e-07
+Camden_Georgia,1.38554515790639e-07
+Jefferson_Texas,1.38511626125768e-07
+Blount_Alabama,1.37597527387799e-07
+Blount_Alabama,1.37597527387799e-07
+Van Zandt_Texas,1.37471784095804e-07
+Sevier_Tennessee,1.37131199301668e-07
+Grand Traverse_Michigan,1.36591699208745e-07
+Gloucester_Virginia,1.36419469183907e-07
+Guthrie_Iowa,1.36379734353006e-07
+Winnebago_Wisconsin,1.36105670229705e-07
+Alexander_North Carolina,1.35757987873755e-07
+Williamson_Tennessee,1.35461807543073e-07
+Jackson_Florida,1.35367086889623e-07
+Jackson_Florida,1.35367086889623e-07
+Douglas_Kansas,1.35289377356017e-07
+Gibson_Tennessee,1.35278493381974e-07
+Berkeley_South Carolina,1.35210814887434e-07
+Okaloosa_Florida,1.35057068478507e-07
+Franklin_Washington,1.3499227980846e-07
+Laurens_Georgia,1.34934051279841e-07
+Vigo_Indiana,1.34382957358817e-07
+Pueblo_Colorado,1.34119553929255e-07
+Broome_New York,1.34058459009819e-07
+Glenn_California,1.33488264011943e-07
+Cecil_Maryland,1.33248695150295e-07
+Fayette_Ohio,1.33017292416299e-07
+Fayette_Ohio,1.33017292416299e-07
+Clark_Indiana,1.32865070624056e-07
+Cabell_West Virginia,1.3277633790117e-07
+Cabell_West Virginia,1.3277633790117e-07
+Darlington_South Carolina,1.32729343136884e-07
+Sullivan_Tennessee,1.3272448671907e-07
+Deschutes_Oregon,1.32633520039221e-07
+Calaveras_California,1.32475682279718e-07
+Calaveras_California,1.32475682279718e-07
+Lewis and Clark_Montana,1.32300978044949e-07
+Boone_Kentucky,1.31918950320926e-07
+Hanover_Virginia,1.31313702577892e-07
+Tazewell_Illinois,1.30380122438155e-07
+Tazewell_Illinois,1.30380122438155e-07
+Nacogdoches_Texas,1.3028323885571e-07
+Nacogdoches_Texas,1.3028323885571e-07
+Talladega_Alabama,1.29909375651749e-07
+Jones_Mississippi,1.29878464158022e-07
+San Patricio_Texas,1.29456947431736e-07
+San Patricio_Texas,1.29456947431736e-07
+Yuma_Arizona,1.28904753405732e-07
+Allegany_New York,1.28068615524173e-07
+Roanoke_Virginia,1.278051536752e-07
+Kitsap_Washington,1.27335602259694e-07
+Sweetwater_Wyoming,1.2713127546038e-07
+Sumner_Tennessee,1.26969634882919e-07
+Haralson_Georgia,1.26423194736021e-07
+Randall_Texas,1.26343932982353e-07
+Shiawassee_Michigan,1.2593746571417e-07
+Calumet_Wisconsin,1.25850529167857e-07
+Calumet_Wisconsin,1.25850529167857e-07
+Allen_Ohio,1.25238732712617e-07
+Sauk_Wisconsin,1.25049736037555e-07
+Mower_Minnesota,1.24667043324509e-07
+Wayne_Pennsylvania,1.2466430492631e-07
+Fayette_Tennessee,1.24655433186129e-07
+Waldo_Maine,1.23764795097717e-07
+Waldo_Maine,1.23764795097717e-07
+Madison_Alabama,1.23404642524556e-07
+Potter_Texas,1.22866136345102e-07
+Grafton_New Hampshire,1.22664861730056e-07
+Burke_North Carolina,1.22472754166454e-07
+Medina_Texas,1.21881911774686e-07
+Medina_Texas,1.21881911774686e-07
+Cayuga_New York,1.21466688107632e-07
+Jefferson_Ohio,1.21401398104769e-07
+Chelan_Washington,1.21290026980977e-07
+Chelan_Washington,1.21290026980977e-07
+Washington_Virginia,1.21264242243691e-07
+Washington_Virginia,1.21264242243691e-07
+Kenton_Kentucky,1.21153494122236e-07
+Hawaii_Hawaii,1.20955845137858e-07
+Laurens_South Carolina,1.20887826678424e-07
+Laurens_South Carolina,1.20887826678424e-07
+Tuscaloosa_Alabama,1.2086798587267e-07
+Campbell_Tennessee,1.20437373778949e-07
+Campbell_Tennessee,1.20437373778949e-07
+Dubuque_Iowa,1.19623691461907e-07
+Humphreys_Tennessee,1.19613711880756e-07
+Midland_Texas,1.19554358193207e-07
+Walla Walla_Washington,1.19282779061433e-07
+Walla Walla_Washington,1.19282779061433e-07
+Chattooga_Georgia,1.18949176002476e-07
+Perry_Pennsylvania,1.18773927314706e-07
+Perry_Pennsylvania,1.18773927314706e-07
+Midland_Texas,1.1863565927896e-07
+Williamson_Texas,1.18623989229929e-07
+Erie_Ohio,1.18552725999137e-07
+Erie_Ohio,1.18552725999137e-07
+Colbert_Alabama,1.18090903115916e-07
+Jefferson_Texas,1.17875933279381e-07
+Madison_Illinois,1.17686835612824e-07
+Douglas_Oregon,1.17247324904055e-07
+Buncombe_North Carolina,1.17169788261186e-07
+Lancaster_Nebraska,1.17082917381001e-07
+Columbia_Florida,1.16900083608297e-07
+Columbia_Florida,1.16900083608297e-07
+Columbia_Oregon,1.16893366459522e-07
+Columbia_Oregon,1.16893366459522e-07
+Ashtabula_Ohio,1.16303660408429e-07
+Ashtabula_Ohio,1.16303660408429e-07
+Cameron_Texas,1.15799418691475e-07
+Clark_Ohio,1.15107624946271e-07
+Henderson_Kentucky,1.1477544796492e-07
+Henderson_Kentucky,1.1477544796492e-07
+Kosciusko_Indiana,1.14164348628956e-07
+Auglaize_Ohio,1.14107479534205e-07
+Auglaize_Ohio,1.14107479534205e-07
+Atlantic_New Jersey,1.13695815667715e-07
+Bay_Florida,1.13623548389928e-07
+Crawford_Michigan,1.13483123073164e-07
+Crawford_Michigan,1.13483123073164e-07
+Union_Ohio,1.13260435209073e-07
+Hancock_Ohio,1.13067189821846e-07
+Sauk_Wisconsin,1.12985027250719e-07
+Texas_Missouri,1.12838797876136e-07
+Texas_Missouri,1.12838797876136e-07
+Erie_Pennsylvania,1.12823789357935e-07
+Noble_Indiana,1.12423413630419e-07
+Noble_Indiana,1.12423413630419e-07
+Warren_Kentucky,1.12154365205003e-07
+Wood_Ohio,1.1206978032545e-07
+Henry_Virginia,1.11955479827171e-07
+Benton_Minnesota,1.11780039330517e-07
+Benton_Minnesota,1.11780039330517e-07
+Worcester_Maryland,1.11738096389019e-07
+Ionia_Michigan,1.1170449369769e-07
+Spotsylvania_Virginia,1.11467468256424e-07
+Boone_Kentucky,1.11345383516641e-07
+Oldham_Kentucky,1.1133587182744e-07
+Oldham_Kentucky,1.1133587182744e-07
+Laurel_Kentucky,1.10778683438935e-07
+Mercer_Pennsylvania,1.10284307850719e-07
+Windsor_Vermont,1.10111800370737e-07
+Windsor_Vermont,1.10111800370737e-07
+Herkimer_New York,1.10066370787475e-07
+Parker_Texas,1.10041602331408e-07
+Parker_Texas,1.10041602331408e-07
+Peoria_Illinois,1.09779925742061e-07
+Peoria_Illinois,1.09779925742061e-07
+Lycoming_Pennsylvania,1.093657913265e-07
+Harrison_Texas,1.09218293008498e-07
+Harrison_Texas,1.09218293008498e-07
+Chautauqua_New York,1.09007869301736e-07
+Madison_Tennessee,1.08967665975793e-07
+Erath_Texas,1.08636032946477e-07
+Erath_Texas,1.08636032946477e-07
+Lauderdale_Alabama,1.08201809076288e-07
+Lauderdale_Alabama,1.08201809076288e-07
+Loudon_Tennessee,1.07942150307138e-07
+Loudon_Tennessee,1.07942150307138e-07
+Fulton_New York,1.07785822337455e-07
+Fulton_New York,1.07785822337455e-07
+Atascosa_Texas,1.07608040927957e-07
+Atascosa_Texas,1.07608040927957e-07
+Lamar_Texas,1.07556026742076e-07
+Lamar_Texas,1.07556026742076e-07
+Champaign_Illinois,1.07525127975484e-07
+Mason_Illinois,1.07522338043545e-07
+Tipton_Tennessee,1.06865437490827e-07
+Ellis_Texas,1.06807539842343e-07
+Queen Anne's_Maryland,1.06607625329757e-07
+Queen Anne's_Maryland,1.06607625329757e-07
+Lawrence_Ohio,1.05725006393751e-07
+Lawrence_Ohio,1.05725006393751e-07
+Grays Harbor_Washington,1.05208058488068e-07
+Grays Harbor_Washington,1.05208058488068e-07
+Bulloch_Georgia,1.04885044636651e-07
+Sevier_Tennessee,1.04381760168797e-07
+Potter_Texas,1.04016850917764e-07
+Bastrop_Texas,1.03881565796324e-07
+Cayuga_New York,1.03411729870225e-07
+Tippecanoe_Indiana,1.03362096170951e-07
+Iredell_North Carolina,1.03021522161407e-07
+Lyman_South Dakota,1.02845585274452e-07
+Lyman_South Dakota,1.02845585274452e-07
+Faulk_South Dakota,1.02811188392988e-07
+Faulk_South Dakota,1.02811188392988e-07
+Aurora_South Dakota,1.02811188392977e-07
+Aurora_South Dakota,1.02811188392977e-07
+Windham_Connecticut,1.02799164577655e-07
+Grand Traverse_Michigan,1.0265222451754e-07
+Beaufort_North Carolina,1.02329785046906e-07
+DeKalb_Indiana,1.01225934059472e-07
+DeKalb_Indiana,1.01225934059472e-07
+Duplin_North Carolina,1.00382546201715e-07
+Duplin_North Carolina,1.00382546201715e-07
+Johnson_Missouri,9.99434376022982e-08
+Craven_North Carolina,9.98626157147577e-08
+Pulaski_Missouri,9.97988625406208e-08
+Williamson_Illinois,9.97564816189675e-08
+Williamson_Illinois,9.97564816189675e-08
+Jones_Mississippi,9.95893481735497e-08
+Watauga_North Carolina,9.92890503306815e-08
+Watauga_North Carolina,9.92890503306815e-08
+Tompkins_New York,9.88443891871845e-08
+Tuolumne_California,9.86588548680577e-08
+Tuolumne_California,9.86588548680577e-08
+Catawba_North Carolina,9.86212616409036e-08
+McIntosh_North Dakota,9.85829820764146e-08
+McIntosh_North Dakota,9.85829820764146e-08
+Calhoun_Michigan,9.84169467797727e-08
+Washington_Tennessee,9.84003201740323e-08
+Washington_Tennessee,9.84003201740323e-08
+Lincoln_Oregon,9.81371666604378e-08
+Clearfield_Pennsylvania,9.74900088543057e-08
+Harford_Maryland,9.72137881025232e-08
+Stearns_Minnesota,9.68488139139979e-08
+Stearns_Minnesota,9.68488139139979e-08
+Pittsylvania_Virginia,9.68482067177913e-08
+Pittsylvania_Virginia,9.68482067177913e-08
+Sutter_California,9.67212439081893e-08
+Butte_California,9.66578068714264e-08
+Gadsden_Florida,9.65168968747327e-08
+Gadsden_Florida,9.65168968747327e-08
+Riley_Kansas,9.61422733530569e-08
+Riley_Kansas,9.61422733530569e-08
+Jackson_Illinois,9.61306603587239e-08
+Smith_Texas,9.60506338594821e-08
+Yolo_California,9.58092298688543e-08
+Glynn_Georgia,9.57565968087946e-08
+Jasper_Missouri,9.56677877216888e-08
+Carver_Minnesota,9.5233275541165e-08
+Muskingum_Ohio,9.46020970641717e-08
+Muskingum_Ohio,9.46020970641717e-08
+Cambria_Pennsylvania,9.41240280045946e-08
+Highland_Ohio,9.36798502817425e-08
+Highland_Ohio,9.36798502817425e-08
+Lancaster_Nebraska,9.30293582846362e-08
+Marathon_Wisconsin,9.2984958591485e-08
+Hawkins_Tennessee,9.17750880648184e-08
+Lebanon_Pennsylvania,9.16893213631364e-08
+Wright_Minnesota,9.1149098754093e-08
+Wright_Minnesota,9.1149098754093e-08
+Sampson_North Carolina,9.01798111945863e-08
+Sampson_North Carolina,9.01798111945863e-08
+Tippecanoe_Indiana,8.9868850969762e-08
+Calhoun_Alabama,8.97903667907852e-08
+Gordon_Georgia,8.92412555407274e-08
+Alamance_North Carolina,8.90834689124003e-08
+DeKalb_Illinois,8.88501716910028e-08
+Adams_Illinois,8.80739536363029e-08
+Adams_Illinois,8.80739536363029e-08
+Wilson_Tennessee,8.74607842579456e-08
+Waller_Texas,8.74375043181722e-08
+Waller_Texas,8.74375043181722e-08
+Marion_Ohio,8.72820487153687e-08
+Hunt_Texas,8.7198869463139e-08
+Columbia_Wisconsin,8.67610514749954e-08
+Columbia_Wisconsin,8.67610514749954e-08
+Calloway_Kentucky,8.67334844983813e-08
+Calloway_Kentucky,8.67334844983813e-08
+Story_Iowa,8.612235857605e-08
+Story_Iowa,8.612235857605e-08
+Somerset_Pennsylvania,8.59546079557356e-08
+Somerset_Pennsylvania,8.59546079557356e-08
+Sangamon_Illinois,8.57987933667442e-08
+Baldwin_Alabama,8.55155956515295e-08
+Appanoose_Iowa,8.5393928873288e-08
+Appanoose_Iowa,8.5393928873288e-08
+Harrison_West Virginia,8.53556989039787e-08
+El Paso_Texas,8.53149697032345e-08
+Alamance_North Carolina,8.5071740317343e-08
+Gregg_Texas,8.50011866620201e-08
+Merced_California,8.49321484650613e-08
+Grayson_Texas,8.351263531263e-08
+Shasta_California,8.32082254060994e-08
+Walker_Texas,8.31712103244932e-08
+Walker_Texas,8.31712103244932e-08
+Craighead_Arkansas,8.31300102089661e-08
+Sullivan_Tennessee,8.31068870747365e-08
+Lancaster_South Carolina,8.30167937497601e-08
+Macon_Illinois,8.26130310388061e-08
+Macon_Illinois,8.26130310388061e-08
+Vanderburgh_Indiana,8.25844764210045e-08
+Ionia_Michigan,8.20493468207411e-08
+Putnam_West Virginia,8.19574226574449e-08
+Burke_North Carolina,8.170702661382e-08
+Butte_California,8.11480940957693e-08
+Russell_Alabama,8.07635852759782e-08
+Russell_Alabama,8.07635852759782e-08
+Smith_Texas,8.04092126607834e-08
+Lincoln_North Carolina,8.00208207869721e-08
+Lenoir_North Carolina,7.99637023133467e-08
+Lenoir_North Carolina,7.99637023133467e-08
+Northumberland_Pennsylvania,7.99533091868117e-08
+Northumberland_Pennsylvania,7.99533091868117e-08
+Allegan_Michigan,7.98099009074809e-08
+Eau Claire_Wisconsin,7.95050738926732e-08
+Coryell_Texas,7.9398032937082e-08
+Coryell_Texas,7.9398032937082e-08
+Mendocino_California,7.90595446737458e-08
+Isle of Wight_Virginia,7.89159789429033e-08
+Henry_Virginia,7.87234364802552e-08
+Lee_Alabama,7.80389540489995e-08
+Madison_Tennessee,7.71224319510549e-08
+Wood_West Virginia,7.69898033606632e-08
+Wood_West Virginia,7.69898033606632e-08
+Tuscarawas_Ohio,7.68836270739227e-08
+Henry_Illinois,7.68657087960355e-08
+Henry_Illinois,7.68657087960355e-08
+Black Hawk_Iowa,7.66649584566246e-08
+Bay_Michigan,7.64447301134576e-08
+Rutherford_Tennessee,7.55484158375818e-08
+Pierce_Washington,7.50873040993374e-08
+Brunswick_North Carolina,7.47320523412203e-08
+Hardin_Kentucky,7.47251024698942e-08
+Mercer_West Virginia,7.46720048184368e-08
+Mercer_West Virginia,7.46720048184368e-08
+Henderson_Texas,7.439840157408e-08
+Henderson_Texas,7.439840157408e-08
+Tulare_California,7.38626544596951e-08
+McDowell_North Carolina,7.37076824586106e-08
+DeKalb_Alabama,7.29621132354968e-08
+DeKalb_Alabama,7.29621132354968e-08
+Shasta_California,7.28526842067016e-08
+Liberty_Texas,7.2714467141977e-08
+Liberty_Texas,7.2714467141977e-08
+Yuba_California,7.22505100811353e-08
+Rutland_Vermont,7.19097414798468e-08
+Rutland_Vermont,7.19097414798468e-08
+Benton_Arkansas,7.1886432135882e-08
+Robertson_Tennessee,7.14080936605853e-08
+Cheshire_New Hampshire,7.09395668523974e-08
+Yuma_Arizona,7.08806215197412e-08
+Oconee_South Carolina,7.07977374691585e-08
+Blair_Pennsylvania,7.06007532669971e-08
+Iredell_North Carolina,7.05471847551757e-08
+Franklin_Virginia,7.01056173974985e-08
+Franklin_Virginia,7.01056173974985e-08
+Pulaski_Kentucky,7.00301474778239e-08
+Niagara_New York,6.98389942628535e-08
+Wayne_Indiana,6.9808237319702e-08
+Randolph_North Carolina,6.90520207948269e-08
+Caldwell_North Carolina,6.84039268281639e-08
+Caldwell_North Carolina,6.84039268281639e-08
+Klamath_Oregon,6.83469972326302e-08
+Richland_Ohio,6.71159899983287e-08
+Washoe_Nevada,6.67738341083973e-08
+Mifflin_Pennsylvania,6.66607310574687e-08
+Mifflin_Pennsylvania,6.66607310574687e-08
+Liberty_Georgia,6.6054691663947e-08
+Johnson_Texas,6.60192645165514e-08
+Johnson_Texas,6.60192645165514e-08
+Cambria_Pennsylvania,6.5880246032723e-08
+Bedford_Virginia,6.55704874268424e-08
+Bedford_Virginia,6.55704874268424e-08
+Robeson_North Carolina,6.49249792595937e-08
+Hamblen_Tennessee,6.46079106085226e-08
+Hamblen_Tennessee,6.46079106085226e-08
+Wood_Wisconsin,6.41476364041627e-08
+Wood_Wisconsin,6.41476364041627e-08
+Monongalia_West Virginia,6.35731405315194e-08
+Livingston_New York,6.34956484050819e-08
+Hart_Georgia,6.30529275352531e-08
+Kings_California,6.26227296984994e-08
+Nye_Nevada,6.21520937868857e-08
+Nye_Nevada,6.21520937868857e-08
+Surry_North Carolina,6.1223177535596e-08
+Surry_North Carolina,6.1223177535596e-08
+Putnam_Florida,6.06282346017615e-08
+Worcester_Maryland,5.98271009731922e-08
+Lee_North Carolina,5.97311526284554e-08
+Lee_North Carolina,5.97311526284554e-08
+Kaufman_Texas,5.94261156830597e-08
+Ohio_West Virginia,5.88170007429957e-08
+Montcalm_Michigan,5.79472367774908e-08
+Finney_Kansas,5.73379709091784e-08
+Finney_Kansas,5.73379709091784e-08
+Grant_Indiana,5.66496021294043e-08
+Grant_Indiana,5.66496021294043e-08
+Brevard_Florida,5.55476075201207e-08
+Portage_Wisconsin,5.41249162676354e-08
+Portage_Wisconsin,5.41249162676354e-08
+Martin_Florida,5.28971166183448e-08
+Greene_Missouri,5.28143773258381e-08
+Jefferson_Tennessee,5.12246612238369e-08
+Huron_Ohio,4.98475549618206e-08
+Brunswick_Virginia,4.78958795076193e-08
+Wayne_Tennessee,4.60918320501341e-08
+Travis_Texas,4.60207539088902e-08
+Hidalgo_Texas,4.5370761178754e-08
+Effingham_Georgia,4.48033737253659e-08
+Midland_Michigan,4.46197015939188e-08
+Union_Ohio,4.39889356433319e-08
+Genesee_New York,4.36802202235665e-08
+Bartholomew_Indiana,4.35083418440714e-08
+Monongalia_West Virginia,4.34380011383834e-08
+Mendocino_California,3.71696263525975e-08
+Bedford_Tennessee,3.58416735802295e-08
+Clark_Ohio,3.43140868506986e-08
+Rockingham_North Carolina,3.31354910278454e-08
+Knox_Ohio,3.19209725013184e-08
+Wilson_Texas,3.10046793031593e-08
+Putnam_West Virginia,3.09805962927084e-08
+El Dorado_California,3.09595438625319e-08
+Wise_Texas,3.0201720602136e-08
+Spokane_Washington,2.99578855085847e-08
+Spokane_Washington,2.99578855085847e-08
+Cheatham_Tennessee,2.93566990934356e-08
+Gulf_Florida,2.85449615031996e-08
+Belmont_Ohio,2.79264213662852e-08
+Shelby_Tennessee,2.64170896194081e-08
+Christian_Kentucky,2.6160500764455e-08
+Clear Creek_Colorado,2.27306049156531e-08
+Ashland_Ohio,2.13552793596811e-08
+Ashland_Ohio,2.13552793596811e-08
+King_Washington,2.07352609282619e-08
+Sandusky_Ohio,1.64409617367742e-08
+Wayne_North Carolina,1.37073920914685e-08
+Uvalde_Texas,1.05060388319484e-08
+Uvalde_Texas,1.05060388319484e-08
+Scott_Kentucky,9.72284607127727e-09
+Sacramento_California,4.99349804714927e-09
+Raleigh_West Virginia,5.32401116667517e-10
+Hoke_North Carolina,-3.63383593231203e-09
+Jessamine_Kentucky,-9.17194972899663e-09
+Colorado_Texas,-1.64186094552607e-08
+Montgomery_Ohio,-1.66984441455931e-08
+Dale_Alabama,-1.81170703452043e-08
+Alleghany_North Carolina,-1.96681460310442e-08
+Isabella_Michigan,-2.24751558006152e-08
+Wayne_North Carolina,-2.60377723735813e-08
+Crawford_Wisconsin,-2.80590816859628e-08
+Butts_Georgia,-3.22432107906437e-08
+Benton_Tennessee,-3.90496033144873e-08
+Hood_Texas,-4.1108984236171e-08
+Marshall_Indiana,-4.2438959276478e-08
+Marshall_Indiana,-4.2438959276478e-08
+Union_Georgia,-4.45176337532172e-08
+Montgomery_Kentucky,-4.68895515459875e-08
+Rockingham_Virginia,-5.53526174598017e-08
+Jeff Davis_Georgia,-6.70311800680563e-08
+Candler_Georgia,-7.30562429104512e-08
+Candler_Georgia,-7.30562429104512e-08
+Kittitas_Washington,-8.43857463673003e-08
+Kittitas_Washington,-8.43857463673003e-08
+Campbell_Virginia,-9.4015596319756e-08
+Hot Spring_Arkansas,-9.52443766659699e-08
+Logan_West Virginia,-9.57890506247409e-08
+Woodford_Kentucky,-9.91766417218966e-08
+Comanche_Texas,-1.03836187584478e-07
+Clinton_Iowa,-1.06344000648705e-07
+Caldwell_Texas,-1.1516919810051e-07
+Caldwell_Texas,-1.1516919810051e-07
+Rockcastle_Kentucky,-1.3303542933387e-07
+Choctaw_Alabama,-1.67339493759375e-07
+Morgan_Colorado,-1.71875191225262e-07
+Calvert_Maryland,-1.94440125893399e-07
+Monroe_Georgia,-2.0004374383584e-07
+Franklin_Texas,-2.13094991898973e-07
+Franklin_Texas,-2.13094991898973e-07
+Aransas_Texas,-2.20749830404682e-07
+Madison_Iowa,-2.21403358357833e-07
+Houston_Tennessee,-2.2252403129313e-07
+Abbeville_South Carolina,-2.34684031940252e-07
+Geauga_Ohio,-2.54352103564703e-07
+Raleigh_West Virginia,-2.6549837048487e-07
+Lynn_Texas,-2.85318069765133e-07
+Houston_Tennessee,-2.9294721162857e-07
+Franklin_Illinois,-2.97402526179883e-07
+Fairfield_Ohio,-3.17069047586799e-07
+Bond_Illinois,-3.2456689145367e-07
+Adams_Mississippi,-3.34620347191827e-07
+Lavaca_Texas,-3.37136712841778e-07
+Lavaca_Texas,-3.37136712841778e-07
+Greene_Georgia,-4.39831923084758e-07
+Wayne_Tennessee,-4.47995747479882e-07
+Osage_Kansas,-4.54704349460688e-07
+Fond du Lac_Wisconsin,-5.01412613551905e-07
+Marion_Alabama,-5.36312881016285e-07
+Iowa_Iowa,-6.10071946596645e-07
+Angelina_Texas,-6.33458702195667e-07
+Giles_Tennessee,-7.08814294559104e-07
+Rockingham_Virginia,-7.60863135728402e-07
+Chippewa_Wisconsin,-7.89957549812849e-07
+Bannock_Idaho,-8.27520872123877e-07
+Barbour_West Virginia,-9.33560684638616e-07
+Osage_Oklahoma,-1.10631882562814e-06
+Washington_Iowa,-1.14227262437075e-06
+Rio Arriba_New Mexico,-1.15078938165958e-06
+White_Georgia,-1.19648344497575e-06
+Laurens_Georgia,-1.52123924159896e-06
+Jackson_Wisconsin,-1.64551411371014e-06
+Hot Spring_Arkansas,-2.21269264194428e-06
+Preston_West Virginia,-2.47139892757325e-06
+Lawrence_Arkansas,-2.48415302211441e-06
+Lawrence_Arkansas,-2.48415302211441e-06
+Hancock_Indiana,-2.54640871731148e-06
+Terry_Texas,-3.51225910432169e-06
+Dawson_Texas,-3.54186539546658e-06
+Montgomery_Missouri,-6.73186717117173e-06
+Montgomery_Missouri,-7.14732439380351e-06
+Rush_Indiana,-7.95157887532392e-06
+Houston_Alabama,-8.02301444889396e-06
+Pinal_Arizona,-8.66103375952959e-06
+Marshall_Alabama,-9.41014353332435e-06
+Elmore_Alabama,-9.60261858327503e-06
+Deschutes_Oregon,-9.80624202182545e-06
+Pike_Arkansas,-9.83628894900056e-06
+Christian_Missouri,-1.01938036650193e-05
+Pike_Arkansas,-1.05799875645511e-05
+Henry_Indiana,-1.12336975966801e-05
+Seminole_Georgia,-1.28933246123077e-05
+Grady_Oklahoma,-1.31421552956895e-05
+Apache_Arizona,-1.32678371743421e-05
+Cedar_Missouri,-1.35630073899537e-05
+Davie_North Carolina,-1.4424066726944e-05
+Talbot_Maryland,-1.54179735867388e-05
+Cole_Missouri,-1.81452938806852e-05
+Harris_Georgia,-1.88938406195361e-05
+Teller_Colorado,-1.98570605009138e-05
+Christian_Illinois,-2.04098482133808e-05
+Gladwin_Michigan,-2.05947765074717e-05
+Dunklin_Missouri,-2.24954250573674e-05
+Van Buren_Arkansas,-2.42201431454209e-05
+Park_Colorado,-2.6114270323535e-05
+Quitman_Mississippi,-2.99230045909262e-05
+Miller_Georgia,-3.15433065000683e-05
+Appling_Georgia,-3.16248599735953e-05
+Ogemaw_Michigan,-3.62033841228605e-05

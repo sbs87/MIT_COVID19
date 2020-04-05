@@ -1,0 +1,189 @@
+---
+title: "MIT COVID HACKATHON"
+author: "Steven Smith, PhD"
+date: "03/08/20"
+output: 
+  html_document: 
+    toc: yes
+---
+
+# MIT COVID HACKATHON
+## BACKGROUND & APPROACH
+Defining realtive risk at the population-adjusted number of cases for a given community
+
+
+ASSUMPTIONS & LIMITATIONS: 
+
+INPUT DATA LOCATION: 
+OUTPUT DATA LOCATIOn: 
+
+## PRE-ANALYSIS
+The following sections are outside the scope of the 'analysis' and are listed below
+
+### UPSTREAM PROCESSING/ANALYSIS
+Data was compiled and summarized across several sources
+See "merge_data_sources-steve.R" and Peter's scripts in this repo
+
+
+### SET UP ENVIORNMENT
+Load libraries and set global variables
+```{r setup, eval=T}
+
+##------------------------------------------
+## LIBRARIES
+##------------------------------------------
+library(ggplot2)
+library(tidyverse)
+library(plyr)
+library(reshape2)
+library(plot.utils)
+library(randomForest)
+##------------------------------------------
+
+##------------------------------------------
+# GLOBAL VARIABLES
+##------------------------------------------
+working_dir<-"/Users/stevensmith/Projects/MIT_COVID19/" # don't forget trailing /
+results_dir<-paste0(working_dir,"results/") # assumes diretory exists
+X.fn<-paste0(working_dir,"output/","Training_Set_X.csv") 
+Y.fn<-paste0(working_dir,"output/","Training_Set_Y.csv") 
+X.validation.fn<-paste0(working_dir,"output/","Holdout_Set_X.csv")
+Y.validation.fn<-paste0(working_dir,"output/","Holdout_Set_Y.csv") 
+
+default_theme<-theme_bw()+theme(text = element_text(size = 14)) # fix this
+
+##------------------------------------------
+
+```
+### FUNCTIONS
+```{r functions, eval=F}
+
+#None
+```
+
+### READ IN DATA
+
+```{r read_in_data, eval=T}
+
+X<-read.csv(X.fn,header=T) %>% select(-c("X","Unique_ID"))
+Y<-read.csv(Y.fn,header=T) %>% select(-c("X"))
+X.validation<-read.csv(X.validation.fn,header=T) %>% select(-c("X"))
+Y.validation<-read.csv(Y.validation.fn,header=T) %>% select(-c("X"))
+```
+
+### PROCESS DATA
+* This chunk handles transformations, data structure manipulations, summary stats.  
+* However, try to keep the original data as unfiltered as possible (leave this for chunk-specific analysis).   
+* The idea is to have eveyrthing each chunk needs at the ready.   
+* If multiple chunks use the same filtered dataset, then filter in this chunk so that the same operation isn't being performed in multiple chunks.  
+* Transformed dataframes should take the form "DF.TRANSFORMATION", .e.g, "input_data1.wide" if the new df is wide format.  
+* Similarly, transformed columns should take the form 'COLNAME.TRANSFORMATION', e.g., "input_data1$col.log".  
+* Summarized dataframes should take the form "DF.SUMMARY", .e.g, "input_data1.summary" like when computing summary statistics (condensing of original data).   
+
+```{r process, eval=T}
+
+##------------------------------------------
+## Replace NAs
+##------------------------------------------
+# NAs in new cases or deaths can be assumed to be 0 (instances where the dataset skips a day)
+X[is.na(X$New_Cases),"New_Cases"]<-0
+X[is.na(X$New_Deaths),"New_Deaths"]<-0
+X[rowSums(is.na(X))>0,]
+Y[is.na(Y$cases_normalized),"cases_normalized"]<-0
+
+X.validation[is.na(X.validation)]<-0
+Y.validation[is.na(Y.validation)]<-0
+
+##------------------------------------------
+
+##------------------------------------------
+## Split input set into training/testing
+##------------------------------------------
+# randomly split daya into training/testing 
+training_inx<-sample(nrow(X),replace = F,size = nrow(X)*.70)
+testing_idx<-(1:nrow(X))[!1:nrow(X) %in% training_inx]
+##------------------------------------------
+```
+## ANALYSIS
+
+### How does each feaure contribute to the relative risk?
+
+```{r question1, eval=T}
+
+##------------------------------------------
+## Run training RF
+##------------------------------------------
+
+# run training model
+rf.model.training<-randomForest(x=X[training_inx,],y=Y[training_inx,])
+
+# which features are most to least important in realtive risk?
+(importance_rank<-data.frame(feature=row.names(importance(rf.model.training)),importance(rf.model.training)) %>% arrange(-IncNodePurity))
+write.csv(importance_rank,file = paste0(results_dir,"importance_rank.csv"),quote = F,row.names = F)
+
+##------------------------------------------
+## Run testing RF
+##------------------------------------------
+
+#predict risk given training model and testing set
+predicted<-predict(rf.model.training,X[testing_idx,])
+
+# compare predicted vs actual relative risk
+performance<-data.frame(predicted=predicted,actual=Y$cases_normalized[testing_idx],set="training",cor=cor(predicted,Y$cases_normalized[testing_idx]))
+
+# compute MSE
+mean((predicted-Y$cases_normalized[testing_idx])^2)
+
+##------------------------------------------
+## Run validation RF
+##------------------------------------------
+
+# run model
+predicted.validation<-predict(rf.model.training,select(X.validation,-c("Unique_ID")))
+
+# compare predicted vs actual relative risk
+performance<-rbind(performance,
+                   data.frame(predicted=predicted.validation,actual=Y.validation$cases_normalized,set="validation",
+                   cor=cor(predicted.validation,Y.validation$cases_normalized)))
+
+# compute MSE
+mean((predicted.validation-Y.validation$cases_normalized)^2)
+
+
+##------------------------------------------
+## Plot performance
+##------------------------------------------
+unique(select(performance,c("set","cor")))
+(RF.predicted_vs_actual.training.plot<-ggplot(performance,aes(x=100*actual,y=100*predicted,col=set))+
+   geom_point()+
+   xlab("Actual relative risk (% cases population)")+
+   ylab("Predicted relative risk (% cases population)")+
+   geom_abline(slope = 1,intercept = 0,lty=2)+
+   default_theme+
+        theme(legend.position = "bottom"))
+write_plot(RF.predicted_vs_actual.training.plot,wd = results_dir)
+
+##------------------------------------------
+## Rank validation cities with greatest -> least risk profile
+##------------------------------------------
+
+risk_profile.validation<-data.frame(City_State=X.validation$Unique_ID,predicted_risk=predicted.validation) %>% arrange(-predicted_risk)
+
+head(risk_profile.validation,50)
+
+write.csv(risk_profile.validation,file = paste0(results_dir,"risk_profile.validation.csv"),quote = F,row.names = F)
+```
+
+# CONCLUSION
+A concluding remark(s) on the major findings, preferabbly to pointers where the data can be found. 
+
+Helps to have a bullet point for each analysis chunk or an answer to each of the above 'questions':
+*  Answer 1. 
+*  Answer 2.  
+
+#END
+Cheatsheet:
+http://rmarkdown.rstudio.com>
+# TODO
+* mkdir the results dir if it doesn't exist
+* make ggplot a dependency for plot.utils?
