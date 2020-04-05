@@ -30,7 +30,8 @@ HealthCare_Capacity<-select(HealthCare_Capacity,-c("State","county"))
 US_County_Level$UID<-paste0(US_County_Level$county,"_",US_County_Level$state)
 US_County_Level<-select(US_County_Level,-c("state","county"))
 
-
+master_table.pop<-merge(US_County_Level,US_County_Population_Cleaned,all.x = T)
+master_table<-merge(master_table.pop,HealthCare_Capacity,all.x = T)
 
 
 tmp<-merge(US_County_Population_Cleaned,HealthCare_Capacity)
@@ -38,7 +39,7 @@ intersect(names(US_County_Population_Cleaned),names(HealthCare_Capacity))
 head(HealthCare_Capacity)
 filter(US_County_Level,UID=="Albany_New York")
 intersect(names(tmp),names(US_County_Level))
-master_table<-merge(US_County_Level,tmp)
+
 names(master_table)
 head(names(master_table))
 nrow(master_table)
@@ -51,3 +52,54 @@ names(US_County_Population_Cleaned))
 write.table(master_table,file = "/Users/stevensmith/Projects/MIT_COVID19/data/MASTER_cases_population_beds.txt",quote = F,row.names = F,sep="\t")
 intersect(names(master_table),
 names(select(US_County_Population_Cleaned,c("X","Census","X2019","UID"))))
+
+
+
+
+master_table$case_per_2019_op<-master_table$cases/master_table$X2019
+
+ggplot(dplyr::filter(master_table,UID=="New York_New York"),aes(x=date,y=cases))+geom_point()
+tmp<-matrix(master_table$Lat)
+row.names(tmp)<-master_table$UID
+
+tmp.dist<-dist(unique(tmp))
+nrow(master_table)
+
+install.packages("geosphere")
+library(geosphere)
+distm(c(master_table$Lat[1], master_table$Long_[1]), c(master_table$Lat[2], master_table$Long_[2]), fun = distHaversine)
+
+
+master_table$date=="2020-04-01"
+head(master_table)
+select(master_table,c("UID","date","day_before_index"))
+MERGED_PETER<-read.csv("/Users/stevensmith/Projects/MIT_COVID19/data_cleaned/MERGED_PETER.csv",header = T,stringsAsFactors = F)
+
+master_table.filter<-filter(MERGED_PETER,!is.na(Area_.sqmi.),!is.na(Population))
+master_table.filter$day_before_index<-as.Date(master_table.filter$date)-1
+master_table.filter$date<-as.Date(master_table.filter$date)
+master_table.filter$Unique_ID
+for(i in 1:nrow(master_table.filter)){
+  #i<-1
+  day_before_index.i<-master_table.filter[i,"day_before_index"]
+  UID.i<-master_table.filter[i,"Unique_ID"]
+  day_before_cases<-NA
+  if(min( master_table.filter[master_table.filter$Unique_ID==UID.i,"date"])>=day_before_index.i){
+    day_before_cases<-NA
+  }else{
+    day_before_cases<-master_table.filter[master_table.filter$Unique_ID==UID.i & master_table.filter$date==day_before_index.i,"cases"][1]
+  
+  }
+if(is.null(length(day_before_cases))){
+  day_before_cases<-NA
+}
+  master_table.filter[i,"day_before_cases"]<-day_before_cases
+}
+
+master_table.filter$day_before_cases
+
+
+ggplot(master_table.filter,aes(x=date,y=day_before_cases))+geom_point()+
+  geom_point(aes(y=cases),col='red')
+
+
