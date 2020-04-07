@@ -8,6 +8,12 @@ import pandas as pd
 import algosdk
 import math
 import time
+import io
+import os
+from pdfminer.converter import HTMLConverter,TextConverter
+from pdfminer.pdfinterp import PDFPageInterpreter,PDFResourceManager
+from pdfminer.pdfpage import PDFPage
+from pdfminer.layout import LAParams
 
 
 class TestingData_Scraper() :
@@ -90,6 +96,46 @@ class Algorand_Scrape():
             rnd += batchSize
             time.sleep(.1) #added because was overloading 
         print("found {} transactions".format(len(self.txns)))
+
+        self.header_descriptions = {'a':'','_t':'','_v':'','gc':'string, country code (see Location Data section below)',
+            'gr':'string, region code  (see Location Data section below)',
+            'gzp':'string, 3-digit zip code (US only)',
+            'ga':'integer, age group, if present must be in 1,11,21,31,41,51,56,61,66,71,76,81,85',
+            'gs':'string , gender, if present must be "m","f"',
+            'sz':'integer, is symptomatic, no-answer=0/no=-1/yes=1',
+            's1':'boolean, fever',
+            's2':'boolean, cough',
+            's3':'boolean, difficulty breathing',
+            's4':'boolean, fatigue',
+            's5':'boolean, sore throat',
+            'sds':'date, when symptoms started, yyyy-mm-dd',
+            'sde':'date, when symptoms ended, yyyy-mm-dd',
+            'sdn':'boolean, still symptomatic',
+            'tz':'integer, tested, no-answer=0/no=-1/yes=1',
+            'tt':'integer, tried to get tested, no=-1, yes=1, yes but was denied=2',
+            'td':'date, test date, yyyy-mm-dd',
+            'tr':'integer, test results, -1=negative,1=positive,2=waiting for result',
+            'tl':' integer, test location, 1=Dr office/2=Hospital/3=Urgent care/4=Ad-hoc center/5=Other medical care',
+            'mz':' integer, received care, no-answer=0/no=-1/yes=1',
+            'm1':' boolean, doctor office',
+            'm2':' boolean, walk-in clinic',
+            'm3':' boolean, virtual care',
+            'm4':' boolean, hospital/ER',
+            'm5':' boolean, other',
+            'mh':' integer, hospitalized, no-answer=0/no=-1/yes=1',
+            'mhs':' date, when admitted, yyyy-mm-dd',
+            'mhe':' date, when discharged, yyyy-mm-dd',
+            'mhn':' boolean, still in hospital',
+            'qz':'integer, was quarantined, no-answer=0/no=-1/yes=1',
+            'q1':'boolean, due to symptoms',
+            'q2':'boolean, voluntarily',
+            'q3':'boolean, personally required',
+            'q4':'boolean, general quarantine',
+            'qds':'date, when quarantine started, yyyy-mm-dd',
+            'qde':'date, when quarantine ended, yyyy-mm-dd',
+            'qdn':'boolean, still quarantined',
+            'ql':'integer, left quarantine temporarily no-answer=0/no=-1/yes=1',
+            'consent':'boolean , user consent, mandatory, must be "true"'}
                              
     def connectMainnet(self):
         algod_address_mainnet = "https://mainnet-algorand.api.purestake.io/ps1"
@@ -133,9 +179,37 @@ class Algorand_Scrape():
             txns1 = getTransactionBatch(fromRnd, midRnd)
             txns2 = getTransactionBatch(midRnd+1, toRnd)
             return txns1.concat(txns2)
-                             
-    def get_txns(self):
+
+    def get_txns(self) :
         return self.txns
+
+    def Convert_to_DF(self) :
+
+        alg_txs = self.get_txns()
+
+        Survey_DF = pd.DataFrame()
+
+        ###### DECODING DATA
+        for i in range(len(alg_txs)):
+            #if (i%1000 == 0): print("{} transactions decoded".format(i))
+            tx_dict = alg_txs[i]
+            tx_code = tx_dict['tx']
+            encoded_note = tx_dict['noteb64']
+            decoded_note = algosdk.encoding.msgpack.unpackb(algosdk.encoding.base64.b64decode(encoded_note))
+            decoded_note = decoded_note['d']
+            decoded_note_data = {
+                key.decode() if isinstance(key, bytes) else key:
+                val.decode() if isinstance(val, bytes) else val
+                for key, val in decoded_note.items()
+            }
+            decoded_note_data.update({'a':tx_code})
+            cleaned_note_data = {key:None for key in self.header_descriptions.keys()}
+            cleaned_note_data.update(decoded_note_data)
+            #print(cleaned_note_data)
+            Survey_DF = Survey_DF.append(cleaned_note_data, ignore_index=True)
+        
+        return Survey_DF
+
 
 
 class Wiki_Scrape() :
@@ -181,3 +255,131 @@ class Wiki_Scrape() :
                 output_list.append([state,county_name,sq_miles])
 
         return np.array(output_list)
+
+
+class Alphabet_Scrape() :
+
+    def __init__(self) :
+
+        self.url = "https://www.google.com/covid19/mobility/"
+        html_all = urlopen(self.url)
+        soup_all = BeautifulSoup(html_all, 'html.parser')
+        self.tmp_file = './report.pdf.tmp'
+
+        self.US_html = self.get_country(soup_all)
+
+    def convert_pdf_to_html(self,fname,pages=None,skip_first=True) :
+
+        if not pages: 
+            pagenums = set()
+        else:         
+            pagenums = set(pages)      
+        manager = PDFResourceManager() 
+        codec = 'utf-8'
+        caching = True
+
+        output = io.BytesIO()
+        converter = HTMLConverter(manager, output, codec=codec, laparams=LAParams())
+
+        interpreter = PDFPageInterpreter(manager, converter)   
+        infile = open(fname, 'rb')
+        
+        print('Processing Page # :',end=' ')
+        for i,page in enumerate(PDFPage.get_pages(infile, pagenums,caching=caching, check_extractable=True)):
+            if skip_first :
+                if i in [0,1] :
+                    continue
+            print(i,end=',')
+            interpreter.process_page(page)
+
+        convertedPDF = output.getvalue()  
+
+        infile.close(); converter.close(); output.close()
+        return convertedPDF
+
+    def get_country(self,soup) :
+
+        country_descriptions = soup.findAll(class_="glue-expansion-panel")
+
+        countries = []
+        for v in country_descriptions :
+            country = v.find(class_='country-description').find('h1').getText().replace('\n','').strip()
+            countries.append(country)
+
+        US = soup.findAll(class_="glue-expansion-panel")[countries.index('United States')]
+        US = US.find(class_="glue-expansion-panel-content")
+
+        return US
+
+    def scrape_normal(self,url) :
+    
+        ## Save and convert file to html
+        ################################
+        myfile = requests.get(url)
+        open(self.tmp_file, 'wb').write(myfile.content)
+        html = self.convert_pdf_to_html(tmp_file)
+        ################################
+        soup = BeautifulSoup(html, 'html.parser')
+        
+        inds_county = [i-1 for i,a in enumerate(soup.findAll('div')) if 'Retail & recreation' in a.getText()]
+        
+        print('\n{} counties'.format(len(inds_county)))
+
+        to_fill = {}
+        for i in range(len(inds_county)-1): 
+            #print(i,end=',')
+            observe = soup.findAll('div')[inds_county[i]:inds_county[i+1]]
+            county = observe[0].getText().replace('\n','').replace('*','')
+            to_fill[county] = []
+            for item in observe[1:] :
+                if len(to_fill[county]) == 6 :
+                    continue
+                if 'compared to baseline' in item.getText() :
+                    to_fill[county].append(item.getText().replace('\n','').replace('*','').split(' ')[0])
+                elif 'Not enough data for this date' in item.getText() :
+                    to_fill[county].append(np.nan)
+        return to_fill
+
+    def scrape_DC(self,url) :
+        ## Save and convert file to html
+        ################################
+        myfile = requests.get(url)
+        open(self.tmp_file, 'wb').write(myfile.content)
+        html = self.convert_pdf_to_html(tmp_file,skip_first=False)
+        ################################
+        soup = BeautifulSoup(html, 'html.parser')
+        
+        inds = [i-1 for i,a in enumerate(soup.findAll('div')) if 'compared to baseline' in a.getText()]
+        
+        print('\n1 county')
+        
+        to_fill = {'District of Columbia':[soup.findAll('div')[i].getText().replace('\n','') for i in inds]}
+        
+        return to_fill
+
+    def scrape_counties(self,pages=None) :
+
+        headers = ['Retail_Recreation','Grocery_Pharmacy','Parks','Transit','Workplace','Residential']
+
+        df_create = pd.DataFrame()
+
+        for state in self.US_html.findAll(class_="region-row glue-filter-result__item glue-filter-is-matching") :
+            state_name = state.find('h1').getText().replace('\n','').strip()
+            print(state_name)
+            pdf_url = state.find('a')['href']
+            
+            if state_name == 'District of Columbia' :
+                to_fill = self.scrape_DC(pdf_url)
+            else :
+                to_fill = self.scrape_normal(pdf_url)
+
+            out = pd.DataFrame(to_fill).transpose()
+            out.columns = headers
+            out.reset_index(level=0, inplace=True)
+            out.rename(columns={'index':'County'},inplace=True)
+            out['State'] = state_name
+            df_create = df_create.append(out)
+        
+        os.remove(self.tmp_file)
+
+        return df_create
