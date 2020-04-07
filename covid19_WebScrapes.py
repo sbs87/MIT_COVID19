@@ -317,7 +317,7 @@ class Alphabet_Scrape() :
         ################################
         myfile = requests.get(url)
         open(self.tmp_file, 'wb').write(myfile.content)
-        html = self.convert_pdf_to_html(tmp_file)
+        html = self.convert_pdf_to_html(self.tmp_file)
         ################################
         soup = BeautifulSoup(html, 'html.parser')
         
@@ -345,7 +345,7 @@ class Alphabet_Scrape() :
         ################################
         myfile = requests.get(url)
         open(self.tmp_file, 'wb').write(myfile.content)
-        html = self.convert_pdf_to_html(tmp_file,skip_first=False)
+        html = self.convert_pdf_to_html(self.tmp_file,skip_first=False)
         ################################
         soup = BeautifulSoup(html, 'html.parser')
         
