@@ -1,0 +1,2767 @@
+,County,Retail_Recreation,Grocery_Pharmacy,Parks,Transit,Workplace,Residential,State
+0,Autauga County,-37%,+16%,-14%,,-30%,+20%,Alabama
+1,Baldwin County,-44%,-10%,-42%,-39%,-28%,+11%,Alabama
+2,Barbour County,-18%,-20%,,,-31%,,Alabama
+3,Bibb County,-42%,-15%,,,-19%,,Alabama
+4,Blount County,-20%,+18%,,,-24%,+20%,Alabama
+5,Bullock County,-22%,-27%,,,-33%,,Alabama
+6,Butler County,-47%,-9%,,-57%,-33%,,Alabama
+7,Calhoun County,-40%,+1%,-22%,,-29%,+9%,Alabama
+8,Chambers County,-35%,-3%,,-40%,-32%,+15%,Alabama
+9,Cherokee County,-41%,-5%,,,-18%,,Alabama
+10,Chilton County,-28%,+11%,,-30%,-25%,+17%,Alabama
+11,Choctaw County,-13%,-19%,,,-43%,,Alabama
+12,Clarke County,-22%,-29%,,,-9%,,Alabama
+13,Clay County,-43%,-20%,,,-41%,,Alabama
+14,Cleburne County,-35%,-13%,,-42%,-14%,,Alabama
+15,Coffee County,-25%,-2%,,,-27%,+18%,Alabama
+16,Colbert County,-27%,+11%,-37%,-23%,-21%,+16%,Alabama
+17,Conecuh County,-65%,-10%,,-41%,-36%,,Alabama
+18,Coosa County,,,,,-44%,,Alabama
+19,Covington County,-30%,+6%,,,-20%,+8%,Alabama
+20,Crenshaw County,-58%,-10%,,,-33%,,Alabama
+21,Cullman County,-39%,+13%,+38%,-33%,-28%,+9%,Alabama
+22,Dale County,-32%,+0%,,-39%,-23%,+16%,Alabama
+23,Dallas County,-30%,+7%,,,-22%,+5%,Alabama
+24,DeKalb County,-43%,+2%,-4%,-33%,-16%,+17%,Alabama
+25,Elmore County,-35%,+6%,+49%,,-33%,+21%,Alabama
+26,Escambia County,-32%,-7%,,,-28%,+7%,Alabama
+27,Etowah County,-42%,+1%,-23%,-37%,-30%,+8%,Alabama
+28,Fayette County,-39%,,,,-32%,,Alabama
+29,Franklin County,-19%,-15%,,,-21%,+5%,Alabama
+30,Geneva County,-42%,+14%,,,-27%,-2%,Alabama
+31,Greene County,+11%,-29%,,-47%,-44%,,Alabama
+32,Hale County,-41%,-36%,,,-29%,,Alabama
+33,Henry County,-49%,-19%,,,-21%,,Alabama
+34,Houston County,-45%,-5%,+14%,-35%,-29%,+10%,Alabama
+35,Jackson County,-40%,+14%,,,-21%,+18%,Alabama
+36,Jefferson County,-45%,+3%,+20%,-35%,-32%,+11%,Alabama
+37,Lamar County,-32%,+0%,,,-39%,,Alabama
+38,Lauderdale County,-44%,+6%,-15%,,-29%,+8%,Alabama
+39,Lawrence County,-41%,-16%,,,-22%,+7%,Alabama
+40,Lee County,-49%,-9%,-14%,,-32%,+12%,Alabama
+41,Limestone County,-30%,+5%,-1%,,-24%,+10%,Alabama
+42,Lowndes County,,,,-42%,-54%,,Alabama
+43,Macon County,-46%,-5%,,-54%,-39%,,Alabama
+44,Madison County,-46%,-5%,+55%,-37%,-36%,+11%,Alabama
+45,Marengo County,-26%,+5%,,,-9%,,Alabama
+46,Marion County,-43%,-13%,,,-32%,,Alabama
+47,Marshall County,-34%,+7%,+94%,,-28%,+8%,Alabama
+48,Mobile County,-35%,+6%,-33%,-36%,-28%,+12%,Alabama
+49,Monroe County,-52%,+36%,,,-24%,,Alabama
+50,Montgomery County,-43%,-2%,+0%,+4%,-29%,+11%,Alabama
+51,Morgan County,-37%,+11%,+49%,-34%,-31%,+9%,Alabama
+52,Perry County,-58%,-16%,,,-44%,,Alabama
+53,Pickens County,-36%,+9%,,,-36%,,Alabama
+54,Pike County,-31%,-20%,,,-34%,+0%,Alabama
+55,Randolph County,-45%,-7%,,,-26%,,Alabama
+56,Russell County,-30%,+48%,,,-27%,+18%,Alabama
+57,Shelby County,-41%,-4%,+56%,,-32%,+12%,Alabama
+58,St. Clair County,-30%,+8%,,-34%,-26%,+9%,Alabama
+59,Sumter County,-61%,-11%,,,-45%,,Alabama
+60,Talladega County,-25%,+11%,+16%,-30%,-26%,+9%,Alabama
+61,Tallapoosa County,-33%,+6%,,,-31%,+18%,Alabama
+62,Tuscaloosa County,-42%,+5%,-10%,-34%,-35%,+12%,Alabama
+63,Walker County,-31%,+7%,,-39%,-15%,+14%,Alabama
+64,Washington County,,-16%,,,-36%,,Alabama
+65,Wilcox County,-61%,,,,-44%,,Alabama
+0,Anchorage,-45%,-4%,+29%,-54%,-40%,+13%,Alaska
+1,Sat Apr 11,-59%,,,,-29%,,Alaska
+2,Fairbanks North Star,-39%,-10%,,-72%,-33%,+21%,Alaska
+3,Kenai Peninsula Borough,-34%,-8%,,,-24%,+14%,Alaska
+4,Ketchikan Gateway,-32%,-38%,,,-37%,,Alaska
+5,Kodiak Island,-50%,,,,-27%,,Alaska
+6,Matanuska-Susitna,-29%,-2%,,,-30%,+9%,Alaska
+7,North Slope,,,,,-12%,,Alaska
+8,Southeast Fairbanks,,,,,-35%,,Alaska
+0,Apache County,-80%,-54%,-59%,-35%,-34%,+16%,Arizona
+1,Cochise County,-41%,-18%,-44%,-35%,-34%,+11%,Arizona
+2,Coconino County,-65%,-32%,-46%,-42%,-42%,+18%,Arizona
+3,Gila County,-26%,+16%,+41%,,-27%,+12%,Arizona
+4,Graham County,-29%,+12%,,,-19%,+11%,Arizona
+5,Greenlee County,-65%,-13%,,,-37%,,Arizona
+6,La Paz County,-62%,-39%,-67%,-51%,-21%,,Arizona
+7,Maricopa County,-42%,-13%,-41%,-46%,-37%,+14%,Arizona
+8,Mohave County,-37%,-5%,-27%,-26%,-36%,+10%,Arizona
+9,Navajo County,-39%,-23%,+5%,-24%,-30%,+14%,Arizona
+10,Pima County,-47%,-14%,-52%,-48%,-39%,+14%,Arizona
+11,Pinal County,-33%,-16%,-45%,-45%,-31%,+12%,Arizona
+12,Santa Cruz County,-58%,-43%,-62%,-27%,-36%,+22%,Arizona
+13,Yavapai County,-43%,-6%,-32%,-38%,-37%,+11%,Arizona
+0,Arkansas County,-23%,+8%,,,-24%,,Arkansas
+1,Ashley County,-32%,+6%,,,-13%,,Arkansas
+2,Baxter County,-34%,+18%,,,-22%,+13%,Arkansas
+3,Benton County,-42%,-7%,+21%,-62%,-32%,+12%,Arkansas
+4,Boone County,-30%,+5%,,,-35%,+16%,Arkansas
+5,Bradley County,-40%,-7%,,,-42%,,Arkansas
+6,Carroll County,-42%,-3%,,,-43%,-1%,Arkansas
+7,Chicot County,-22%,+4%,,,-35%,,Arkansas
+8,Clark County,-26%,-4%,,-37%,-13%,,Arkansas
+9,Clay County,-10%,-2%,,,-36%,,Arkansas
+10,Cleburne County,-48%,+43%,,,-27%,,Arkansas
+11,Cleveland County,,,,,-40%,,Arkansas
+12,Columbia County,-20%,-11%,,,-21%,,Arkansas
+13,Conway County,-25%,+2%,,-18%,-21%,,Arkansas
+14,Craighead County,-44%,-6%,-59%,-14%,-26%,+9%,Arkansas
+15,Crawford County,-16%,+6%,,-4%,-20%,+15%,Arkansas
+16,Crittenden County,-29%,+10%,,-27%,-25%,+19%,Arkansas
+17,Cross County,-55%,+93%,,,-7%,,Arkansas
+18,Dallas County,-25%,,,,-25%,,Arkansas
+19,Desha County,-22%,+11%,,,-41%,,Arkansas
+20,Drew County,-27%,+5%,,,-27%,,Arkansas
+21,Faulkner County,-44%,-11%,-2%,,-28%,+11%,Arkansas
+22,Franklin County,-10%,-3%,,-22%,-20%,,Arkansas
+23,Fulton County,,,,,-31%,,Arkansas
+24,Garland County,-41%,+0%,-43%,,-34%,+11%,Arkansas
+25,Grant County,-6%,+6%,,,-16%,,Arkansas
+26,Greene County,-21%,+5%,,,-23%,+15%,Arkansas
+27,Hempstead County,-33%,-3%,,,-25%,,Arkansas
+28,Hot Spring County,-16%,+21%,,-37%,-19%,+8%,Arkansas
+29,Howard County,-36%,+4%,,,-24%,,Arkansas
+30,Independence County,-43%,+50%,,,-16%,+13%,Arkansas
+31,Izard County,-22%,+8%,,,-36%,,Arkansas
+32,Jackson County,-12%,+24%,,,-32%,,Arkansas
+33,Jefferson County,-26%,+21%,,-20%,-25%,+15%,Arkansas
+34,Johnson County,-34%,+4%,-12%,,-20%,-2%,Arkansas
+35,Lawrence County,-22%,-1%,,,-43%,,Arkansas
+36,Lincoln County,-60%,-4%,,,-39%,,Arkansas
+37,Little River County,-25%,-4%,,,-42%,,Arkansas
+38,Logan County,-24%,+9%,,,-15%,,Arkansas
+39,Lonoke County,-24%,+12%,,,-22%,+17%,Arkansas
+40,Madison County,-31%,-13%,,,-20%,,Arkansas
+41,Marion County,-16%,+3%,,,-31%,,Arkansas
+42,Miller County,-35%,-2%,-33%,-47%,-26%,+14%,Arkansas
+43,Mississippi County,-13%,+18%,,-26%,-15%,+10%,Arkansas
+44,Monroe County,-40%,-8%,,,-39%,,Arkansas
+45,Montgomery County,,,,,-35%,,Arkansas
+46,Nevada County,-61%,,,-40%,-33%,,Arkansas
+47,Newton County,,,,,-29%,,Arkansas
+48,Ouachita County,-16%,-20%,,,-19%,,Arkansas
+49,Perry County,,,,,-41%,,Arkansas
+50,Phillips County,-5%,+16%,,,-17%,,Arkansas
+51,Pike County,-30%,-8%,,,-31%,,Arkansas
+52,Poinsett County,-2%,+7%,,,-5%,,Arkansas
+53,Polk County,-51%,+31%,,,-28%,,Arkansas
+54,Pope County,-41%,-6%,,-31%,-20%,+15%,Arkansas
+55,Prairie County,,,,,-39%,,Arkansas
+56,Pulaski County,-41%,-5%,-18%,-46%,-30%,+11%,Arkansas
+57,Randolph County,-33%,+12%,,,-18%,,Arkansas
+58,Saline County,-30%,-3%,-44%,-20%,-26%,+11%,Arkansas
+59,Scott County,-53%,,,,-33%,,Arkansas
+60,Searcy County,,,,,-43%,,Arkansas
+61,Sebastian County,-39%,-3%,+0%,-58%,-30%,+10%,Arkansas
+62,Sevier County,-35%,-8%,,,-28%,,Arkansas
+63,Sharp County,-27%,+0%,,,-25%,,Arkansas
+64,St. Francis County,-26%,+28%,,-27%,-18%,,Arkansas
+65,Stone County,-23%,+8%,,,-25%,,Arkansas
+66,Union County,-32%,-9%,,,-21%,+10%,Arkansas
+67,Van Buren County,-33%,,,,-38%,,Arkansas
+68,Washington County,-43%,-9%,+13%,-30%,-33%,+12%,Arkansas
+69,White County,-30%,+1%,-9%,-19%,-20%,+13%,Arkansas
+0,Alameda County,-59%,-23%,-30%,-65%,-45%,+19%,California
+1,Amador County,-35%,-26%,-64%,,-39%,+0%,California
+2,Butte County,-35%,-1%,-22%,-34%,-31%,+10%,California
+3,Calaveras County,-41%,-18%,-54%,,-34%,+10%,California
+4,Colusa County,-46%,-6%,,-38%,-30%,,California
+5,Contra Costa County,-47%,-7%,-17%,-51%,-43%,+17%,California
+6,Del Norte County,-31%,-11%,+20%,,-23%,,California
+7,El Dorado County,-57%,-27%,-45%,-42%,-48%,+14%,California
+8,Fresno County,-39%,-3%,-46%,-39%,-31%,+13%,California
+9,Glenn County,-47%,+25%,-36%,-16%,-26%,+2%,California
+10,Humboldt County,-45%,-14%,-18%,-55%,-35%,+12%,California
+11,Imperial County,-60%,-30%,-77%,-67%,-37%,+22%,California
+12,Inyo County,-81%,-37%,-52%,,-43%,,California
+13,Kern County,-39%,-2%,-24%,-37%,-29%,+13%,California
+14,Kings County,-34%,+3%,-39%,-49%,-27%,+11%,California
+15,Lake County,-33%,+5%,-40%,-42%,-36%,+17%,California
+16,Lassen County,-37%,-3%,,,-19%,,California
+17,Los Angeles County,-51%,-19%,-54%,-52%,-43%,+20%,California
+18,Madera County,-30%,-10%,-29%,-26%,-32%,+13%,California
+19,Marin County,-59%,-29%,-63%,-55%,-46%,+19%,California
+20,Mariposa County,-86%,-54%,-83%,,-51%,,California
+21,Mendocino County,-39%,-12%,-51%,-39%,-31%,+17%,California
+22,Merced County,-38%,-8%,-25%,-34%,-29%,+13%,California
+23,Modoc County,-59%,+4%,,,-28%,,California
+24,Mono County,-96%,-67%,-46%,,-70%,,California
+25,Monterey County,-45%,-10%,-56%,-32%,-33%,+13%,California
+26,Napa County,-51%,-28%,-14%,-34%,-50%,+16%,California
+27,Nevada County,-53%,-24%,-48%,-71%,-41%,+13%,California
+28,Orange County,-51%,-13%,-42%,-47%,-43%,+19%,California
+29,Placer County,-50%,-13%,-15%,-51%,-41%,+14%,California
+30,Plumas County,-64%,-18%,,,-18%,,California
+31,Riverside County,-42%,-12%,-59%,-45%,-39%,+17%,California
+32,Sacramento County,-44%,-3%,-23%,-54%,-37%,+14%,California
+33,San Benito County,-44%,-9%,-54%,,-38%,+25%,California
+34,San Bernardino County,-43%,-11%,-44%,-45%,-35%,+16%,California
+35,San Diego County,-49%,-17%,-68%,-63%,-42%,+19%,California
+36,San Francisco County,-77%,-33%,-59%,-70%,-54%,+22%,California
+37,San Joaquin County,-37%,-1%,-14%,-25%,-31%,+14%,California
+38,San Luis Obispo County,-53%,-19%,-37%,-56%,-39%,+14%,California
+39,San Mateo County,-60%,-20%,-38%,-83%,-47%,+21%,California
+40,Santa Barbara County,-49%,-12%,-33%,-49%,-36%,+14%,California
+41,Santa Clara County,-61%,-26%,-17%,-63%,-48%,+20%,California
+42,Santa Cruz County,-56%,-16%,-63%,-56%,-40%,+17%,California
+43,Shasta County,-36%,+3%,+33%,-24%,-29%,+9%,California
+44,Siskiyou County,-24%,+2%,+37%,-7%,-23%,+10%,California
+45,Solano County,-43%,-4%,-18%,-39%,-35%,+15%,California
+46,Sonoma County,-50%,-14%,-59%,-49%,-41%,+16%,California
+47,Stanislaus County,-42%,-4%,-15%,-27%,-32%,+13%,California
+48,Sutter County,-37%,-4%,-19%,-20%,-37%,+12%,California
+49,Tehama County,-27%,+11%,-5%,-28%,-24%,+14%,California
+50,Trinity County,-39%,+0%,,,-35%,,California
+51,Tulare County,-36%,-2%,-47%,-32%,-29%,+12%,California
+52,Tuolumne County,-41%,+1%,-72%,,-34%,+14%,California
+53,Ventura County,-44%,-18%,-38%,-37%,-36%,+16%,California
+54,Yolo County,-41%,-9%,-9%,-30%,-38%,+15%,California
+0,Adams County,-41%,-4%,+0%,-27%,-36%,+14%,Colorado
+1,Alamosa County,-40%,-15%,,,-24%,,Colorado
+2,Arapahoe County,-45%,-12%,+22%,-27%,-41%,+16%,Colorado
+3,Archuleta County,-58%,-20%,,,-44%,,Colorado
+4,Bent County,,,,,-32%,,Colorado
+5,Boulder County,-53%,-15%,+11%,-42%,-45%,+16%,Colorado
+6,Broomfield County,-50%,-19%,+23%,-41%,-41%,+28%,Colorado
+7,Chaffee County,-51%,-34%,-16%,,-41%,,Colorado
+8,Clear Creek County,-87%,-53%,-16%,,-47%,,Colorado
+9,Conejos County,,,,,-36%,,Colorado
+10,Delta County,-27%,-11%,+2%,,-23%,+5%,Colorado
+11,Denver County,-60%,-8%,-10%,-71%,-45%,+16%,Colorado
+12,Douglas County,-49%,-19%,+18%,-23%,-43%,+15%,Colorado
+13,Eagle County,-69%,-33%,-45%,-66%,-72%,+26%,Colorado
+14,El Paso County,-40%,-8%,+4%,-45%,-39%,+13%,Colorado
+15,Elbert County,-19%,-25%,,,-30%,+0%,Colorado
+16,Fremont County,-19%,+2%,-5%,,-33%,+12%,Colorado
+17,Garfield County,-44%,-17%,+16%,-36%,-41%,+20%,Colorado
+18,Gilpin County,,,,,-65%,,Colorado
+19,Grand County,-82%,-43%,-84%,-43%,-59%,,Colorado
+20,Gunnison County,-65%,-38%,-43%,,-49%,,Colorado
+21,Huerfano County,-50%,-10%,,,-28%,,Colorado
+22,Jefferson County,-44%,-17%,+5%,-31%,-41%,+15%,Colorado
+23,Kiowa County,,,,-41%,,,Colorado
+24,Kit Carson County,-34%,-20%,,-30%,-18%,,Colorado
+25,La Plata County,-51%,-7%,+21%,-59%,-46%,+21%,Colorado
+26,Lake County,-77%,-34%,,,-55%,,Colorado
+27,Larimer County,-50%,-6%,+13%,-38%,-39%,+14%,Colorado
+28,Las Animas County,-37%,-27%,,,-28%,,Colorado
+29,Lincoln County,-36%,-12%,,-33%,-26%,,Colorado
+30,Logan County,-34%,-13%,,,-28%,,Colorado
+31,Mesa County,-36%,-7%,+97%,-27%,-35%,+8%,Colorado
+32,Moffat County,-27%,-24%,,,-30%,,Colorado
+33,Montezuma County,-48%,+2%,,,-28%,-1%,Colorado
+34,Montrose County,-35%,-10%,,,-32%,+14%,Colorado
+35,Morgan County,-37%,-17%,-4%,-17%,-22%,+15%,Colorado
+36,Otero County,-25%,-17%,,,-21%,,Colorado
+37,Ouray County,-28%,,,,-56%,,Colorado
+38,Park County,-63%,-41%,+46%,,-36%,,Colorado
+39,Phillips County,,,,,-39%,,Colorado
+40,Pitkin County,-100%,-53%,,-87%,-72%,,Colorado
+41,Prowers County,-18%,-4%,,-36%,-14%,,Colorado
+42,Pueblo County,-38%,-1%,-50%,-23%,-28%,+10%,Colorado
+43,Rio Blanco County,,,,,-28%,,Colorado
+44,Rio Grande County,-25%,-20%,,,-24%,,Colorado
+45,Routt County,-79%,-48%,-69%,-65%,-60%,-2%,Colorado
+46,Saguache County,,,,,-44%,,Colorado
+47,San Miguel County,-80%,,,,-71%,,Colorado
+48,Summit County,-84%,-71%,-77%,-67%,-64%,+5%,Colorado
+49,Teller County,-24%,-19%,,,-51%,-1%,Colorado
+50,Washington County,,,,,-39%,,Colorado
+51,Weld County,-34%,-6%,+24%,-23%,-33%,+14%,Colorado
+0,Fairfield County,-52%,-17%,+53%,-65%,-45%,+17%,Connecticut
+1,Hartford County,-47%,-9%,+88%,-50%,-39%,+14%,Connecticut
+2,Litchfield County,-35%,-6%,+26%,,-37%,+14%,Connecticut
+3,Middlesex County,-41%,+0%,+42%,-43%,-38%,+14%,Connecticut
+4,New Haven County,-44%,-8%,+43%,-50%,-39%,+14%,Connecticut
+5,New London County,-45%,-3%,+83%,-50%,-41%,+15%,Connecticut
+6,Tolland County,-46%,-3%,+4%,-34%,-40%,+14%,Connecticut
+0,Kent County,-35%,-16%,+9%,-24%,-35%,+13%,Delaware
+1,New Castle County,-44%,-19%,+32%,-50%,-39%,+15%,Delaware
+0,District of Columbia,-69%,-28%,-65%,-69%,-48%,+17%,District of Columbia
+0,Alachua County,-51%,-19%,-39%,-49%,-32%,+14%,Florida
+1,Baker County,-27%,-6%,,-60%,-20%,-3%,Florida
+2,Bay County,-43%,-13%,-18%,-54%,-29%,+11%,Florida
+3,Bradford County,-27%,+21%,,,-26%,+0%,Florida
+4,Brevard County,-44%,-17%,-32%,-46%,-38%,+13%,Florida
+5,Broward County,-52%,-23%,-69%,-75%,-43%,+20%,Florida
+6,Calhoun County,-49%,-14%,,,-41%,,Florida
+7,Charlotte County,-50%,-21%,-49%,-43%,-39%,+13%,Florida
+8,Citrus County,-41%,+3%,-43%,,-33%,+11%,Florida
+9,Clay County,-33%,-1%,-22%,,-33%,+12%,Florida
+10,Collier County,-55%,-25%,-70%,-55%,-44%,+17%,Florida
+11,Columbia County,-44%,+12%,-42%,-46%,-23%,+10%,Florida
+12,DeSoto County,-42%,-5%,-37%,,-16%,+11%,Florida
+13,Dixie County,-34%,-6%,,,-23%,,Florida
+14,Duval County,-40%,-8%,-45%,-41%,-35%,+13%,Florida
+15,Escambia County,-41%,-5%,-11%,-44%,-31%,+11%,Florida
+16,Flagler County,-43%,+1%,-55%,,-39%,+13%,Florida
+17,Franklin County,-83%,-23%,-45%,,-31%,,Florida
+18,Gadsden County,-27%,+5%,,-44%,-22%,+20%,Florida
+19,Gilchrist County,-40%,-12%,-44%,,-28%,,Florida
+20,Glades County,-62%,,-65%,-29%,-23%,,Florida
+21,Gulf County,-77%,-17%,,,-24%,,Florida
+22,Hamilton County,-33%,-3%,,-48%,-39%,,Florida
+23,Hardee County,-38%,-17%,-34%,,-15%,,Florida
+24,Hendry County,-34%,-4%,-52%,,-25%,+13%,Florida
+25,Hernando County,-37%,-10%,-41%,-26%,-33%,+12%,Florida
+26,Highlands County,-45%,-15%,-57%,,-27%,+11%,Florida
+27,Hillsborough County,-49%,-19%,-57%,-71%,-41%,+16%,Florida
+28,Holmes County,-43%,-19%,,,-20%,,Florida
+29,Indian River County,-48%,-24%,-48%,-54%,-37%,+14%,Florida
+30,Jackson County,-31%,-4%,-24%,-41%,-22%,+14%,Florida
+31,Jefferson County,-55%,-13%,,,-31%,,Florida
+32,Lafayette County,,,,,-39%,,Florida
+33,Lake County,-39%,-16%,-35%,-53%,-37%,+14%,Florida
+34,Lee County,-54%,-25%,-69%,-76%,-41%,+15%,Florida
+35,Leon County,-45%,-15%,-23%,-49%,-34%,+14%,Florida
+36,Levy County,-33%,-4%,-36%,,-24%,+15%,Florida
+37,Liberty County,,-14%,,,-43%,,Florida
+38,Madison County,-58%,-14%,,-42%,-15%,,Florida
+39,Manatee County,-48%,-18%,-44%,-57%,-38%,+14%,Florida
+40,Marion County,-41%,-11%,-49%,-39%,-33%,+11%,Florida
+41,Martin County,-52%,-17%,-44%,-66%,-37%,+15%,Florida
+42,Miami-Dade County,-58%,-33%,-81%,-71%,-48%,+22%,Florida
+43,Monroe County,-74%,-46%,-77%,-77%,-53%,+17%,Florida
+44,Nassau County,-40%,-6%,-42%,-68%,-33%,+11%,Florida
+45,Okaloosa County,-41%,-9%,-28%,-50%,-33%,+12%,Florida
+46,Okeechobee County,-41%,-7%,-29%,-85%,-26%,+17%,Florida
+47,Orange County,-63%,-30%,-53%,-80%,-50%,+18%,Florida
+48,Osceola County,-58%,-29%,-47%,-61%,-51%,+19%,Florida
+49,Palm Beach County,-49%,-21%,-70%,-60%,-41%,+18%,Florida
+50,Pasco County,-40%,-15%,-47%,-32%,-34%,+13%,Florida
+51,Pinellas County,-49%,-18%,-35%,-42%,-39%,+15%,Florida
+52,Polk County,-40%,-15%,-43%,-36%,-37%,+14%,Florida
+53,Putnam County,-29%,+4%,-37%,,-33%,+10%,Florida
+54,Santa Rosa County,-23%,-2%,+0%,,-28%,+12%,Florida
+55,Sarasota County,-55%,-28%,-66%,-31%,-42%,+14%,Florida
+56,Seminole County,-47%,-17%,-33%,-75%,-43%,+16%,Florida
+57,St. Johns County,-49%,-2%,-63%,-46%,-42%,+14%,Florida
+58,St. Lucie County,-40%,-9%,-24%,-53%,-34%,+14%,Florida
+59,Sumter County,-54%,-16%,-41%,-46%,-36%,+11%,Florida
+60,Suwannee County,-34%,+0%,-23%,-45%,-22%,+15%,Florida
+61,Taylor County,-38%,+2%,,,-22%,,Florida
+62,Union County,-42%,-11%,,,-42%,,Florida
+63,Volusia County,-44%,-13%,-32%,-42%,-38%,+12%,Florida
+64,Wakulla County,-22%,-17%,-10%,,-24%,+17%,Florida
+65,Walton County,-50%,-23%,-49%,-34%,-31%,+10%,Florida
+0,Appling County,-44%,-20%,,,-16%,,Georgia
+1,Atkinson County,-55%,+8%,,,-37%,,Georgia
+2,Bacon County,-21%,-27%,,,-39%,,Georgia
+3,Baldwin County,-38%,-11%,,,-31%,+16%,Georgia
+4,Banks County,-39%,,,,-19%,,Georgia
+5,Barrow County,-32%,+2%,,,-31%,+12%,Georgia
+6,Bartow County,-41%,+7%,+126%,-28%,-33%,+10%,Georgia
+7,Ben Hill County,-41%,+1%,,,-20%,,Georgia
+8,Berrien County,-42%,-13%,,,-27%,,Georgia
+9,Bibb County,-44%,-3%,-6%,-31%,-30%,+11%,Georgia
+10,Bleckley County,-46%,+8%,,,-52%,,Georgia
+11,Brantley County,-69%,-7%,,,-27%,,Georgia
+12,Brooks County,-50%,-16%,,,-18%,,Georgia
+13,Bryan County,-44%,-2%,-19%,-39%,-36%,+24%,Georgia
+14,Bulloch County,-42%,-14%,-31%,,-31%,+21%,Georgia
+15,Burke County,-35%,-17%,-2%,,-39%,,Georgia
+16,Butts County,-47%,-9%,,-24%,-30%,-1%,Georgia
+17,Camden County,-34%,+12%,-17%,-38%,-31%,+20%,Georgia
+18,Candler County,-67%,-28%,,,-38%,,Georgia
+19,Carroll County,-32%,+5%,+0%,-26%,-27%,+10%,Georgia
+20,Catoosa County,-42%,+3%,-21%,,-29%,+22%,Georgia
+21,Charlton County,-49%,-9%,,,-38%,,Georgia
+22,Chatham County,-51%,-19%,-28%,-45%,-43%,+13%,Georgia
+23,Chattahoochee County,-61%,-38%,,,-51%,,Georgia
+24,Chattooga County,-30%,-5%,,,-35%,,Georgia
+25,Cherokee County,-36%,-7%,+134%,,-35%,+13%,Georgia
+26,Clarke County,-51%,-14%,-25%,-25%,-39%,+13%,Georgia
+27,Clayton County,-29%,-4%,-10%,-82%,-36%,+14%,Georgia
+28,Clinch County,,-2%,,,-32%,,Georgia
+29,Cobb County,-47%,-8%,-34%,-29%,-41%,+15%,Georgia
+30,Coffee County,-40%,-1%,,,-27%,+18%,Georgia
+31,Colquitt County,-34%,+1%,,,-24%,+15%,Georgia
+32,Columbia County,-37%,+3%,+4%,-34%,-38%,+12%,Georgia
+33,Cook County,-36%,-2%,,-42%,-24%,,Georgia
+34,Coweta County,-44%,+1%,,-21%,-34%,+13%,Georgia
+35,Crawford County,,,,,-24%,,Georgia
+36,Crisp County,-32%,-21%,,-20%,-22%,,Georgia
+37,Dade County,-52%,-23%,,-32%,-30%,,Georgia
+38,Dawson County,-48%,-11%,+6%,,-32%,+0%,Georgia
+39,DeKalb County,-43%,-7%,+26%,-36%,-43%,+16%,Georgia
+40,Decatur County,-23%,-12%,,,-26%,-3%,Georgia
+41,Dodge County,-42%,-18%,,,-23%,,Georgia
+42,Dooly County,-59%,-28%,,-40%,-40%,,Georgia
+43,Dougherty County,-47%,-16%,-33%,-46%,-34%,+14%,Georgia
+44,Douglas County,-35%,-6%,+8%,-14%,-37%,+14%,Georgia
+45,Early County,-57%,-29%,,,-44%,,Georgia
+46,Effingham County,-23%,+9%,,,-33%,+21%,Georgia
+47,Elbert County,-23%,-21%,,,-24%,,Georgia
+48,Emanuel County,-36%,+5%,,,-17%,,Georgia
+49,Evans County,-38%,-22%,,,-37%,,Georgia
+50,Fannin County,-47%,-29%,+66%,,-35%,,Georgia
+51,Fayette County,-36%,-6%,+70%,,-37%,+15%,Georgia
+52,Floyd County,-34%,+7%,+28%,,-29%,+10%,Georgia
+53,Forsyth County,-41%,-22%,+68%,,-38%,+15%,Georgia
+54,Franklin County,-52%,-13%,-17%,-38%,-30%,,Georgia
+55,Fulton County,-54%,-15%,-38%,-49%,-44%,+16%,Georgia
+56,Gilmer County,-38%,-28%,,,-28%,+2%,Georgia
+57,Glynn County,-45%,-15%,-9%,-50%,-38%,+11%,Georgia
+58,Gordon County,-37%,+2%,,-32%,-38%,+21%,Georgia
+59,Grady County,-42%,-13%,,,-25%,-1%,Georgia
+60,Greene County,-41%,-27%,,,-30%,,Georgia
+61,Gwinnett County,-45%,-8%,+36%,-31%,-41%,+16%,Georgia
+62,Habersham County,-36%,+11%,,,-36%,+20%,Georgia
+63,Hall County,-36%,-8%,+85%,-17%,-34%,+12%,Georgia
+64,Hancock County,,-17%,,,-42%,,Georgia
+65,Haralson County,-69%,+26%,-35%,-31%,-28%,+8%,Georgia
+66,Harris County,-35%,+0%,+0%,,-29%,+13%,Georgia
+67,Hart County,-32%,-11%,,,-29%,,Georgia
+68,Heard County,,-15%,,,-47%,,Georgia
+69,Henry County,-39%,+4%,-6%,,-38%,+15%,Georgia
+70,Houston County,-42%,-9%,-8%,,-34%,+12%,Georgia
+71,Irwin County,,-14%,,,-48%,,Georgia
+72,Jackson County,-53%,-16%,,-19%,-22%,+20%,Georgia
+73,Jasper County,-47%,-13%,,,-23%,,Georgia
+74,Jeff Davis County,-41%,-18%,,,-23%,,Georgia
+75,Jefferson County,-42%,-13%,,,-21%,,Georgia
+76,Jenkins County,-42%,-17%,,,-43%,,Georgia
+77,Johnson County,,-13%,,,-42%,,Georgia
+78,Jones County,-37%,-14%,,,-35%,+8%,Georgia
+79,Lamar County,-49%,-14%,,,-39%,,Georgia
+80,Lanier County,-62%,-15%,,,-47%,,Georgia
+81,Laurens County,-40%,-10%,,-27%,-25%,+17%,Georgia
+82,Lee County,-39%,-24%,,,-34%,+11%,Georgia
+83,Liberty County,-32%,-5%,-22%,-30%,-32%,+11%,Georgia
+84,Lincoln County,,,,,-37%,,Georgia
+85,Long County,,,,,-27%,,Georgia
+86,Lowndes County,-42%,-10%,-33%,-41%,-29%,+11%,Georgia
+87,Lumpkin County,-38%,+16%,,,-33%,+6%,Georgia
+88,Macon County,-59%,-16%,,,-38%,,Georgia
+89,Madison County,-56%,+4%,,,-29%,+8%,Georgia
+90,Marion County,,-9%,,,-39%,,Georgia
+91,McDuffie County,-17%,-2%,,-41%,-27%,,Georgia
+92,McIntosh County,-59%,-9%,,,-32%,,Georgia
+93,Meriwether County,-45%,-7%,,,-31%,,Georgia
+94,Miller County,-58%,,,,-40%,,Georgia
+95,Mitchell County,-34%,-28%,,,-29%,,Georgia
+96,Monroe County,-39%,-3%,-2%,-60%,-35%,-2%,Georgia
+97,Montgomery County,,-5%,,,-37%,,Georgia
+98,Morgan County,-30%,-18%,,-34%,-33%,,Georgia
+99,Murray County,-29%,+3%,,,-39%,+19%,Georgia
+100,Muscogee County,-44%,-1%,+12%,-62%,-31%,+11%,Georgia
+101,Newton County,-24%,+10%,-8%,,-35%,+13%,Georgia
+102,Oconee County,-47%,-27%,,,-32%,+0%,Georgia
+103,Oglethorpe County,,-12%,,,-34%,,Georgia
+104,Paulding County,-33%,-10%,-47%,,-36%,+13%,Georgia
+105,Peach County,-40%,-7%,,-38%,-33%,+7%,Georgia
+106,Pickens County,-23%,+8%,,,-31%,+9%,Georgia
+107,Pierce County,-61%,-23%,,,-19%,,Georgia
+108,Pike County,-54%,-11%,,,-34%,,Georgia
+109,Polk County,-16%,-3%,,,-33%,+18%,Georgia
+110,Pulaski County,-65%,-26%,,,-42%,,Georgia
+111,Putnam County,-33%,-9%,,-59%,-24%,,Georgia
+112,Rabun County,-52%,-20%,+11%,,-31%,,Georgia
+113,Randolph County,-64%,,,,-56%,,Georgia
+114,Richmond County,-44%,-4%,-4%,-35%,-34%,+12%,Georgia
+115,Rockdale County,-35%,+13%,-4%,,-36%,+14%,Georgia
+116,Schley County,,,,,-51%,,Georgia
+117,Screven County,-67%,-21%,,,-44%,,Georgia
+118,Seminole County,-31%,-16%,,,-38%,,Georgia
+119,Spalding County,-28%,+1%,,,-30%,+19%,Georgia
+120,Stephens County,-23%,-6%,,,-29%,+1%,Georgia
+121,Sumter County,-31%,-25%,,,-21%,+1%,Georgia
+122,Talbot County,,,-9%,,-48%,,Georgia
+123,Tattnall County,-41%,-11%,,,-14%,,Georgia
+124,Taylor County,,-7%,,,-36%,,Georgia
+125,Telfair County,-73%,-15%,,,-37%,,Georgia
+126,Terrell County,-67%,-23%,,,-41%,,Georgia
+127,Thomas County,-38%,-3%,,,-29%,+22%,Georgia
+128,Tift County,-43%,-17%,,-35%,-30%,+14%,Georgia
+129,Toombs County,-34%,-6%,,,-26%,-2%,Georgia
+130,Towns County,-55%,-15%,,,-37%,,Georgia
+131,Treutlen County,,-17%,,,-41%,,Georgia
+132,Troup County,-35%,+6%,,-41%,-40%,+24%,Georgia
+133,Turner County,-71%,+8%,,-46%,-42%,,Georgia
+134,Twiggs County,,,,,-42%,,Georgia
+135,Union County,-32%,-8%,-10%,,-33%,,Georgia
+136,Upson County,-26%,-10%,,,-26%,-4%,Georgia
+137,Walker County,-17%,+20%,-33%,,-29%,+20%,Georgia
+138,Walton County,-21%,+22%,,,-33%,+11%,Georgia
+139,Ware County,-39%,-13%,,,-28%,+11%,Georgia
+140,Warren County,,,,,-53%,,Georgia
+141,Washington County,-31%,-34%,,,-23%,,Georgia
+142,Wayne County,-31%,-15%,,,-21%,-2%,Georgia
+143,White County,-44%,-17%,-28%,,-36%,+9%,Georgia
+144,Whitfield County,-35%,+0%,+6%,-36%,-41%,+12%,Georgia
+145,Wilcox County,,-6%,,,-50%,,Georgia
+146,Wilkes County,-43%,-11%,,,-31%,,Georgia
+147,Wilkinson County,,-3%,,,-46%,,Georgia
+0,Hawaii County,-56%,-34%,-72%,-89%,-42%,+16%,Hawaii
+1,Honolulu County,-52%,-24%,-62%,-70%,-46%,+19%,Hawaii
+2,Kauai County,-67%,-50%,-73%,-89%,-47%,+22%,Hawaii
+0,Ada County,-45%,-6%,+24%,-54%,-40%,+13%,Idaho
+1,Bannock County,-44%,-2%,-40%,-44%,-32%,+11%,Idaho
+2,Bear Lake County,-28%,-17%,,,-41%,,Idaho
+3,Benewah County,-16%,-6%,,,-43%,,Idaho
+4,Bingham County,-31%,+2%,,,-24%,+13%,Idaho
+5,Blaine County,-84%,-50%,,-57%,-64%,,Idaho
+6,Boise County,-57%,,-12%,,-50%,,Idaho
+7,Bonner County,-32%,-32%,-22%,,-33%,+12%,Idaho
+8,Bonneville County,-41%,-2%,+16%,-28%,-28%,+11%,Idaho
+9,Boundary County,-29%,-4%,,,-25%,,Idaho
+10,Canyon County,-36%,+4%,+24%,-21%,-32%,+10%,Idaho
+11,Caribou County,-53%,-6%,,,-29%,,Idaho
+12,Cassia County,-7%,+2%,,,-28%,+0%,Idaho
+13,Clearwater County,-54%,-14%,,,-21%,,Idaho
+14,Elmore County,-28%,+1%,,-32%,-24%,+14%,Idaho
+15,Franklin County,-3%,-10%,,,-20%,,Idaho
+16,Fremont County,-64%,+2%,-38%,,-22%,,Idaho
+17,Gem County,-9%,+1%,,,-24%,,Idaho
+18,Gooding County,-42%,-4%,,,-11%,,Idaho
+19,Idaho County,-74%,-15%,,,-30%,,Idaho
+20,Jefferson County,-39%,-12%,-62%,,-26%,+9%,Idaho
+21,Jerome County,-5%,-44%,,-13%,-19%,+6%,Idaho
+22,Kootenai County,-37%,+4%,+82%,-13%,-36%,+10%,Idaho
+23,Latah County,-49%,-22%,,,-42%,+19%,Idaho
+24,Lemhi County,-23%,-27%,,,-28%,,Idaho
+25,Lincoln County,,,,,-39%,,Idaho
+26,Madison County,-44%,-28%,,,-45%,+15%,Idaho
+27,Minidoka County,-40%,+27%,,-12%,-24%,+1%,Idaho
+28,Nez Perce County,-36%,+17%,-24%,-55%,-27%,+15%,Idaho
+29,Oneida County,,,,,-42%,,Idaho
+30,Owyhee County,-30%,+12%,,,-25%,,Idaho
+31,Payette County,-42%,-5%,,,-29%,+5%,Idaho
+32,Power County,-26%,-9%,,,-32%,,Idaho
+33,Shoshone County,-28%,-4%,,,-29%,,Idaho
+34,Teton County,-69%,-19%,,,-56%,,Idaho
+35,Twin Falls County,-45%,+2%,-16%,,-31%,+12%,Idaho
+36,Valley County,-84%,-54%,-64%,,-58%,,Idaho
+0,Adams County,-51%,-7%,,-2%,-29%,+19%,Illinois
+1,Alexander County,,,,,-43%,,Illinois
+2,Bond County,-39%,+2%,,-18%,-18%,,Illinois
+3,Boone County,-22%,-6%,,-45%,-39%,+23%,Illinois
+4,Bureau County,-36%,+14%,,,-29%,+3%,Illinois
+5,Carroll County,-52%,+14%,,,-23%,,Illinois
+6,Cass County,-17%,+10%,,,-33%,,Illinois
+7,Champaign County,-46%,-10%,+63%,-32%,-37%,+12%,Illinois
+8,Christian County,-31%,-20%,,,-28%,+9%,Illinois
+9,Clark County,-35%,,,-30%,-33%,,Illinois
+10,Clay County,-33%,,,,-27%,,Illinois
+11,Clinton County,-30%,-2%,,,-27%,+14%,Illinois
+12,Coles County,-31%,+4%,,,-31%,+21%,Illinois
+13,Cook County,-51%,-9%,-6%,-53%,-43%,+16%,Illinois
+14,Crawford County,-36%,+22%,,,-23%,,Illinois
+15,Cumberland County,-62%,,,-24%,-58%,,Illinois
+16,De Witt County,-37%,-23%,,,-21%,,Illinois
+17,DeKalb County,-41%,+21%,,,-34%,+13%,Illinois
+18,Douglas County,-55%,+14%,,,-30%,,Illinois
+19,DuPage County,-54%,-9%,+30%,-33%,-43%,+17%,Illinois
+20,Edgar County,-27%,+10%,,,-21%,,Illinois
+21,Edwards County,,,,,-54%,,Illinois
+22,Effingham County,-46%,+2%,,-33%,-33%,+12%,Illinois
+23,Fayette County,-31%,-10%,,,-19%,,Illinois
+24,Ford County,-51%,-11%,,,-24%,,Illinois
+25,Franklin County,-25%,+1%,,-35%,-25%,+14%,Illinois
+26,Fulton County,-33%,-12%,,,-28%,+14%,Illinois
+27,Gallatin County,,,,,-42%,,Illinois
+28,Greene County,-60%,+2%,,,-36%,,Illinois
+29,Grundy County,-30%,+16%,,-26%,-31%,+20%,Illinois
+30,Hamilton County,-44%,,,,-45%,,Illinois
+31,Hancock County,-37%,+17%,,,-15%,,Illinois
+32,Henderson County,,,,,-38%,,Illinois
+33,Henry County,-36%,+2%,,-45%,-28%,+19%,Illinois
+34,Iroquois County,-31%,+16%,,-52%,-18%,+3%,Illinois
+35,Jackson County,-53%,-4%,+8%,,-34%,+18%,Illinois
+36,Jasper County,-54%,,,,-45%,,Illinois
+37,Jefferson County,-45%,-6%,,-32%,-36%,+15%,Illinois
+38,Jersey County,-47%,-24%,,,-18%,,Illinois
+39,Jo Daviess County,-46%,-2%,,,-40%,,Illinois
+40,Johnson County,-54%,,-20%,,-48%,,Illinois
+41,Kane County,-49%,-3%,+74%,-27%,-40%,+15%,Illinois
+42,Kankakee County,-39%,+12%,,-29%,-33%,+11%,Illinois
+43,Kendall County,-31%,-7%,+6%,,-39%,+16%,Illinois
+44,Knox County,-40%,+28%,,-18%,-29%,+17%,Illinois
+45,LaSalle County,-37%,+33%,-11%,-19%,-33%,+10%,Illinois
+46,Lake County,-47%,+0%,+47%,-48%,-39%,+15%,Illinois
+47,Lawrence County,-25%,,,,-19%,,Illinois
+48,Lee County,-30%,+23%,,,-22%,+13%,Illinois
+49,Livingston County,-30%,+22%,,,-21%,+16%,Illinois
+50,Logan County,-41%,-21%,,,-27%,+6%,Illinois
+51,Macon County,-35%,+10%,,-29%,-29%,+10%,Illinois
+52,Macoupin County,-45%,+7%,,,-29%,+18%,Illinois
+53,Madison County,-40%,+9%,+30%,-22%,-31%,+12%,Illinois
+54,Marion County,-40%,+5%,,-38%,-28%,+15%,Illinois
+55,Marshall County,-64%,,,,-48%,,Illinois
+56,Mason County,-15%,+35%,,,-19%,,Illinois
+57,Massac County,-46%,-10%,,,-32%,,Illinois
+58,McDonough County,-45%,-9%,,,-24%,+0%,Illinois
+59,McHenry County,-42%,+3%,+70%,-56%,-37%,+14%,Illinois
+60,McLean County,-48%,-1%,+59%,-31%,-35%,+12%,Illinois
+61,Menard County,-61%,,,,-46%,,Illinois
+62,Mercer County,-31%,,,,-24%,,Illinois
+63,Monroe County,-40%,-31%,,,-32%,+16%,Illinois
+64,Montgomery County,-38%,-6%,,,-19%,+1%,Illinois
+65,Morgan County,-30%,+7%,,-31%,-29%,+6%,Illinois
+66,Moultrie County,-56%,,,,-28%,,Illinois
+67,Ogle County,-44%,+4%,,,-26%,+20%,Illinois
+68,Peoria County,-46%,+17%,+23%,-24%,-32%,+11%,Illinois
+69,Perry County,-45%,-5%,,,-30%,,Illinois
+70,Piatt County,-48%,,,,-22%,,Illinois
+71,Pike County,-23%,-6%,,,-29%,,Illinois
+72,Pulaski County,,,,,-57%,,Illinois
+73,Putnam County,,,,,-45%,,Illinois
+74,Randolph County,-25%,+4%,,,-18%,+10%,Illinois
+75,Richland County,-40%,-2%,,,-21%,,Illinois
+76,Rock Island County,-45%,+25%,-31%,-35%,-34%,+13%,Illinois
+77,Saline County,-18%,+2%,,,-19%,,Illinois
+78,Sangamon County,-46%,+1%,+46%,-31%,-35%,+12%,Illinois
+79,Schuyler County,-55%,,,,-37%,,Illinois
+80,Shelby County,-26%,,,,-25%,,Illinois
+81,St. Clair County,-48%,+3%,+31%,-27%,-35%,+13%,Illinois
+82,Stark County,,,,,-41%,,Illinois
+83,Stephenson County,-33%,+4%,,,-22%,+19%,Illinois
+84,Tazewell County,-36%,+18%,-4%,,-31%,+11%,Illinois
+85,Union County,-24%,-10%,,,-25%,,Illinois
+86,Vermilion County,-26%,+15%,,-28%,-27%,+8%,Illinois
+87,Wabash County,-50%,-19%,,,-34%,,Illinois
+88,Warren County,-19%,+10%,,,-36%,,Illinois
+89,Washington County,-62%,-6%,,,-26%,,Illinois
+90,Wayne County,-38%,+9%,,,-17%,,Illinois
+91,White County,-42%,-7%,,,-19%,,Illinois
+92,Whiteside County,-39%,+12%,,,-27%,+20%,Illinois
+93,Will County,-43%,+1%,+39%,-21%,-37%,+15%,Illinois
+94,Williamson County,-40%,-4%,-45%,-31%,-34%,+18%,Illinois
+95,Winnebago County,-38%,+14%,+20%,-31%,-36%,+11%,Illinois
+0,Adams County,-35%,-29%,,,-27%,+8%,Indiana
+1,Allen County,-48%,-12%,+76%,-38%,-39%,+13%,Indiana
+2,Bartholomew County,-49%,-10%,+23%,-17%,-49%,+28%,Indiana
+3,Benton County,,,,,-52%,,Indiana
+4,Blackford County,-53%,-7%,,,-17%,,Indiana
+5,Boone County,-39%,-6%,,-26%,-35%,+27%,Indiana
+6,Brown County,-70%,-20%,,,-39%,,Indiana
+7,Carroll County,-7%,+5%,,,-30%,,Indiana
+8,Cass County,-26%,-3%,,,-20%,+19%,Indiana
+9,Clark County,-48%,+4%,+101%,-36%,-36%,+12%,Indiana
+10,Clay County,-30%,-29%,,-29%,-39%,-1%,Indiana
+11,Clinton County,-31%,-9%,,,-34%,+17%,Indiana
+12,Crawford County,-47%,-16%,,-42%,-54%,,Indiana
+13,Daviess County,-38%,+5%,,,-28%,+8%,Indiana
+14,DeKalb County,-40%,-5%,,,-37%,+20%,Indiana
+15,Dearborn County,-42%,-14%,,,-44%,+24%,Indiana
+16,Decatur County,-53%,-46%,,-35%,-44%,+11%,Indiana
+17,Delaware County,-42%,-7%,,-4%,-33%,+10%,Indiana
+18,Dubois County,-47%,-14%,,,-49%,+23%,Indiana
+19,Elkhart County,-32%,-5%,+23%,-20%,-40%,+11%,Indiana
+20,Fayette County,-27%,-16%,,,-26%,+6%,Indiana
+21,Floyd County,-40%,-4%,,,-38%,+23%,Indiana
+22,Fountain County,-47%,+0%,,,-31%,,Indiana
+23,Franklin County,-38%,-32%,,,-33%,,Indiana
+24,Fulton County,-21%,-10%,,-46%,-35%,,Indiana
+25,Gibson County,-27%,-4%,,-46%,-26%,+11%,Indiana
+26,Grant County,-28%,+8%,,-32%,-24%,+8%,Indiana
+27,Greene County,-40%,-15%,,,-29%,+5%,Indiana
+28,Hamilton County,-51%,-8%,+111%,,-42%,+14%,Indiana
+29,Hancock County,-39%,+33%,,-24%,-33%,+23%,Indiana
+30,Harrison County,-40%,+0%,,,-30%,+19%,Indiana
+31,Hendricks County,-36%,-1%,-13%,-24%,-34%,+13%,Indiana
+32,Henry County,-25%,-1%,,-28%,-31%,+23%,Indiana
+33,Howard County,-42%,-3%,,,-41%,+11%,Indiana
+34,Huntington County,-33%,-18%,,-46%,-27%,+18%,Indiana
+35,Jackson County,-26%,-45%,,-23%,-44%,+25%,Indiana
+36,Jasper County,-24%,-3%,,-21%,-26%,+14%,Indiana
+37,Jay County,-43%,-20%,,,-20%,,Indiana
+38,Jefferson County,-31%,-7%,,,-26%,+14%,Indiana
+39,Jennings County,-43%,-14%,,,-41%,+12%,Indiana
+40,Johnson County,-46%,+3%,+0%,-26%,-37%,+12%,Indiana
+41,Knox County,-34%,-5%,,,-31%,+14%,Indiana
+42,Kosciusko County,-39%,-2%,,,-36%,+26%,Indiana
+43,LaGrange County,-62%,-6%,-8%,-41%,-25%,+9%,Indiana
+44,LaPorte County,-44%,+1%,-7%,-38%,-35%,+12%,Indiana
+45,Lake County,-37%,+4%,+18%,-18%,-35%,+13%,Indiana
+46,Lawrence County,-32%,-2%,,,-32%,+19%,Indiana
+47,Madison County,-32%,+10%,,-29%,-35%,+10%,Indiana
+48,Marion County,-45%,-5%,+50%,-35%,-38%,+11%,Indiana
+49,Marshall County,-31%,+7%,,-19%,-30%,+17%,Indiana
+50,Martin County,-53%,-8%,,,-51%,,Indiana
+51,Miami County,-26%,-9%,,,-35%,+16%,Indiana
+52,Monroe County,-49%,-12%,+35%,-33%,-40%,+12%,Indiana
+53,Montgomery County,-23%,-9%,,-28%,-33%,+14%,Indiana
+54,Morgan County,-27%,+8%,,,-31%,+19%,Indiana
+55,Newton County,-18%,,,,-27%,,Indiana
+56,Noble County,-25%,+1%,,,-37%,+22%,Indiana
+57,Ohio County,,,,,-49%,,Indiana
+58,Orange County,-48%,-20%,,,-48%,,Indiana
+59,Owen County,-26%,-7%,,,-27%,,Indiana
+60,Parke County,-53%,+10%,,,-48%,,Indiana
+61,Perry County,-57%,+85%,,,-41%,,Indiana
+62,Pike County,-54%,+8%,,,-56%,,Indiana
+63,Porter County,-43%,+1%,+160%,-35%,-37%,+12%,Indiana
+64,Posey County,-27%,+0%,,,-18%,-1%,Indiana
+65,Pulaski County,-7%,-20%,,,-48%,,Indiana
+66,Putnam County,-28%,-14%,,,-26%,+11%,Indiana
+67,Randolph County,-26%,-12%,,,-23%,+8%,Indiana
+68,Ripley County,-51%,-15%,,,-30%,+0%,Indiana
+69,Rush County,-39%,-9%,,,-34%,,Indiana
+70,Scott County,-26%,+1%,,,-38%,+3%,Indiana
+71,Shelby County,-37%,-4%,,-51%,-38%,+21%,Indiana
+72,Spencer County,-44%,+19%,,,-27%,,Indiana
+73,St. Joseph County,-43%,-4%,+104%,-24%,-39%,+11%,Indiana
+74,Starke County,-23%,+11%,,,-26%,,Indiana
+75,Steuben County,-44%,+1%,,-32%,-36%,+18%,Indiana
+76,Sullivan County,-38%,-5%,,,-24%,,Indiana
+77,Switzerland County,,-20%,,,-54%,,Indiana
+78,Tippecanoe County,-46%,-12%,+39%,+3%,-43%,+13%,Indiana
+79,Tipton County,-35%,-2%,,,-34%,,Indiana
+80,Union County,-38%,,,,-48%,,Indiana
+81,Vanderburgh County,-49%,-3%,+29%,-63%,-34%,+12%,Indiana
+82,Vermillion County,-31%,+0%,,-28%,-27%,,Indiana
+83,Vigo County,-46%,-8%,-7%,+5%,-35%,+11%,Indiana
+84,Wabash County,-35%,-9%,,,-31%,+8%,Indiana
+85,Warren County,,,,,-56%,,Indiana
+86,Warrick County,-35%,-13%,,,-34%,+24%,Indiana
+87,Washington County,-40%,-18%,,,-24%,+11%,Indiana
+88,Wayne County,-47%,-9%,,-27%,-32%,+11%,Indiana
+89,Wells County,-30%,+6%,,,-28%,+11%,Indiana
+90,White County,-25%,-8%,,-34%,-32%,+6%,Indiana
+0,Adair County,-44%,+2%,,,-43%,,Iowa
+1,Allamakee County,-75%,-5%,,,-38%,,Iowa
+2,Appanoose County,-7%,+52%,,,-14%,,Iowa
+3,Audubon County,,,,,-28%,,Iowa
+4,Benton County,-16%,+25%,,,-33%,+8%,Iowa
+5,Black Hawk County,-47%,-3%,-15%,-14%,-30%,+12%,Iowa
+6,Boone County,-28%,-21%,,,-17%,+14%,Iowa
+7,Bremer County,-32%,-12%,,,-31%,-1%,Iowa
+8,Buchanan County,-29%,+0%,,,-17%,,Iowa
+9,Buena Vista County,-31%,-15%,,,-17%,,Iowa
+10,Butler County,,+2%,,,-43%,,Iowa
+11,Calhoun County,,-12%,,,-37%,,Iowa
+12,Carroll County,-29%,+13%,,,-26%,,Iowa
+13,Cass County,-32%,+13%,,,-20%,,Iowa
+14,Cedar County,-30%,+0%,,-25%,-21%,,Iowa
+15,Cerro Gordo County,-42%,+19%,,-25%,-29%,+18%,Iowa
+16,Cherokee County,-76%,,,,-32%,,Iowa
+17,Chickasaw County,-25%,-18%,,,-39%,,Iowa
+18,Clarke County,-27%,,,-36%,-27%,,Iowa
+19,Clay County,-34%,-12%,,,-20%,,Iowa
+20,Clayton County,-59%,+7%,,,-19%,,Iowa
+21,Clinton County,-38%,+12%,,,-26%,+18%,Iowa
+22,Crawford County,-38%,,,,-27%,,Iowa
+23,Dallas County,-67%,-28%,,,-32%,+24%,Iowa
+24,Davis County,-44%,,,,-31%,,Iowa
+25,Decatur County,,,,,-29%,,Iowa
+26,Delaware County,-33%,+19%,,,-15%,,Iowa
+27,Des Moines County,-40%,+14%,,-24%,-23%,+16%,Iowa
+28,Dickinson County,-33%,+12%,+12%,,-31%,,Iowa
+29,Dubuque County,-53%,+9%,-12%,-59%,-37%,+14%,Iowa
+30,Emmet County,-17%,+11%,,,-49%,,Iowa
+31,Fayette County,-15%,+7%,,,-21%,,Iowa
+32,Floyd County,-28%,-12%,,-16%,-8%,,Iowa
+33,Franklin County,-39%,+7%,,,-31%,,Iowa
+34,Fremont County,-45%,,,-16%,-35%,,Iowa
+35,Greene County,-45%,+4%,,,-40%,,Iowa
+36,Grundy County,-64%,-25%,,,-44%,,Iowa
+37,Guthrie County,,,,,-34%,,Iowa
+38,Hamilton County,-23%,-3%,,-25%,-6%,,Iowa
+39,Hancock County,,-2%,,,-44%,,Iowa
+40,Hardin County,-40%,+26%,,,-17%,,Iowa
+41,Harrison County,-30%,+3%,,,-17%,,Iowa
+42,Henry County,-27%,+12%,,-20%,-21%,,Iowa
+43,Howard County,-37%,+4%,,,-46%,,Iowa
+44,Humboldt County,-39%,-7%,,,-46%,,Iowa
+45,Ida County,-64%,,,,-25%,,Iowa
+46,Iowa County,-71%,+4%,,,-31%,,Iowa
+47,Jackson County,-26%,+16%,,,-25%,,Iowa
+48,Jasper County,-44%,+97%,,-9%,-28%,+12%,Iowa
+49,Jefferson County,-39%,,,,-27%,,Iowa
+50,Johnson County,-55%,-24%,+35%,-28%,-37%,+15%,Iowa
+51,Jones County,-37%,+14%,,,-21%,,Iowa
+52,Keokuk County,-66%,,,,-33%,,Iowa
+53,Kossuth County,-62%,+60%,,,-27%,,Iowa
+54,Lee County,-28%,-1%,,,-21%,+13%,Iowa
+55,Linn County,-51%,+10%,+37%,-53%,-35%,+13%,Iowa
+56,Louisa County,,,,,-51%,,Iowa
+57,Lucas County,-59%,+8%,,,-25%,,Iowa
+58,Lyon County,-70%,,,,-42%,,Iowa
+59,Madison County,-46%,+26%,,,-29%,,Iowa
+60,Mahaska County,-32%,,,,-19%,,Iowa
+61,Marion County,-35%,+43%,,,-35%,+13%,Iowa
+62,Marshall County,-34%,+7%,,,-23%,+17%,Iowa
+63,Mills County,-8%,,,,-27%,,Iowa
+64,Mitchell County,-67%,,,,-38%,,Iowa
+65,Monona County,-25%,,,,-38%,,Iowa
+66,Monroe County,-51%,,,,-40%,,Iowa
+67,Montgomery County,-42%,-3%,,,-26%,,Iowa
+68,Muscatine County,-36%,+51%,,,-30%,+21%,Iowa
+69,O'Brien County,-17%,-9%,,,-11%,,Iowa
+70,Osceola County,,,,,-41%,,Iowa
+71,Page County,-43%,,,,-20%,,Iowa
+72,Palo Alto County,-33%,-18%,,,-40%,,Iowa
+73,Plymouth County,-32%,+16%,,,-27%,+8%,Iowa
+74,Pocahontas County,,,,,-37%,,Iowa
+75,Polk County,-49%,+5%,+27%,-42%,-32%,+13%,Iowa
+76,Pottawattamie County,-40%,+17%,+53%,-18%,-31%,+11%,Iowa
+77,Poweshiek County,-23%,-5%,,-18%,-28%,,Iowa
+78,Sac County,,,,,-32%,,Iowa
+79,Scott County,-48%,-2%,+30%,-12%,-33%,+13%,Iowa
+80,Shelby County,-20%,-14%,,,-37%,,Iowa
+81,Sioux County,-33%,+11%,,,-17%,+16%,Iowa
+82,Story County,-48%,-9%,,-28%,-37%,+22%,Iowa
+83,Tama County,-42%,-7%,,,-34%,,Iowa
+84,Taylor County,,,,,-21%,,Iowa
+85,Union County,-22%,,,,-29%,,Iowa
+86,Van Buren County,,,,,-42%,,Iowa
+87,Wapello County,-38%,+19%,,,-25%,+11%,Iowa
+88,Warren County,-33%,+7%,,,-31%,+15%,Iowa
+89,Washington County,-23%,-9%,,,-23%,-3%,Iowa
+90,Wayne County,,,,,-31%,,Iowa
+91,Webster County,-34%,+44%,,,-20%,+17%,Iowa
+92,Winnebago County,-45%,-16%,,,-50%,,Iowa
+93,Winneshiek County,-56%,-17%,,,-36%,,Iowa
+94,Woodbury County,-44%,+4%,,-13%,-24%,+11%,Iowa
+95,Worth County,,-31%,,,-44%,,Iowa
+0,Allen County,-28%,-2%,,,-30%,,Kansas
+1,Anderson County,-33%,,,,-37%,,Kansas
+2,Atchison County,-20%,,,,-29%,,Kansas
+3,Barton County,-30%,-16%,,,-18%,-1%,Kansas
+4,Bourbon County,-37%,-15%,,,-24%,,Kansas
+5,Brown County,-18%,-13%,,,-35%,,Kansas
+6,Butler County,-24%,-3%,,,-24%,+18%,Kansas
+7,Cherokee County,-24%,+5%,,,-27%,-4%,Kansas
+8,Clay County,-23%,-22%,,,-40%,,Kansas
+9,Cloud County,-47%,,,,-33%,,Kansas
+10,Coffey County,-73%,-49%,,-32%,-39%,,Kansas
+11,Cowley County,-25%,-20%,,-57%,-34%,+16%,Kansas
+12,Crawford County,-41%,-14%,,,-21%,+15%,Kansas
+13,Dickinson County,-44%,-14%,,-17%,-18%,,Kansas
+14,Doniphan County,,,,,-31%,,Kansas
+15,Douglas County,-50%,-16%,+110%,-9%,-40%,+13%,Kansas
+16,Ellis County,-53%,-23%,,-15%,-41%,-1%,Kansas
+17,Ellsworth County,,-31%,,,-35%,,Kansas
+18,Finney County,-43%,-18%,,-46%,+11%,+19%,Kansas
+19,Ford County,-37%,-22%,,-22%,-43%,+13%,Kansas
+20,Franklin County,-29%,-19%,,-16%,-28%,+12%,Kansas
+21,Geary County,-31%,-12%,,,-27%,+22%,Kansas
+22,Grant County,-22%,,,,-30%,,Kansas
+23,Greenwood County,,,,,-40%,,Kansas
+24,Harper County,-65%,,,,-34%,,Kansas
+25,Harvey County,-42%,+27%,,-35%,-27%,+19%,Kansas
+26,Jackson County,-29%,-26%,,,-38%,,Kansas
+27,Jefferson County,-62%,+5%,,,-24%,,Kansas
+28,Johnson County,-48%,-9%,+148%,-11%,-39%,+14%,Kansas
+29,Kingman County,-46%,,,,-33%,,Kansas
+30,Labette County,-34%,-15%,,,-13%,,Kansas
+31,Leavenworth County,-31%,-2%,,-52%,-28%,+17%,Kansas
+32,Linn County,,,,,-32%,,Kansas
+33,Lyon County,-41%,-28%,,-40%,-28%,+16%,Kansas
+34,Marion County,-30%,,,,-44%,,Kansas
+35,Marshall County,-30%,,,,-40%,,Kansas
+36,McPherson County,-39%,-20%,,-37%,-24%,+13%,Kansas
+37,Miami County,-18%,-13%,,,-27%,+16%,Kansas
+38,Mitchell County,-71%,,,,-31%,,Kansas
+39,Montgomery County,-23%,-7%,,,-15%,+12%,Kansas
+40,Morris County,,,,,-48%,,Kansas
+41,Nemaha County,-76%,,,,-34%,,Kansas
+42,Neosho County,-29%,-8%,,-20%,-15%,,Kansas
+43,Osage County,-66%,+7%,,,-24%,,Kansas
+44,Ottawa County,,,,,-37%,,Kansas
+45,Pawnee County,-48%,-21%,,,-30%,,Kansas
+46,Pottawatomie County,-41%,-9%,,,-33%,+2%,Kansas
+47,Pratt County,-33%,-13%,,,-35%,,Kansas
+48,Reno County,-33%,-7%,,-30%,-29%,+9%,Kansas
+49,Rice County,-33%,-25%,,,-40%,,Kansas
+50,Riley County,-55%,-32%,-50%,-53%,-38%,+25%,Kansas
+51,Russell County,-56%,-24%,,,-34%,,Kansas
+52,Saline County,-45%,-21%,-7%,-23%,-36%,+17%,Kansas
+53,Scott County,-53%,,,,-33%,,Kansas
+54,Sedgwick County,-42%,-3%,+40%,-30%,-35%,+11%,Kansas
+55,Seward County,-39%,-21%,,-19%,-17%,-1%,Kansas
+56,Shawnee County,-39%,-2%,+104%,+26%,-32%,+11%,Kansas
+57,Sherman County,-31%,,,,-34%,,Kansas
+58,Stevens County,-62%,,,,-49%,,Kansas
+59,Sumner County,-28%,+17%,,,-24%,+1%,Kansas
+60,Thomas County,-44%,-22%,,-4%,-25%,,Kansas
+61,Trego County,,-27%,,,,,Kansas
+62,Wabaunsee County,,,,,-46%,,Kansas
+63,Washington County,,,,,-38%,,Kansas
+64,Wilson County,-56%,-9%,,,-42%,,Kansas
+0,Adair County,-28%,+6%,,,-52%,,Kentucky
+1,Allen County,-9%,+7%,,,-28%,,Kentucky
+2,Anderson County,-21%,-3%,,,-34%,-1%,Kentucky
+3,Ballard County,,,,,-41%,,Kentucky
+4,Barren County,-36%,+12%,,,-27%,+7%,Kentucky
+5,Bath County,,-11%,,,-48%,,Kentucky
+6,Bell County,-40%,-3%,,,-21%,,Kentucky
+7,Boone County,-46%,-5%,+31%,-58%,-39%,+12%,Kentucky
+8,Bourbon County,-17%,-13%,,,-25%,,Kentucky
+9,Boyd County,-48%,+1%,,-40%,-30%,+13%,Kentucky
+10,Boyle County,-41%,-11%,,,-28%,,Kentucky
+11,Bracken County,,,,,-47%,,Kentucky
+12,Breathitt County,-11%,,,,-42%,,Kentucky
+13,Breckinridge County,+5%,+19%,,,-31%,,Kentucky
+14,Bullitt County,-35%,+8%,,-31%,-32%,+21%,Kentucky
+15,Butler County,+8%,+15%,,,-52%,,Kentucky
+16,Caldwell County,-31%,-2%,,,-40%,,Kentucky
+17,Calloway County,-47%,-11%,,,-34%,+10%,Kentucky
+18,Campbell County,-46%,+4%,,,-41%,+13%,Kentucky
+19,Carlisle County,,,,,-42%,,Kentucky
+20,Carroll County,-20%,-10%,,,-13%,,Kentucky
+21,Carter County,-24%,-1%,,-19%,-21%,,Kentucky
+22,Casey County,+7%,+15%,,,-49%,,Kentucky
+23,Christian County,-30%,+4%,,-25%,-28%,+21%,Kentucky
+24,Clark County,-32%,-16%,,,-33%,+12%,Kentucky
+25,Clay County,+8%,+2%,,,-36%,,Kentucky
+26,Clinton County,,,,,-33%,,Kentucky
+27,Crittenden County,-19%,+6%,,,-46%,,Kentucky
+28,Daviess County,-48%,+0%,+26%,,-29%,+11%,Kentucky
+29,Edmonson County,,,,,-50%,,Kentucky
+30,Estill County,-15%,-4%,,,-48%,,Kentucky
+31,Fayette County,-49%,-1%,+5%,-33%,-40%,+12%,Kentucky
+32,Fleming County,-7%,+13%,,,-46%,,Kentucky
+33,Floyd County,-17%,-5%,,,-17%,,Kentucky
+34,Franklin County,-35%,-3%,,,-37%,+24%,Kentucky
+35,Fulton County,-24%,+6%,,,-44%,,Kentucky
+36,Gallatin County,,+58%,,-89%,-46%,,Kentucky
+37,Garrard County,-10%,+19%,,,-33%,,Kentucky
+38,Grant County,-26%,-7%,,,-38%,+1%,Kentucky
+39,Graves County,-25%,+4%,,,-26%,+10%,Kentucky
+40,Grayson County,-12%,+24%,,,-32%,,Kentucky
+41,Green County,,,,,-48%,,Kentucky
+42,Greenup County,-31%,+7%,,,-28%,+1%,Kentucky
+43,Hancock County,,,,,-49%,,Kentucky
+44,Hardin County,-42%,-2%,,-32%,-38%,+11%,Kentucky
+45,Harlan County,-10%,+15%,,,-13%,,Kentucky
+46,Harrison County,-17%,-14%,,,-24%,,Kentucky
+47,Hart County,+2%,+14%,,-38%,-16%,,Kentucky
+48,Henderson County,-39%,+55%,,,-29%,+19%,Kentucky
+49,Henry County,-37%,+23%,,-35%,-41%,,Kentucky
+50,Hopkins County,-38%,-3%,,-40%,-26%,+16%,Kentucky
+51,Jackson County,,,,,-46%,,Kentucky
+52,Jefferson County,-44%,+5%,+104%,-27%,-40%,+12%,Kentucky
+53,Jessamine County,-40%,-9%,,-15%,-28%,+20%,Kentucky
+54,Johnson County,-40%,+62%,,,-30%,,Kentucky
+55,Kenton County,-37%,+3%,+37%,-9%,-37%,+13%,Kentucky
+56,Knott County,,,,,-43%,,Kentucky
+57,Knox County,-23%,+13%,,,-25%,,Kentucky
+58,Larue County,-24%,+12%,,,-30%,,Kentucky
+59,Laurel County,-41%,+3%,+57%,-61%,-32%,+17%,Kentucky
+60,Lawrence County,-28%,-28%,,,-27%,,Kentucky
+61,Letcher County,-25%,+0%,,,-43%,,Kentucky
+62,Lewis County,,-14%,,,-37%,,Kentucky
+63,Lincoln County,-12%,+38%,,,-22%,,Kentucky
+64,Livingston County,,+17%,,,-37%,,Kentucky
+65,Logan County,-17%,+12%,,,-27%,,Kentucky
+66,Lyon County,-43%,,,,-47%,,Kentucky
+67,Madison County,-41%,-3%,,-17%,-39%,+10%,Kentucky
+68,Marion County,-24%,+3%,,,-39%,,Kentucky
+69,Marshall County,-33%,+5%,,-31%,-23%,+9%,Kentucky
+70,Mason County,-26%,,,,-26%,,Kentucky
+71,McCracken County,-51%,-8%,-25%,-26%,-30%,+19%,Kentucky
+72,McCreary County,-14%,+15%,,,-39%,,Kentucky
+73,McLean County,,,,,-45%,,Kentucky
+74,Meade County,-20%,+8%,,,-38%,+8%,Kentucky
+75,Menifee County,,,,,-46%,,Kentucky
+76,Mercer County,-26%,-9%,,,-35%,,Kentucky
+77,Metcalfe County,,-16%,,,-47%,,Kentucky
+78,Monroe County,-7%,,,,-34%,,Kentucky
+79,Montgomery County,-30%,+10%,,-22%,-34%,-3%,Kentucky
+80,Morgan County,-59%,,,,-48%,,Kentucky
+81,Muhlenberg County,-27%,+15%,,,-25%,,Kentucky
+82,Nelson County,-32%,+5%,,,-37%,+18%,Kentucky
+83,Nicholas County,,,,,-45%,,Kentucky
+84,Ohio County,-23%,+29%,,-45%,-20%,,Kentucky
+85,Oldham County,-30%,+19%,,,-30%,+25%,Kentucky
+86,Owen County,,,,,-52%,,Kentucky
+87,Pendleton County,+0%,-12%,,,-25%,,Kentucky
+88,Perry County,-37%,-5%,,,-23%,,Kentucky
+89,Pike County,-46%,-22%,,,-21%,,Kentucky
+90,Powell County,+0%,-2%,,,-43%,,Kentucky
+91,Pulaski County,-39%,-9%,,,-33%,+19%,Kentucky
+92,Rockcastle County,-43%,-4%,,,-24%,,Kentucky
+93,Rowan County,-30%,+8%,,,-27%,,Kentucky
+94,Russell County,-20%,+23%,,,-45%,,Kentucky
+95,Scott County,-39%,-13%,,-43%,-41%,+27%,Kentucky
+96,Shelby County,-43%,+11%,,-31%,-43%,+20%,Kentucky
+97,Simpson County,-29%,-2%,,-38%,-38%,,Kentucky
+98,Spencer County,-20%,+6%,,,-31%,,Kentucky
+99,Taylor County,-28%,+28%,,,-26%,,Kentucky
+100,Todd County,-52%,+15%,,,-51%,,Kentucky
+101,Trigg County,-33%,+17%,,,-50%,,Kentucky
+102,Trimble County,,,,,-50%,,Kentucky
+103,Union County,-23%,+6%,,,-56%,,Kentucky
+104,Warren County,-45%,-13%,-43%,-14%,-37%,+12%,Kentucky
+105,Washington County,-29%,,,,-59%,,Kentucky
+106,Wayne County,-11%,-11%,,,-32%,,Kentucky
+107,Webster County,-34%,+10%,,,-34%,,Kentucky
+108,Whitley County,-38%,+6%,,-14%,-27%,-3%,Kentucky
+109,Wolfe County,,,,,-49%,,Kentucky
+0,Acadia Parish,-31%,+23%,,-52%,-28%,+12%,Louisiana
+1,Allen Parish,-35%,-10%,,,-38%,,Louisiana
+2,Ascension Parish,-46%,+4%,,,-36%,+15%,Louisiana
+3,Assumption Parish,,-3%,,,-31%,,Louisiana
+4,Avoyelles Parish,-16%,+5%,,,-27%,-2%,Louisiana
+5,Beauregard Parish,-27%,-7%,,,-33%,+3%,Louisiana
+6,Bienville Parish,-44%,-8%,,,-40%,,Louisiana
+7,Bossier Parish,-57%,-8%,-13%,-53%,-41%,+15%,Louisiana
+8,Caddo Parish,-42%,+0%,-43%,-46%,-36%,+13%,Louisiana
+9,Calcasieu Parish,-42%,-9%,-31%,-51%,-33%,+14%,Louisiana
+10,Caldwell Parish,-13%,,,,-43%,,Louisiana
+11,Cameron Parish,,+10%,,,-48%,,Louisiana
+12,Catahoula Parish,-64%,-24%,,,-44%,,Louisiana
+13,Claiborne Parish,-41%,-14%,,,-41%,,Louisiana
+14,Concordia Parish,-24%,-16%,,,-30%,,Louisiana
+15,De Soto Parish,-22%,-12%,,-35%,-23%,,Louisiana
+16,East Baton Rouge Parish,-48%,+3%,-28%,-43%,-36%,+14%,Louisiana
+17,East Feliciana Parish,-23%,-3%,,,-58%,,Louisiana
+18,Evangeline Parish,-36%,+1%,,,-28%,,Louisiana
+19,Franklin Parish,-25%,+3%,,,-20%,,Louisiana
+20,Grant Parish,,+17%,,,-20%,,Louisiana
+21,Iberia Parish,-27%,+7%,-28%,,-27%,+21%,Louisiana
+22,Iberville Parish,-24%,+0%,,-49%,-37%,,Louisiana
+23,Jackson Parish,-21%,-5%,,,-44%,,Louisiana
+24,Jefferson Davis Parish,-52%,-7%,,-53%,-30%,-1%,Louisiana
+25,Jefferson Parish,-50%,-5%,-35%,-85%,-45%,+17%,Louisiana
+26,La Salle Parish,-36%,+2%,,,-41%,,Louisiana
+27,Lafayette Parish,-48%,-4%,-21%,-40%,-36%,+14%,Louisiana
+28,Lafourche Parish,-31%,+2%,,-54%,-29%,+22%,Louisiana
+29,Lincoln Parish,-60%,+2%,,-39%,-33%,+9%,Louisiana
+30,Livingston Parish,-37%,+9%,-32%,-35%,-34%,+12%,Louisiana
+31,Madison Parish,-14%,+6%,,-50%,-36%,,Louisiana
+32,Morehouse Parish,-20%,-9%,,,-25%,,Louisiana
+33,Natchitoches Parish,-38%,-16%,,,-32%,+6%,Louisiana
+34,Orleans Parish,-72%,-26%,-62%,-56%,-53%,+19%,Louisiana
+35,Ouachita Parish,-45%,-1%,-7%,-38%,-30%,+11%,Louisiana
+36,Plaquemines Parish,-35%,-14%,-33%,,-46%,,Louisiana
+37,Pointe Coupee Parish,-18%,-3%,,,-9%,,Louisiana
+38,Rapides Parish,-39%,+0%,-39%,-53%,-27%,+11%,Louisiana
+39,Red River Parish,-58%,,,,-40%,,Louisiana
+40,Richland Parish,-28%,+1%,,-36%,-17%,,Louisiana
+41,Sabine Parish,-23%,-15%,,,-23%,,Louisiana
+42,St. Bernard Parish,-27%,+23%,-19%,,-42%,+20%,Louisiana
+43,St. Charles Parish,-45%,+20%,,-41%,-38%,+24%,Louisiana
+44,St. Helena Parish,,-20%,,,-58%,,Louisiana
+45,St. James Parish,-13%,-4%,,,-29%,,Louisiana
+46,St. John the Baptist Parish,-37%,-1%,-62%,-57%,-38%,+21%,Louisiana
+47,St. Landry Parish,-38%,+20%,,-38%,-26%,+20%,Louisiana
+48,St. Martin Parish,-41%,+14%,-16%,-46%,-36%,+15%,Louisiana
+49,St. Mary Parish,-34%,-8%,,-57%,-41%,+13%,Louisiana
+50,St. Tammany Parish,-45%,+2%,-15%,-32%,-35%,+14%,Louisiana
+51,Tangipahoa Parish,-31%,+5%,-20%,-39%,-31%,+13%,Louisiana
+52,Terrebonne Parish,-47%,+0%,-8%,-49%,-37%,+14%,Louisiana
+53,Union Parish,-28%,+13%,,,-24%,,Louisiana
+54,Vermilion Parish,-39%,+12%,,,-27%,+12%,Louisiana
+55,Vernon Parish,-31%,-10%,,,-26%,+20%,Louisiana
+56,Washington Parish,-29%,+18%,,,-22%,+2%,Louisiana
+57,Webster Parish,-28%,-9%,,-40%,-35%,+13%,Louisiana
+58,West Baton Rouge Parish,-44%,+15%,,-54%,-34%,,Louisiana
+59,West Carroll Parish,-16%,-2%,,,-47%,,Louisiana
+60,West Feliciana Parish,-69%,-19%,,,-60%,,Louisiana
+0,Androscoggin County,-41%,+4%,-33%,,-31%,+10%,Maine
+1,Aroostook County,-43%,+9%,-37%,,-23%,+24%,Maine
+2,Cumberland County,-54%,-22%,+30%,-65%,-40%,+14%,Maine
+3,Franklin County,-35%,-13%,-50%,,-33%,+0%,Maine
+4,Hancock County,-36%,-25%,+0%,,-27%,+18%,Maine
+5,Kennebec County,-38%,+2%,-47%,-43%,-30%,+8%,Maine
+6,Knox County,-38%,-24%,,,-30%,+11%,Maine
+7,Lincoln County,-52%,-20%,,,-29%,+6%,Maine
+8,Oxford County,-43%,+2%,-19%,,-36%,+15%,Maine
+9,Penobscot County,-42%,-3%,-27%,-50%,-33%,+6%,Maine
+10,Piscataquis County,-45%,-17%,,,-28%,,Maine
+11,Sagadahoc County,-40%,-8%,,,-36%,+13%,Maine
+12,Somerset County,-30%,+7%,-31%,,-26%,+7%,Maine
+13,Waldo County,-43%,-28%,,,-28%,+13%,Maine
+14,Washington County,-50%,-19%,,,-25%,,Maine
+0,Allegany County,-41%,-6%,-55%,-39%,-30%,+20%,Maryland
+1,Anne Arundel County,-47%,-19%,+25%,-80%,-41%,+15%,Maryland
+2,Baltimore,-44%,-12%,+26%,-31%,-36%,+13%,Maryland
+3,Baltimore County,-41%,+0%,+63%,-32%,-37%,+15%,Maryland
+4,Calvert County,-33%,-10%,+16%,,-36%,+28%,Maryland
+5,Caroline County,-35%,-8%,,,-28%,+17%,Maryland
+6,Carroll County,-38%,-15%,+66%,-61%,-36%,+15%,Maryland
+7,Cecil County,-23%,-17%,+66%,-59%,-32%,+12%,Maryland
+8,Charles County,-38%,-7%,-42%,-30%,-39%,+15%,Maryland
+9,Dorchester County,-25%,-5%,,,-25%,+13%,Maryland
+10,Frederick County,-48%,-19%,+36%,-24%,-38%,+15%,Maryland
+11,Garrett County,-42%,-6%,,-35%,-30%,-1%,Maryland
+12,Harford County,-39%,-10%,+99%,-61%,-35%,+14%,Maryland
+13,Howard County,-55%,-35%,+28%,-32%,-46%,+18%,Maryland
+14,Kent County,-38%,-18%,,,-22%,,Maryland
+15,Montgomery County,-53%,-28%,+32%,-53%,-46%,+19%,Maryland
+16,Prince George's County,-39%,-19%,+14%,-49%,-40%,+17%,Maryland
+17,Queen Anne's County,-48%,-24%,-28%,,-33%,+23%,Maryland
+18,Somerset County,-21%,-5%,,,-26%,,Maryland
+19,St. Mary's County,-39%,+3%,-1%,,-33%,+13%,Maryland
+20,Talbot County,-33%,-9%,,,-32%,+8%,Maryland
+21,Washington County,-42%,-6%,+64%,-25%,-33%,+12%,Maryland
+22,Wicomico County,-45%,-16%,,-50%,-37%,+13%,Maryland
+0,Barnstable County,-43%,-7%,+93%,-40%,-38%,+13%,Massachusetts
+1,Berkshire County,-43%,-6%,-24%,-63%,-36%,+13%,Massachusetts
+2,Bristol County,-40%,+0%,+49%,-33%,-38%,+14%,Massachusetts
+3,Dukes County,-80%,-36%,,-44%,-51%,,Massachusetts
+4,Essex County,-47%,-15%,+59%,-38%,-46%,+16%,Massachusetts
+5,Franklin County,-43%,-7%,-37%,-55%,-37%,+25%,Massachusetts
+6,Hampden County,-44%,+1%,+39%,-40%,-39%,+13%,Massachusetts
+7,Hampshire County,-52%,-9%,+22%,-45%,-41%,+14%,Massachusetts
+8,Middlesex County,-55%,-19%,+25%,-60%,-47%,+17%,Massachusetts
+9,Nantucket County,-70%,-35%,,,-54%,,Massachusetts
+10,Norfolk County,-53%,-11%,+87%,-46%,-45%,+17%,Massachusetts
+11,Plymouth County,-41%,-3%,+101%,-36%,-38%,+15%,Massachusetts
+12,Suffolk County,-66%,-19%,-26%,-76%,-55%,+20%,Massachusetts
+0,Alcona County,+1%,,,,-50%,,Michigan
+1,Alger County,-79%,-45%,-14%,,-62%,,Michigan
+2,Allegan County,-49%,-4%,,-51%,-41%,+15%,Michigan
+3,Alpena County,-50%,-10%,,,-34%,+3%,Michigan
+4,Antrim County,-73%,-8%,,,-43%,,Michigan
+5,Arenac County,-28%,+13%,,,-35%,,Michigan
+6,Baraga County,,-44%,,,-63%,,Michigan
+7,Barry County,-48%,+18%,,,-37%,+29%,Michigan
+8,Bay County,-59%,-11%,-23%,,-41%,+14%,Michigan
+9,Benzie County,-23%,-3%,,,-33%,,Michigan
+10,Berrien County,-45%,-2%,+123%,-35%,-37%,+12%,Michigan
+11,Branch County,-55%,-10%,,,-40%,+21%,Michigan
+12,Calhoun County,-51%,-8%,+30%,-44%,-41%,+13%,Michigan
+13,Cass County,-38%,+3%,,,-32%,+25%,Michigan
+14,Charlevoix County,-46%,-22%,+25%,,-43%,,Michigan
+15,Cheboygan County,-45%,-7%,,,-38%,,Michigan
+16,Chippewa County,-63%,+21%,-50%,,-40%,+2%,Michigan
+17,Clare County,-63%,+4%,,,-30%,+9%,Michigan
+18,Clinton County,-58%,-18%,,-50%,-41%,+30%,Michigan
+19,Crawford County,-47%,-34%,,,-35%,,Michigan
+20,Delta County,-51%,-14%,,,-34%,+9%,Michigan
+21,Dickinson County,-38%,-13%,,,-29%,+0%,Michigan
+22,Eaton County,-58%,-22%,,,-37%,+15%,Michigan
+23,Emmet County,-67%,-28%,,,-49%,+1%,Michigan
+24,Genesee County,-55%,-10%,+94%,-45%,-46%,+15%,Michigan
+25,Gladwin County,-54%,-2%,,,-38%,+0%,Michigan
+26,Gogebic County,-41%,-33%,,,-41%,,Michigan
+27,Grand Traverse County,-65%,-26%,+80%,-74%,-44%,+13%,Michigan
+28,Gratiot County,-47%,-7%,,,-31%,+18%,Michigan
+29,Hillsdale County,-51%,-15%,,,-41%,+22%,Michigan
+30,Houghton County,-64%,-18%,-29%,,-39%,+3%,Michigan
+31,Huron County,-38%,-5%,,,-32%,+0%,Michigan
+32,Ingham County,-63%,-22%,+104%,-53%,-40%,+15%,Michigan
+33,Ionia County,-48%,+1%,,-47%,-34%,+28%,Michigan
+34,Iosco County,-50%,+28%,,,-37%,,Michigan
+35,Iron County,-34%,-9%,,,-44%,,Michigan
+36,Isabella County,-65%,-25%,,,-44%,+28%,Michigan
+37,Jackson County,-54%,-9%,-7%,-43%,-39%,+14%,Michigan
+38,Kalamazoo County,-60%,-20%,+100%,-60%,-40%,+15%,Michigan
+39,Kalkaska County,-50%,-5%,,,-42%,,Michigan
+40,Kent County,-64%,-20%,+61%,-54%,-44%,+16%,Michigan
+41,Lake County,-43%,+10%,,,-51%,,Michigan
+42,Lapeer County,-52%,-18%,-32%,,-48%,+31%,Michigan
+43,Leelanau County,-64%,-33%,,,-47%,,Michigan
+44,Lenawee County,-54%,-11%,,,-43%,+15%,Michigan
+45,Livingston County,-64%,-13%,+19%,,-48%,+17%,Michigan
+46,Luce County,-67%,,,,,,Michigan
+47,Mackinac County,-75%,-37%,,,-60%,,Michigan
+48,Macomb County,-58%,-14%,+125%,-32%,-53%,+18%,Michigan
+49,Manistee County,-53%,-12%,,,-31%,,Michigan
+50,Marquette County,-64%,-16%,+1%,,-33%,+26%,Michigan
+51,Mason County,-53%,-11%,,,-38%,+7%,Michigan
+52,Mecosta County,-48%,+1%,,,-29%,+20%,Michigan
+53,Menominee County,-34%,-18%,,,-29%,,Michigan
+54,Midland County,-56%,-9%,-14%,,-38%,+30%,Michigan
+55,Missaukee County,-37%,,,,-30%,,Michigan
+56,Monroe County,-57%,-9%,+58%,-31%,-38%,+15%,Michigan
+57,Montcalm County,-39%,+8%,,,-32%,+27%,Michigan
+58,Montmorency County,-54%,-12%,,,-50%,,Michigan
+59,Muskegon County,-53%,-8%,+136%,,-42%,+13%,Michigan
+60,Newaygo County,-37%,+18%,+88%,,-32%,+25%,Michigan
+61,Oakland County,-66%,-22%,+63%,-42%,-52%,+18%,Michigan
+62,Oceana County,-46%,+17%,+9%,,-34%,-1%,Michigan
+63,Ogemaw County,-47%,+0%,,,-31%,,Michigan
+64,Ontonagon County,-46%,,,,,,Michigan
+65,Osceola County,-46%,+10%,,,-34%,,Michigan
+66,Oscoda County,-28%,-14%,,,-55%,,Michigan
+67,Otsego County,-67%,-37%,,,-44%,-1%,Michigan
+68,Ottawa County,-55%,-20%,+176%,-11%,-45%,+16%,Michigan
+69,Presque Isle County,-64%,-4%,,,-47%,,Michigan
+70,Roscommon County,-55%,+30%,-33%,,-37%,,Michigan
+71,Saginaw County,-63%,-16%,-14%,-58%,-44%,+15%,Michigan
+72,Sanilac County,-46%,-13%,,,-36%,+12%,Michigan
+73,Schoolcraft County,-80%,-32%,-22%,,-51%,,Michigan
+74,Shiawassee County,-47%,-5%,,,-43%,+28%,Michigan
+75,St. Clair County,-54%,-15%,+27%,-44%,-46%,+15%,Michigan
+76,St. Joseph County,-40%,-19%,,,-38%,+27%,Michigan
+77,Tuscola County,-41%,-18%,,,-38%,+27%,Michigan
+78,Van Buren County,-41%,+4%,,,-35%,+26%,Michigan
+79,Washtenaw County,-63%,-38%,+115%,-46%,-53%,+17%,Michigan
+80,Wayne County,-57%,-11%,+36%,-55%,-48%,+17%,Michigan
+0,Aitkin County,-47%,-35%,-58%,,-33%,,Minnesota
+1,Anoka County,-36%,+2%,+118%,-9%,-36%,+14%,Minnesota
+2,Becker County,-57%,+62%,,,-36%,+16%,Minnesota
+3,Beltrami County,-39%,+3%,-38%,,-30%,+22%,Minnesota
+4,Benton County,-35%,+5%,,,-33%,+21%,Minnesota
+5,Big Stone County,,,,,-35%,,Minnesota
+6,Blue Earth County,-57%,-10%,-26%,,-32%,+23%,Minnesota
+7,Brown County,-29%,-21%,,,-16%,+9%,Minnesota
+8,Carlton County,-27%,-14%,,,-27%,+11%,Minnesota
+9,Carver County,-37%,+1%,+46%,,-33%,+28%,Minnesota
+10,Cass County,-60%,-4%,-11%,,-33%,+0%,Minnesota
+11,Chippewa County,-19%,,,,-22%,,Minnesota
+12,Chisago County,-43%,+3%,-33%,,-32%,+24%,Minnesota
+13,Clay County,-37%,+0%,,,-35%,+25%,Minnesota
+14,Clearwater County,-72%,-28%,,,-47%,,Minnesota
+15,Cook County,-64%,-58%,,,-54%,,Minnesota
+16,Cottonwood County,-46%,,,,-52%,,Minnesota
+17,Crow Wing County,-42%,+0%,+14%,,-39%,+20%,Minnesota
+18,Dakota County,-42%,-4%,+90%,-11%,-38%,+14%,Minnesota
+19,Dodge County,-46%,-17%,,,-27%,+4%,Minnesota
+20,Douglas County,-39%,-20%,-47%,-28%,-27%,+22%,Minnesota
+21,Faribault County,-31%,-10%,,,-14%,,Minnesota
+22,Fillmore County,-52%,-7%,,,-21%,,Minnesota
+23,Freeborn County,-27%,-4%,,-20%,-30%,+18%,Minnesota
+24,Goodhue County,-25%,+13%,-20%,,-34%,+21%,Minnesota
+25,Grant County,,,,,-38%,,Minnesota
+26,Hennepin County,-53%,-6%,+65%,-65%,-43%,+16%,Minnesota
+27,Houston County,-78%,-11%,,,-30%,,Minnesota
+28,Hubbard County,-35%,-4%,,,-42%,,Minnesota
+29,Isanti County,-26%,+14%,-36%,,-24%,+20%,Minnesota
+30,Itasca County,-39%,-4%,,,-31%,+19%,Minnesota
+31,Jackson County,-77%,,,,-46%,,Minnesota
+32,Kanabec County,-34%,-12%,,,-40%,,Minnesota
+33,Kandiyohi County,-35%,-7%,,,-20%,+20%,Minnesota
+34,Koochiching County,-46%,-18%,,,-29%,,Minnesota
+35,Lac qui Parle County,,,,,-36%,,Minnesota
+36,Lake County,-43%,-16%,+25%,,-42%,,Minnesota
+37,Lake of the Woods County,-71%,,,,,,Minnesota
+38,Le Sueur County,-1%,-4%,,,-26%,+18%,Minnesota
+39,Lincoln County,,,,,-40%,,Minnesota
+40,Lyon County,-39%,-12%,,,-26%,+4%,Minnesota
+41,Mahnomen County,,,,,-60%,,Minnesota
+42,Marshall County,,,,,-49%,,Minnesota
+43,Martin County,-45%,-16%,,,-13%,,Minnesota
+44,McLeod County,-32%,-14%,,,-22%,+21%,Minnesota
+45,Meeker County,-31%,-17%,,,-21%,+3%,Minnesota
+46,Mille Lacs County,-30%,+4%,,,-32%,+11%,Minnesota
+47,Morrison County,-37%,-17%,-61%,,-28%,+14%,Minnesota
+48,Mower County,-35%,+5%,,,-17%,+20%,Minnesota
+49,Murray County,-70%,,,,-39%,,Minnesota
+50,Nicollet County,-47%,-10%,,,-34%,+20%,Minnesota
+51,Nobles County,-33%,-3%,,-49%,-45%,,Minnesota
+52,Norman County,,,,,-38%,,Minnesota
+53,Olmsted County,-50%,-1%,+107%,-29%,-37%,+14%,Minnesota
+54,Otter Tail County,-41%,+0%,-9%,,-26%,+20%,Minnesota
+55,Pennington County,-35%,-23%,,,-49%,,Minnesota
+56,Pine County,-41%,+9%,-47%,,-46%,+10%,Minnesota
+57,Pipestone County,-29%,-20%,,,-33%,,Minnesota
+58,Polk County,-52%,-19%,,,-32%,+15%,Minnesota
+59,Pope County,-55%,,,,-39%,,Minnesota
+60,Ramsey County,-54%,-3%,+26%,-25%,-39%,+15%,Minnesota
+61,Red Lake County,,,,,-37%,,Minnesota
+62,Redwood County,-41%,-16%,,,-30%,,Minnesota
+63,Renville County,-77%,,,,-22%,,Minnesota
+64,Rice County,-31%,+14%,+2%,-19%,-38%,+21%,Minnesota
+65,Rock County,-41%,,,,-40%,,Minnesota
+66,Roseau County,-73%,-23%,,,-52%,,Minnesota
+67,Scott County,-40%,-6%,+83%,,-40%,+15%,Minnesota
+68,Sherburne County,-26%,+8%,-42%,,-32%,+24%,Minnesota
+69,Sibley County,-71%,,,,-11%,,Minnesota
+70,St. Louis County,-51%,-8%,+32%,-36%,-36%,+14%,Minnesota
+71,Stearns County,-48%,-2%,-19%,-53%,-34%,+13%,Minnesota
+72,Steele County,-40%,+22%,-37%,-47%,-33%,+22%,Minnesota
+73,Stevens County,-48%,-4%,,,-33%,,Minnesota
+74,Swift County,-38%,-15%,,,-41%,,Minnesota
+75,Todd County,-23%,-7%,,,-35%,+3%,Minnesota
+76,Wabasha County,-59%,+13%,,,-31%,,Minnesota
+77,Wadena County,-40%,-8%,,,-38%,,Minnesota
+78,Waseca County,-25%,-9%,,,-23%,,Minnesota
+79,Washington County,-41%,-7%,+136%,-7%,-38%,+15%,Minnesota
+80,Watonwan County,-51%,,,,-12%,,Minnesota
+81,Wilkin County,,,,,-38%,,Minnesota
+82,Winona County,-36%,-4%,,-54%,-31%,+24%,Minnesota
+83,Wright County,-39%,+7%,+79%,,-31%,+14%,Minnesota
+0,Adams County,-36%,-14%,,,-29%,,Mississippi
+1,Alcorn County,-40%,-13%,,,-31%,+1%,Mississippi
+2,Amite County,-50%,-31%,,,-35%,,Mississippi
+3,Attala County,-27%,-11%,,,-37%,,Mississippi
+4,Benton County,,,,,-45%,,Mississippi
+5,Bolivar County,-29%,-16%,,,-24%,,Mississippi
+6,Calhoun County,-63%,-30%,,,-53%,,Mississippi
+7,Carroll County,,,,,-48%,,Mississippi
+8,Chickasaw County,-41%,-25%,,,-37%,,Mississippi
+9,Claiborne County,-66%,,,,-28%,,Mississippi
+10,Clarke County,-18%,-10%,,,-46%,,Mississippi
+11,Clay County,-43%,-3%,,-44%,-23%,,Mississippi
+12,Coahoma County,-37%,-8%,,,-36%,,Mississippi
+13,Copiah County,-35%,-8%,,,-24%,,Mississippi
+14,Covington County,-43%,-28%,,,-20%,,Mississippi
+15,DeSoto County,-38%,+7%,+3%,-35%,-35%,+12%,Mississippi
+16,Forrest County,-45%,+5%,,-33%,-30%,+19%,Mississippi
+17,George County,-55%,+25%,,,-29%,,Mississippi
+18,Greene County,,-6%,,,-47%,,Mississippi
+19,Grenada County,-20%,-14%,,,-30%,,Mississippi
+20,Hancock County,-33%,+5%,,,-40%,+16%,Mississippi
+21,Harrison County,-44%,-5%,-3%,-46%,-45%,+14%,Mississippi
+22,Hinds County,-32%,+8%,-24%,-19%,-27%,+10%,Mississippi
+23,Holmes County,-55%,-6%,,,-51%,,Mississippi
+24,Humphreys County,,+9%,,,-40%,,Mississippi
+25,Itawamba County,-44%,-8%,,,-33%,,Mississippi
+26,Jackson County,-33%,-5%,-27%,-50%,-43%,+14%,Mississippi
+27,Jasper County,-55%,-8%,,,-40%,,Mississippi
+28,Jefferson County,,,,,-35%,,Mississippi
+29,Jefferson Davis County,,+16%,,,-51%,,Mississippi
+30,Jones County,-26%,+8%,,-47%,-31%,+17%,Mississippi
+31,Kemper County,,,,,-45%,,Mississippi
+32,Lafayette County,-50%,-28%,,,-41%,+10%,Mississippi
+33,Lamar County,-55%,-9%,,-49%,-30%,+17%,Mississippi
+34,Lauderdale County,-42%,-6%,-10%,-40%,-32%,+18%,Mississippi
+35,Lawrence County,,-18%,,,-40%,,Mississippi
+36,Leake County,-41%,-35%,,,-33%,,Mississippi
+37,Lee County,-53%,-8%,,-37%,-37%,+23%,Mississippi
+38,Leflore County,-25%,-7%,,,-24%,,Mississippi
+39,Lincoln County,-32%,-18%,,,-26%,,Mississippi
+40,Lowndes County,-43%,+29%,,-43%,-27%,+17%,Mississippi
+41,Madison County,-40%,-8%,-53%,-44%,-33%,+27%,Mississippi
+42,Marion County,-35%,-12%,,,-15%,,Mississippi
+43,Marshall County,-33%,-4%,,,-33%,+5%,Mississippi
+44,Monroe County,-56%,+25%,,,-31%,+0%,Mississippi
+45,Montgomery County,-58%,-29%,,-38%,-43%,,Mississippi
+46,Neshoba County,-33%,-20%,,,-30%,,Mississippi
+47,Newton County,-29%,-13%,,,-36%,,Mississippi
+48,Noxubee County,-71%,+2%,,,-31%,,Mississippi
+49,Oktibbeha County,-48%,-22%,,,-34%,+2%,Mississippi
+50,Panola County,-27%,+4%,,-34%,-34%,-3%,Mississippi
+51,Pearl River County,-23%,+3%,,-48%,-28%,+18%,Mississippi
+52,Perry County,,-21%,-25%,,-44%,,Mississippi
+53,Pike County,-29%,-2%,,-35%,-26%,-2%,Mississippi
+54,Pontotoc County,-47%,-10%,,,-47%,-1%,Mississippi
+55,Prentiss County,-37%,-3%,,,-13%,,Mississippi
+56,Quitman County,,,,,-48%,,Mississippi
+57,Rankin County,-49%,-3%,-63%,-41%,-28%,+11%,Mississippi
+58,Scott County,-42%,-4%,,-39%,-25%,,Mississippi
+59,Simpson County,-42%,-9%,,-30%,-17%,,Mississippi
+60,Smith County,,-35%,,,-48%,,Mississippi
+61,Stone County,-29%,-26%,,,-31%,,Mississippi
+62,Sunflower County,-21%,-1%,,-11%,-20%,,Mississippi
+63,Tallahatchie County,,+13%,,,-41%,,Mississippi
+64,Tate County,-31%,-2%,,+8%,-27%,,Mississippi
+65,Tippah County,-35%,-14%,,,-33%,,Mississippi
+66,Tishomingo County,-26%,+0%,,,-24%,,Mississippi
+67,Tunica County,-50%,-12%,,,-50%,,Mississippi
+68,Union County,-42%,-16%,,-32%,-39%,,Mississippi
+69,Walthall County,-58%,-11%,,,-35%,,Mississippi
+70,Warren County,-32%,-2%,-42%,,-27%,+16%,Mississippi
+71,Washington County,-28%,+9%,,,-23%,+12%,Mississippi
+72,Wayne County,-42%,-14%,,,-20%,,Mississippi
+73,Webster County,-44%,-18%,,,-49%,,Mississippi
+74,Wilkinson County,,-22%,,,-51%,,Mississippi
+75,Winston County,-27%,-2%,,,-20%,,Mississippi
+76,Yalobusha County,,-8%,,,-51%,,Mississippi
+0,Adair County,-50%,+57%,,,-29%,-1%,Missouri
+1,Andrew County,-68%,+12%,,,-24%,,Missouri
+2,Audrain County,-28%,+2%,,,-23%,+6%,Missouri
+3,Barry County,-32%,+10%,,,-23%,+11%,Missouri
+4,Barton County,-23%,,,,-34%,,Missouri
+5,Bates County,-27%,+30%,,,-19%,,Missouri
+6,Benton County,-48%,+136%,,,-32%,,Missouri
+7,Bollinger County,-50%,-9%,,,-45%,,Missouri
+8,Boone County,-54%,+11%,-13%,-61%,-34%,+12%,Missouri
+9,Buchanan County,-39%,+21%,,-17%,-30%,+10%,Missouri
+10,Butler County,-33%,-3%,,,-22%,+13%,Missouri
+11,Caldwell County,,,,,-28%,,Missouri
+12,Callaway County,-40%,+6%,,,-18%,+18%,Missouri
+13,Camden County,-43%,+2%,,,-32%,+14%,Missouri
+14,Cape Girardeau County,-50%,-17%,+0%,,-35%,+18%,Missouri
+15,Carroll County,-30%,,,,-34%,,Missouri
+16,Cass County,-34%,+1%,+6%,-23%,-30%,+11%,Missouri
+17,Cedar County,-23%,-12%,,,-27%,,Missouri
+18,Chariton County,,,,,-39%,,Missouri
+19,Christian County,-36%,+2%,-34%,,-30%,+12%,Missouri
+20,Clark County,,-8%,,-35%,-28%,,Missouri
+21,Clay County,-43%,+7%,+146%,-27%,-37%,+13%,Missouri
+22,Clinton County,-54%,-10%,,,-20%,,Missouri
+23,Cole County,-43%,+1%,,,-27%,+22%,Missouri
+24,Cooper County,-30%,-2%,,-17%,-21%,,Missouri
+25,Crawford County,-32%,+1%,,-18%,-28%,,Missouri
+26,Dade County,,,,,-38%,,Missouri
+27,Dallas County,-10%,+17%,,,-25%,,Missouri
+28,Daviess County,,,,,-26%,,Missouri
+29,DeKalb County,-11%,+3%,,,-34%,,Missouri
+30,Dent County,-17%,,,,-11%,,Missouri
+31,Douglas County,-24%,-21%,,,-33%,,Missouri
+32,Dunklin County,-26%,+21%,,,-9%,,Missouri
+33,Franklin County,-39%,+16%,+22%,-23%,-28%,+12%,Missouri
+34,Gasconade County,-34%,,,,-30%,,Missouri
+35,Gentry County,,,,,-50%,,Missouri
+36,Greene County,-55%,-22%,-25%,-35%,-36%,+12%,Missouri
+37,Grundy County,-2%,+2%,,,-27%,,Missouri
+38,Harrison County,-81%,-20%,,-14%,-32%,,Missouri
+39,Henry County,-34%,+11%,,,-20%,-1%,Missouri
+40,Hickory County,,,,,-25%,,Missouri
+41,Howard County,,,,,-33%,,Missouri
+42,Howell County,-43%,-5%,,-12%,-23%,+13%,Missouri
+43,Iron County,-60%,+10%,+44%,,-32%,,Missouri
+44,Jackson County,-46%,-3%,-6%,-10%,-37%,+12%,Missouri
+45,Jasper County,-40%,-1%,+1%,-17%,-30%,+11%,Missouri
+46,Jefferson County,-38%,+5%,+6%,-3%,-32%,+13%,Missouri
+47,Johnson County,-41%,+10%,,,-29%,+19%,Missouri
+48,Laclede County,-37%,-3%,,,-26%,+15%,Missouri
+49,Lafayette County,-31%,-3%,,-18%,-27%,+15%,Missouri
+50,Lawrence County,-18%,+18%,,-31%,-29%,+12%,Missouri
+51,Lewis County,-27%,,,,-41%,,Missouri
+52,Lincoln County,-36%,+14%,,,-30%,+19%,Missouri
+53,Linn County,-32%,-4%,,,-29%,,Missouri
+54,Livingston County,-11%,+11%,,,-23%,,Missouri
+55,Macon County,-20%,+6%,,-20%,-25%,,Missouri
+56,Madison County,-19%,,,,-30%,,Missouri
+57,Maries County,,,,,-38%,,Missouri
+58,Marion County,-38%,-2%,,-38%,-29%,+13%,Missouri
+59,McDonald County,-28%,+1%,,,-16%,-4%,Missouri
+60,Miller County,-34%,+13%,-32%,,-29%,-3%,Missouri
+61,Mississippi County,-48%,,,-41%,-26%,,Missouri
+62,Moniteau County,-22%,+23%,,,-38%,,Missouri
+63,Monroe County,-61%,,,,-37%,,Missouri
+64,Montgomery County,-54%,+2%,,,-30%,,Missouri
+65,Morgan County,-26%,+21%,,,-26%,,Missouri
+66,New Madrid County,-28%,+7%,,-37%,-12%,,Missouri
+67,Newton County,-43%,-7%,+52%,-24%,-28%,+16%,Missouri
+68,Nodaway County,-40%,-17%,,,-25%,,Missouri
+69,Oregon County,-9%,+2%,,,-33%,,Missouri
+70,Osage County,-74%,-7%,,,-44%,,Missouri
+71,Ozark County,,,,,-32%,,Missouri
+72,Pemiscot County,-34%,+22%,,-40%,-17%,,Missouri
+73,Perry County,-42%,-16%,,,-19%,,Missouri
+74,Pettis County,-38%,-1%,,,-29%,+17%,Missouri
+75,Phelps County,-49%,-8%,,-26%,-26%,+18%,Missouri
+76,Pike County,-38%,-11%,,,-13%,,Missouri
+77,Platte County,-55%,+26%,+8%,-83%,-36%,+14%,Missouri
+78,Polk County,-37%,-2%,-46%,,-24%,+12%,Missouri
+79,Pulaski County,-40%,-6%,,-60%,-17%,+16%,Missouri
+80,Putnam County,,,,,-33%,,Missouri
+81,Ralls County,-54%,,,-17%,-33%,,Missouri
+82,Randolph County,-35%,-8%,,,-15%,+1%,Missouri
+83,Ray County,-32%,+5%,,,-34%,+7%,Missouri
+84,Ripley County,-5%,-2%,,,-43%,,Missouri
+85,Saline County,-30%,+1%,,,-19%,+0%,Missouri
+86,Schuyler County,,,,,-33%,,Missouri
+87,Scott County,-40%,+6%,,-27%,-20%,+15%,Missouri
+88,Shannon County,,,,,-40%,,Missouri
+89,Shelby County,,,,,-28%,,Missouri
+90,St. Charles County,-50%,+6%,+24%,-23%,-39%,+14%,Missouri
+91,St. Clair County,-14%,+8%,,-25%,-33%,,Missouri
+92,St. Francois County,-36%,+4%,-29%,,-22%,+15%,Missouri
+93,Sat Apr 11,-62%,-4%,-33%,-40%,-40%,+14%,Missouri
+94,St. Louis County,-49%,-5%,-5%,-55%,-39%,+15%,Missouri
+95,Ste. Genevieve County,-41%,,,-20%,-20%,,Missouri
+96,Stoddard County,-32%,-2%,,,-15%,-2%,Missouri
+97,Stone County,-20%,+14%,,,-32%,+9%,Missouri
+98,Sullivan County,,,,,-7%,,Missouri
+99,Taney County,-57%,-4%,-27%,,-48%,+16%,Missouri
+100,Texas County,-76%,+97%,,,-18%,,Missouri
+101,Vernon County,-35%,+6%,,-29%,-14%,,Missouri
+102,Warren County,-27%,+6%,,-15%,-31%,+18%,Missouri
+103,Washington County,-9%,+20%,,,-18%,,Missouri
+104,Wayne County,+0%,+9%,,,-39%,,Missouri
+105,Webster County,-31%,+4%,,-36%,-27%,+13%,Missouri
+0,Beaverhead County,-39%,-20%,,,-34%,,Montana
+1,Big Horn County,-31%,-7%,,-20%,-38%,,Montana
+2,Blaine County,,,,,-51%,,Montana
+3,Broadwater County,-67%,-5%,,,-43%,,Montana
+4,Carbon County,-61%,-21%,,,-47%,,Montana
+5,Cascade County,-58%,-26%,-60%,-73%,-41%,+15%,Montana
+6,Custer County,-35%,,,,-36%,,Montana
+7,Dawson County,-60%,-2%,,,-34%,,Montana
+8,Deer Lodge County,-51%,-12%,,,-40%,,Montana
+9,Fergus County,-38%,-22%,,,-38%,,Montana
+10,Flathead County,-49%,-12%,-56%,-41%,-39%,+13%,Montana
+11,Gallatin County,-64%,-27%,-61%,-70%,-50%,+19%,Montana
+12,Glacier County,-59%,-17%,,,-63%,,Montana
+13,Hill County,-32%,+4%,,,-32%,,Montana
+14,Jefferson County,-64%,,,,-45%,,Montana
+15,Lake County,-26%,-9%,,,-29%,+1%,Montana
+16,Lewis and Clark County,-55%,-22%,-56%,,-41%,+19%,Montana
+17,Lincoln County,-81%,-18%,,,-32%,,Montana
+18,Madison County,-100%,,-62%,,-59%,,Montana
+19,Mineral County,,-61%,,,-38%,,Montana
+20,Missoula County,-54%,-19%,-44%,-41%,-41%,+15%,Montana
+21,Park County,-49%,-16%,,,-45%,,Montana
+22,Pondera County,-56%,,,,,,Montana
+23,Powell County,,,,,-35%,,Montana
+24,Ravalli County,-35%,+6%,,,-35%,+12%,Montana
+25,Richland County,-43%,-15%,,,-36%,,Montana
+26,Roosevelt County,-20%,-20%,,,-50%,,Montana
+27,Rosebud County,,,,,-40%,,Montana
+28,Sanders County,-60%,-24%,,,-39%,,Montana
+29,Silver Bow County,-44%,+3%,,-35%,-40%,+11%,Montana
+30,Stillwater County,-47%,,,-28%,-38%,,Montana
+31,Teton County,,,,,-34%,,Montana
+32,Valley County,-68%,,,,-37%,,Montana
+0,Adams County,-38%,-9%,,,-19%,+18%,Nebraska
+1,Antelope County,,,,,-26%,,Nebraska
+2,Box Butte County,-28%,-2%,,,-13%,,Nebraska
+3,Buffalo County,-53%,-8%,,-17%,-33%,+21%,Nebraska
+4,Burt County,-58%,,,,-33%,,Nebraska
+5,Butler County,-55%,,,,-36%,,Nebraska
+6,Cass County,-45%,,-63%,,-29%,+12%,Nebraska
+7,Cedar County,,,,,-42%,,Nebraska
+8,Cherry County,-68%,,,,-39%,,Nebraska
+9,Cheyenne County,-29%,-20%,,+6%,-43%,,Nebraska
+10,Clay County,,,,,-42%,,Nebraska
+11,Colfax County,-65%,-8%,,,-8%,,Nebraska
+12,Cuming County,-37%,,,,-36%,,Nebraska
+13,Custer County,-49%,-11%,,,-30%,,Nebraska
+14,Dakota County,-18%,+49%,,,+13%,+1%,Nebraska
+15,Dawes County,-38%,,,,-35%,,Nebraska
+16,Dawson County,-21%,+0%,,,-20%,-2%,Nebraska
+17,Deuel County,,,,+3%,,,Nebraska
+18,Dixon County,,,,,-30%,,Nebraska
+19,Dodge County,-24%,+3%,,-14%,-29%,+16%,Nebraska
+20,Douglas County,-45%,+6%,-4%,-34%,-34%,+12%,Nebraska
+21,Fillmore County,,,,,-27%,,Nebraska
+22,Gage County,-34%,+9%,,,-21%,+1%,Nebraska
+23,Hall County,-49%,-20%,,-9%,-35%,+20%,Nebraska
+24,Hamilton County,-58%,,,-1%,-34%,,Nebraska
+25,Holt County,-25%,-4%,,,-26%,,Nebraska
+26,Howard County,,,,,-38%,,Nebraska
+27,Jefferson County,-25%,,,,-34%,,Nebraska
+28,Johnson County,,,,,-34%,,Nebraska
+29,Kearney County,,,,,-42%,,Nebraska
+30,Keith County,-36%,-22%,,+0%,-29%,,Nebraska
+31,Kimball County,,,,,-49%,,Nebraska
+32,Knox County,,,,,-45%,,Nebraska
+33,Lancaster County,-40%,-5%,+117%,-19%,-30%,+11%,Nebraska
+34,Lincoln County,-38%,+3%,,-14%,-22%,+14%,Nebraska
+35,Madison County,-38%,+3%,,,-23%,+16%,Nebraska
+36,Merrick County,-30%,,,,-37%,,Nebraska
+37,Morrill County,,,,,-36%,,Nebraska
+38,Nemaha County,-58%,,,,-32%,,Nebraska
+39,Otoe County,-21%,+51%,,,-23%,,Nebraska
+40,Phelps County,-29%,+16%,,,-45%,,Nebraska
+41,Pierce County,,,,,-40%,,Nebraska
+42,Platte County,-35%,+0%,,-8%,-16%,+19%,Nebraska
+43,Polk County,,,,,-37%,,Nebraska
+44,Red Willow County,-24%,,,,-24%,,Nebraska
+45,Richardson County,-36%,-2%,,,-23%,,Nebraska
+46,Saline County,-23%,+14%,,,-34%,,Nebraska
+47,Sarpy County,-38%,+0%,+115%,-6%,-31%,+12%,Nebraska
+48,Saunders County,-35%,+20%,,,-24%,,Nebraska
+49,Scotts Bluff County,-36%,-1%,,,-26%,+14%,Nebraska
+50,Seward County,-33%,,,,-19%,,Nebraska
+51,Stanton County,,,,,-33%,,Nebraska
+52,Thayer County,,,,,-17%,,Nebraska
+53,Thurston County,,,,,-40%,,Nebraska
+54,Washington County,-25%,-9%,,,-21%,,Nebraska
+55,Wayne County,-39%,,,,-45%,,Nebraska
+0,Carson City,-35%,-2%,+34%,,-40%,+20%,Nevada
+1,Churchill County,-19%,-15%,,,-31%,+5%,Nevada
+2,Clark County,-47%,-15%,-50%,-59%,-56%,+18%,Nevada
+3,Douglas County,-54%,-42%,-32%,,-46%,+19%,Nevada
+4,Elko County,-43%,+20%,+7%,+0%,-34%,+16%,Nevada
+5,Humboldt County,-49%,+2%,,-13%,-26%,,Nevada
+6,Lander County,-57%,-14%,,,-48%,,Nevada
+7,Lyon County,-21%,+16%,,-20%,-40%,+18%,Nevada
+8,Mineral County,,,,-21%,,,Nevada
+9,Nye County,-29%,-14%,-61%,-20%,-38%,+15%,Nevada
+10,Pershing County,,,,-10%,-30%,,Nevada
+11,Storey County,-67%,,,,-51%,,Nevada
+12,Washoe County,-43%,-11%,+19%,-53%,-45%,+14%,Nevada
+0,Belknap County,-33%,+0%,-53%,,-35%,+23%,New Hampshire
+1,Carroll County,-54%,-18%,-15%,,-42%,+22%,New Hampshire
+2,Cheshire County,-33%,-6%,-22%,,-33%,+23%,New Hampshire
+3,Coos County,-43%,+9%,-56%,,-37%,+10%,New Hampshire
+4,Grafton County,-49%,-18%,-63%,-33%,-43%,+25%,New Hampshire
+5,Hillsborough County,-48%,-9%,+97%,-40%,-38%,+14%,New Hampshire
+6,Merrimack County,-39%,-6%,-4%,-57%,-34%,+13%,New Hampshire
+7,Rockingham County,-41%,-4%,+63%,-57%,-37%,+14%,New Hampshire
+8,Strafford County,-35%,-6%,-20%,-59%,-36%,+13%,New Hampshire
+0,Atlantic County,-60%,+6%,+56%,-62%,-56%,+17%,New Jersey
+1,Bergen County,-72%,-5%,-21%,-56%,-55%,+21%,New Jersey
+2,Burlington County,-57%,+17%,+3%,-41%,-38%,+16%,New Jersey
+3,Camden County,-56%,+6%,-33%,-55%,-40%,+16%,New Jersey
+4,Cape May County,-52%,+7%,+25%,-46%,-36%,+12%,New Jersey
+5,Cumberland County,-36%,-2%,-12%,-26%,-27%,+12%,New Jersey
+6,Essex County,-65%,-13%,-30%,-77%,-48%,+20%,New Jersey
+7,Gloucester County,-52%,-5%,-8%,-8%,-37%,+15%,New Jersey
+8,Hudson County,-64%,-16%,-51%,-70%,-58%,+21%,New Jersey
+9,Hunterdon County,-62%,+14%,,-38%,-45%,+32%,New Jersey
+10,Mercer County,-63%,+30%,-2%,-72%,-42%,+17%,New Jersey
+11,Middlesex County,-70%,-1%,-6%,-69%,-50%,+20%,New Jersey
+12,Monmouth County,-63%,+13%,+24%,-49%,-43%,+17%,New Jersey
+13,Morris County,-66%,+9%,+15%,-51%,-49%,+19%,New Jersey
+14,Ocean County,-55%,+9%,+0%,-50%,-40%,+15%,New Jersey
+15,Passaic County,-67%,-14%,+0%,-46%,-54%,+20%,New Jersey
+16,Salem County,-37%,-16%,-18%,-61%,-28%,+22%,New Jersey
+17,Somerset County,-68%,+10%,-12%,-46%,-47%,+20%,New Jersey
+18,Sussex County,-49%,-1%,+42%,-45%,-40%,+16%,New Jersey
+19,Union County,-63%,-12%,-40%,-53%,-52%,+20%,New Jersey
+0,Bernalillo County,-48%,-12%,-2%,-39%,-40%,+14%,New Mexico
+1,Chaves County,-43%,-11%,-38%,-57%,-26%,+11%,New Mexico
+2,Cibola County,-44%,+8%,,-28%,-35%,,New Mexico
+3,Colfax County,-64%,-29%,,-48%,-43%,,New Mexico
+4,Curry County,-33%,-4%,-33%,-19%,-23%,+18%,New Mexico
+5,Doña Ana County,-42%,-14%,-55%,-32%,-36%,+14%,New Mexico
+6,Eddy County,-37%,-9%,-36%,-35%,-23%,+13%,New Mexico
+7,Grant County,-37%,+4%,,,-32%,+2%,New Mexico
+8,Guadalupe County,-44%,-9%,,-21%,,,New Mexico
+9,Hidalgo County,-54%,,,-41%,,,New Mexico
+10,Lea County,-40%,-5%,-22%,-50%,-19%,+13%,New Mexico
+11,Lincoln County,-72%,-33%,-76%,,-49%,,New Mexico
+12,Los Alamos County,-66%,-34%,,,-53%,,New Mexico
+13,Luna County,-43%,-20%,-55%,-38%,-23%,,New Mexico
+14,McKinley County,-70%,-48%,,-25%,-32%,+21%,New Mexico
+15,Otero County,-41%,-12%,-55%,,-36%,+19%,New Mexico
+16,Quay County,-15%,+1%,,-14%,-39%,,New Mexico
+17,Rio Arriba County,-17%,-15%,,,-35%,+12%,New Mexico
+18,Roosevelt County,-26%,-17%,,,-18%,,New Mexico
+19,San Juan County,-55%,-16%,-9%,-52%,-34%,+16%,New Mexico
+20,San Miguel County,-22%,-6%,,-46%,-22%,-1%,New Mexico
+21,Sandoval County,-35%,-4%,+18%,-46%,-43%,+14%,New Mexico
+22,Santa Fe County,-51%,-15%,-30%,-36%,-46%,+15%,New Mexico
+23,Sierra County,-39%,+4%,,,-28%,,New Mexico
+24,Socorro County,-42%,-7%,,,-34%,,New Mexico
+25,Taos County,-62%,-14%,-7%,,-47%,+1%,New Mexico
+26,Torrance County,-24%,+9%,,-22%,-22%,,New Mexico
+27,Union County,,,,-46%,,,New Mexico
+0,Albany County,-62%,+37%,+66%,-54%,-37%,+14%,New York
+1,Allegany County,-35%,-15%,,,-31%,+18%,New York
+2,Bronx County,-61%,-12%,-20%,-48%,-52%,+19%,New York
+3,Broome County,-50%,+5%,+40%,-38%,-36%,+13%,New York
+4,Cattaraugus County,-45%,+19%,+7%,,-38%,+25%,New York
+5,Cayuga County,-38%,+10%,,-46%,-29%,+25%,New York
+6,Chautauqua County,-38%,+12%,-22%,,-38%,+11%,New York
+7,Chemung County,-53%,+37%,,-57%,-23%,+13%,New York
+8,Chenango County,-45%,+9%,,,-33%,+24%,New York
+9,Clinton County,-56%,+39%,,-71%,-30%,+23%,New York
+10,Columbia County,-48%,+20%,,-29%,-33%,+22%,New York
+11,Cortland County,-43%,+6%,,-39%,-33%,+21%,New York
+12,Delaware County,-40%,+0%,,,-39%,+10%,New York
+13,Dutchess County,-58%,+51%,+102%,-53%,-39%,+16%,New York
+14,Erie County,-58%,+12%,+20%,-44%,-44%,+15%,New York
+15,Essex County,-66%,-29%,-37%,,-47%,+3%,New York
+16,Franklin County,-47%,-11%,,,-33%,+19%,New York
+17,Fulton County,-40%,-12%,,,-25%,+20%,New York
+18,Genesee County,-40%,+1%,,-58%,-37%,+26%,New York
+19,Greene County,-32%,+5%,-33%,,-30%,+18%,New York
+20,Herkimer County,-37%,+9%,,-62%,-32%,+23%,New York
+21,Jefferson County,-39%,+21%,,,-27%,+10%,New York
+22,Kings County,-67%,-19%,-9%,-61%,-53%,+19%,New York
+23,Lewis County,-51%,-9%,,,-23%,,New York
+24,Livingston County,-44%,+36%,,-41%,-33%,+27%,New York
+25,Madison County,-35%,+4%,,-51%,-32%,+26%,New York
+26,Monroe County,-54%,+12%,+97%,-33%,-40%,+14%,New York
+27,Montgomery County,-34%,-11%,,-9%,-27%,+21%,New York
+28,Nassau County,-67%,-3%,+39%,-61%,-52%,+20%,New York
+29,New York County,-86%,-42%,-61%,-78%,-55%,+19%,New York
+30,Niagara County,-45%,+35%,-24%,-53%,-41%,+13%,New York
+31,Oneida County,-48%,+34%,+36%,-31%,-36%,+13%,New York
+32,Onondaga County,-55%,+0%,+57%,-47%,-40%,+14%,New York
+33,Ontario County,-52%,+1%,+79%,-62%,-37%,+13%,New York
+34,Orange County,-54%,+6%,+149%,-45%,-40%,+16%,New York
+35,Orleans County,-41%,+8%,,,-35%,+19%,New York
+36,Oswego County,-31%,+20%,-15%,,-34%,+12%,New York
+37,Otsego County,-46%,+7%,,,-39%,+24%,New York
+38,Putnam County,-58%,-20%,-36%,-49%,-45%,+31%,New York
+39,Queens County,-71%,-22%,+11%,-73%,-62%,+23%,New York
+40,Rensselaer County,-47%,+32%,-7%,-47%,-34%,+13%,New York
+41,Richmond County,-62%,+6%,-9%,-54%,-48%,+19%,New York
+42,Rockland County,-68%,-8%,+146%,-61%,-50%,+17%,New York
+43,Saratoga County,-55%,+25%,+15%,-40%,-35%,+13%,New York
+44,Schenectady County,-50%,+27%,+2%,-39%,-34%,+13%,New York
+45,Schoharie County,-31%,-4%,,,-15%,+3%,New York
+46,Schuyler County,-27%,+4%,,,-26%,,New York
+47,Seneca County,-37%,+2%,,-62%,-28%,+15%,New York
+48,St. Lawrence County,-47%,+22%,-6%,,-34%,+11%,New York
+49,Steuben County,-46%,+8%,-29%,-32%,-27%,+13%,New York
+50,Suffolk County,-57%,+9%,+109%,-62%,-45%,+17%,New York
+51,Sullivan County,-43%,+9%,,,-35%,+24%,New York
+52,Tioga County,-41%,-2%,,,-33%,+24%,New York
+53,Tompkins County,-60%,+37%,-34%,-29%,-43%,+32%,New York
+54,Ulster County,-46%,+8%,+151%,-59%,-36%,+14%,New York
+55,Warren County,-45%,+7%,+51%,-41%,-37%,+21%,New York
+56,Washington County,-32%,+20%,,,-30%,+21%,New York
+57,Wayne County,-36%,+64%,,,-31%,+11%,New York
+58,Westchester County,-68%,+0%,+116%,-51%,-48%,+19%,New York
+59,Wyoming County,-14%,-8%,,,-27%,+18%,New York
+0,Alamance County,-43%,+4%,+57%,-32%,-32%,+11%,North Carolina
+1,Alexander County,-30%,+13%,,,-33%,+16%,North Carolina
+2,Alleghany County,-29%,-5%,,,-42%,,North Carolina
+3,Anson County,-50%,-1%,,,-28%,,North Carolina
+4,Ashe County,-28%,-14%,,,-29%,,North Carolina
+5,Avery County,-57%,-20%,,,-31%,,North Carolina
+6,Beaufort County,-26%,+1%,+25%,,-20%,+13%,North Carolina
+7,Bertie County,-53%,+3%,,,-18%,,North Carolina
+8,Bladen County,-23%,+6%,-27%,,-25%,+12%,North Carolina
+9,Brunswick County,-32%,-3%,-12%,-62%,-32%,+10%,North Carolina
+10,Buncombe County,-58%,-18%,+7%,-66%,-43%,+12%,North Carolina
+11,Burke County,-32%,+3%,+43%,,-29%,+8%,North Carolina
+12,Cabarrus County,-46%,-8%,+38%,-34%,-38%,+13%,North Carolina
+13,Caldwell County,-28%,+5%,-2%,,-28%,+9%,North Carolina
+14,Camden County,-46%,,,,-50%,,North Carolina
+15,Carteret County,-38%,-3%,-16%,,-30%,+17%,North Carolina
+16,Caswell County,-28%,+4%,,,-27%,,North Carolina
+17,Catawba County,-48%,-7%,+39%,-28%,-35%,+11%,North Carolina
+18,Chatham County,-26%,-11%,,,-29%,+22%,North Carolina
+19,Cherokee County,-38%,-12%,,,-43%,+1%,North Carolina
+20,Chowan County,-13%,+10%,,,-24%,,North Carolina
+21,Clay County,-54%,-12%,,,-33%,,North Carolina
+22,Cleveland County,-32%,+9%,+16%,,-30%,+9%,North Carolina
+23,Columbus County,-28%,+10%,,,-24%,+18%,North Carolina
+24,Craven County,-37%,-3%,+12%,-50%,-32%,+10%,North Carolina
+25,Cumberland County,-39%,-7%,+6%,-40%,-34%,+11%,North Carolina
+26,Currituck County,-25%,-9%,,,-23%,+8%,North Carolina
+27,Dare County,-51%,-18%,-39%,,-34%,+12%,North Carolina
+28,Davidson County,-30%,+6%,+81%,-20%,-35%,+9%,North Carolina
+29,Davie County,-29%,+3%,,-41%,-33%,+17%,North Carolina
+30,Duplin County,-37%,+7%,,-32%,-24%,+17%,North Carolina
+31,Durham County,-48%,-18%,-6%,-33%,-41%,+14%,North Carolina
+32,Edgecombe County,-13%,+17%,,,-35%,+19%,North Carolina
+33,Forsyth County,-39%,-8%,+95%,+1%,-38%,+11%,North Carolina
+34,Franklin County,-18%,+10%,,,-30%,+22%,North Carolina
+35,Gaston County,-37%,-9%,+7%,,-33%,+11%,North Carolina
+36,Gates County,,,,,-39%,,North Carolina
+37,Graham County,,,,,-49%,,North Carolina
+38,Granville County,-22%,-7%,,,-32%,+23%,North Carolina
+39,Greene County,-41%,+2%,-17%,,-25%,,North Carolina
+40,Guilford County,-46%,-11%,+50%,-35%,-40%,+12%,North Carolina
+41,Halifax County,-32%,+1%,,,-29%,+18%,North Carolina
+42,Harnett County,-29%,+6%,-15%,-24%,-28%,+10%,North Carolina
+43,Haywood County,-36%,-1%,+12%,-36%,-31%,+19%,North Carolina
+44,Henderson County,-45%,-3%,+81%,-23%,-35%,+11%,North Carolina
+45,Hertford County,-43%,+47%,,,-21%,,North Carolina
+46,Hoke County,-25%,+8%,,,-32%,+20%,North Carolina
+47,Iredell County,-40%,+1%,+55%,-28%,-36%,+11%,North Carolina
+48,Jackson County,-42%,-9%,+9%,,-50%,+17%,North Carolina
+49,Johnston County,-34%,-4%,+30%,-30%,-32%,+12%,North Carolina
+50,Jones County,,-6%,,,-53%,,North Carolina
+51,Lee County,-30%,+1%,,,-28%,+21%,North Carolina
+52,Lenoir County,-31%,+12%,,,-28%,+18%,North Carolina
+53,Lincoln County,-18%,+16%,,,-33%,+10%,North Carolina
+54,Macon County,-35%,-9%,-15%,,-33%,+14%,North Carolina
+55,Madison County,-62%,-12%,,,-20%,,North Carolina
+56,Martin County,-28%,-4%,,,-24%,,North Carolina
+57,McDowell County,-20%,+5%,+9%,-21%,-18%,+18%,North Carolina
+58,Mecklenburg County,-52%,-9%,-17%,-68%,-43%,+15%,North Carolina
+59,Mitchell County,-33%,-10%,,,-24%,,North Carolina
+60,Montgomery County,-34%,+4%,+9%,-49%,-26%,-1%,North Carolina
+61,Moore County,-48%,-2%,+12%,,-39%,+21%,North Carolina
+62,Nash County,-36%,+3%,,-32%,-32%,+10%,North Carolina
+63,New Hanover County,-51%,-14%,-25%,-67%,-39%,+13%,North Carolina
+64,Northampton County,-67%,+21%,,,-24%,,North Carolina
+65,Onslow County,-35%,-2%,+10%,-71%,-29%,+10%,North Carolina
+66,Orange County,-52%,-18%,-4%,-31%,-41%,+14%,North Carolina
+67,Pamlico County,-23%,+9%,,,-45%,,North Carolina
+68,Pasquotank County,-30%,+4%,,,-21%,+20%,North Carolina
+69,Pender County,-23%,+0%,,,-23%,+20%,North Carolina
+70,Perquimans County,-53%,-2%,,,-43%,,North Carolina
+71,Person County,-26%,+10%,,,-31%,+17%,North Carolina
+72,Pitt County,-43%,-10%,-2%,-29%,-33%,+11%,North Carolina
+73,Polk County,-48%,-19%,,,-29%,,North Carolina
+74,Randolph County,-42%,-2%,-20%,,-30%,+9%,North Carolina
+75,Richmond County,-33%,+40%,,,-24%,+11%,North Carolina
+76,Robeson County,-29%,+7%,,-40%,-23%,+7%,North Carolina
+77,Rockingham County,-23%,+6%,,-34%,-30%,+10%,North Carolina
+78,Rowan County,-39%,+2%,+35%,-27%,-33%,+10%,North Carolina
+79,Rutherford County,-31%,+4%,+9%,,-26%,+17%,North Carolina
+80,Sampson County,-23%,+8%,,,-27%,+17%,North Carolina
+81,Scotland County,-21%,-7%,,,-30%,+12%,North Carolina
+82,Stanly County,-28%,+1%,,,-33%,+20%,North Carolina
+83,Stokes County,-29%,+15%,-22%,,-30%,+15%,North Carolina
+84,Surry County,-30%,+4%,-11%,-31%,-29%,+19%,North Carolina
+85,Swain County,-75%,+0%,-25%,,-56%,,North Carolina
+86,Transylvania County,-25%,-19%,-8%,,-24%,+6%,North Carolina
+87,Union County,-35%,+0%,-14%,-31%,-35%,+13%,North Carolina
+88,Vance County,-29%,+5%,,,-30%,+19%,North Carolina
+89,Wake County,-49%,-18%,+26%,-71%,-40%,+15%,North Carolina
+90,Warren County,-4%,+7%,,,-23%,,North Carolina
+91,Washington County,-29%,+4%,,,-38%,,North Carolina
+92,Watauga County,-62%,-32%,+28%,,-43%,+18%,North Carolina
+93,Wayne County,-35%,+0%,-37%,-29%,-30%,+9%,North Carolina
+94,Wilkes County,-36%,+14%,-26%,,-35%,+17%,North Carolina
+95,Wilson County,-32%,+3%,-11%,,-25%,+10%,North Carolina
+96,Yadkin County,-46%,+0%,,,-35%,+15%,North Carolina
+0,Barnes County,-34%,,,,-41%,,North Dakota
+1,Bottineau County,-34%,,,,-51%,,North Dakota
+2,Burleigh County,-51%,-8%,-15%,-54%,-32%,+14%,North Dakota
+3,Cass County,-56%,-11%,+8%,-38%,-32%,+15%,North Dakota
+4,Dunn County,-56%,-17%,-54%,,,,North Dakota
+5,Grand Forks County,-51%,+1%,-53%,-51%,-31%,+24%,North Dakota
+6,McKenzie County,-48%,-21%,,-45%,-31%,,North Dakota
+7,McLean County,-63%,,,,-40%,,North Dakota
+8,Mercer County,,+6%,,,-41%,,North Dakota
+9,Morton County,-45%,+6%,,-11%,-35%,+19%,North Dakota
+10,Mountrail County,-67%,-25%,,,-36%,,North Dakota
+11,Pembina County,,,,,-44%,,North Dakota
+12,Ramsey County,-42%,-16%,,,-41%,,North Dakota
+13,Ransom County,,,,,-56%,,North Dakota
+14,Richland County,-38%,+2%,,,-29%,,North Dakota
+15,Rolette County,-33%,,,,-57%,,North Dakota
+16,Sargent County,,,,,-56%,,North Dakota
+17,Stark County,-41%,+3%,,,-23%,+14%,North Dakota
+18,Stutsman County,-34%,-16%,,,-25%,,North Dakota
+19,Traill County,,,,,-50%,,North Dakota
+20,Walsh County,-33%,,,,-41%,,North Dakota
+21,Ward County,-42%,+10%,,-57%,-30%,+21%,North Dakota
+0,Adams County,-39%,+32%,,,-23%,-2%,Ohio
+1,Allen County,-44%,-2%,+11%,-20%,-32%,+12%,Ohio
+2,Ashland County,-36%,+8%,,,-40%,+23%,Ohio
+3,Ashtabula County,-29%,+8%,+81%,-28%,-29%,+11%,Ohio
+4,Athens County,-53%,-6%,,,-39%,+18%,Ohio
+5,Auglaize County,-39%,-3%,,,-28%,+22%,Ohio
+6,Belmont County,-40%,+32%,,-36%,-27%,+19%,Ohio
+7,Brown County,-31%,+10%,,,-24%,+19%,Ohio
+8,Butler County,-45%,-6%,+136%,-12%,-34%,+12%,Ohio
+9,Carroll County,-37%,-8%,,,-30%,+0%,Ohio
+10,Champaign County,-34%,-5%,,,-39%,+20%,Ohio
+11,Clark County,-32%,+1%,,-15%,-31%,+10%,Ohio
+12,Clermont County,-39%,-8%,+68%,,-37%,+12%,Ohio
+13,Clinton County,-37%,+6%,,+17%,-31%,+22%,Ohio
+14,Columbiana County,-28%,+17%,,,-37%,+12%,Ohio
+15,Coshocton County,-28%,+0%,,,-23%,+16%,Ohio
+16,Crawford County,-32%,+1%,,,-38%,+22%,Ohio
+17,Cuyahoga County,-47%,-1%,+67%,-38%,-40%,+13%,Ohio
+18,Darke County,-29%,+0%,,,-27%,+23%,Ohio
+19,Defiance County,-39%,+4%,,,-31%,+20%,Ohio
+20,Delaware County,-58%,-17%,+137%,-37%,-41%,+14%,Ohio
+21,Erie County,-42%,+2%,+2%,,-43%,+12%,Ohio
+22,Fairfield County,-45%,-2%,+58%,,-29%,+12%,Ohio
+23,Fayette County,-35%,-4%,,-32%,-31%,+9%,Ohio
+24,Franklin County,-46%,-9%,+43%,-38%,-40%,+13%,Ohio
+25,Fulton County,-33%,+7%,,-45%,-32%,+26%,Ohio
+26,Gallia County,-35%,-6%,,-17%,-21%,,Ohio
+27,Geauga County,-37%,-6%,+10%,,-39%,+27%,Ohio
+28,Greene County,-47%,-3%,+144%,,-37%,+12%,Ohio
+29,Guernsey County,-32%,-8%,,-28%,-27%,+15%,Ohio
+30,Hamilton County,-47%,-7%,+94%,-18%,-38%,+13%,Ohio
+31,Hancock County,-46%,-5%,,-28%,-45%,+26%,Ohio
+32,Hardin County,-30%,+3%,,,-38%,+13%,Ohio
+33,Harrison County,-2%,+5%,,,-25%,,Ohio
+34,Henry County,-34%,-6%,,-40%,-36%,+13%,Ohio
+35,Highland County,-16%,+4%,,,-27%,+19%,Ohio
+36,Hocking County,-42%,-11%,-35%,,-32%,-3%,Ohio
+37,Holmes County,-53%,-13%,,,-31%,-1%,Ohio
+38,Huron County,-31%,+13%,,,-38%,+22%,Ohio
+39,Jackson County,-25%,+27%,,-35%,-28%,-1%,Ohio
+40,Jefferson County,-28%,+14%,,-17%,-30%,+19%,Ohio
+41,Knox County,-26%,+14%,,,-36%,+22%,Ohio
+42,Lake County,-43%,-1%,+120%,-30%,-37%,+14%,Ohio
+43,Lawrence County,-28%,-4%,,,-31%,+19%,Ohio
+44,Licking County,-35%,-3%,+9%,-32%,-33%,+12%,Ohio
+45,Logan County,-22%,+4%,,,-48%,+23%,Ohio
+46,Lorain County,-36%,+10%,+114%,-59%,-35%,+12%,Ohio
+47,Lucas County,-48%,+0%,+61%,-12%,-38%,+14%,Ohio
+48,Madison County,-40%,-9%,,-24%,-35%,+21%,Ohio
+49,Mahoning County,-42%,+0%,+97%,-34%,-38%,+13%,Ohio
+50,Marion County,-29%,+5%,,,-39%,+21%,Ohio
+51,Medina County,-41%,+4%,,-30%,-34%,+14%,Ohio
+52,Meigs County,-29%,,,,-18%,,Ohio
+53,Mercer County,-34%,-6%,,,-32%,+22%,Ohio
+54,Miami County,-36%,-4%,-4%,,-35%,+12%,Ohio
+55,Monroe County,-57%,-6%,,,-44%,,Ohio
+56,Montgomery County,-45%,-3%,+87%,+2%,-37%,+12%,Ohio
+57,Morgan County,-22%,+20%,,,-34%,,Ohio
+58,Morrow County,-45%,-6%,,-33%,-31%,+18%,Ohio
+59,Muskingum County,-33%,-6%,,-21%,-30%,+10%,Ohio
+60,Noble County,-53%,+9%,,-17%,-39%,,Ohio
+61,Ottawa County,-32%,+6%,,,-32%,+22%,Ohio
+62,Paulding County,+11%,+13%,,,-38%,,Ohio
+63,Perry County,-5%,+3%,,,-25%,+10%,Ohio
+64,Pickaway County,-21%,+5%,,-5%,-25%,+20%,Ohio
+65,Pike County,-22%,-5%,,,-22%,,Ohio
+66,Portage County,-41%,-2%,+22%,-40%,-38%,+13%,Ohio
+67,Preble County,-23%,-20%,,+1%,-32%,+22%,Ohio
+68,Putnam County,-37%,+17%,,,-40%,+16%,Ohio
+69,Richland County,-46%,-5%,,-32%,-39%,+11%,Ohio
+70,Ross County,-38%,+7%,,+3%,-25%,+17%,Ohio
+71,Sandusky County,-30%,+5%,,-52%,-35%,+25%,Ohio
+72,Scioto County,-33%,+0%,,,-22%,+15%,Ohio
+73,Seneca County,-27%,+10%,,,-38%,+26%,Ohio
+74,Shelby County,-26%,-15%,,-29%,-41%,+21%,Ohio
+75,Stark County,-40%,-3%,+89%,-7%,-35%,+12%,Ohio
+76,Summit County,-43%,+0%,+59%,-23%,-39%,+13%,Ohio
+77,Trumbull County,-38%,+8%,+87%,-19%,-37%,+12%,Ohio
+78,Tuscarawas County,-35%,+9%,,,-35%,+12%,Ohio
+79,Union County,-38%,+1%,,,-40%,+30%,Ohio
+80,Van Wert County,-25%,-8%,,,-34%,+19%,Ohio
+81,Vinton County,-56%,+9%,,,-46%,,Ohio
+82,Warren County,-45%,+5%,+75%,-24%,-37%,+13%,Ohio
+83,Washington County,-40%,-2%,,,-31%,+19%,Ohio
+84,Wayne County,-46%,+1%,,-35%,-36%,+12%,Ohio
+85,Williams County,-32%,-11%,,-58%,-32%,+21%,Ohio
+86,Wood County,-46%,-16%,-7%,-31%,-40%,+14%,Ohio
+0,Adair County,-22%,+8%,,,-33%,,Oklahoma
+1,Atoka County,-31%,-24%,,-33%,-28%,,Oklahoma
+2,Beckham County,-31%,-8%,,-20%,-22%,,Oklahoma
+3,Blaine County,-30%,-4%,,,-36%,,Oklahoma
+4,Bryan County,-36%,-19%,,-38%,-31%,+16%,Oklahoma
+5,Caddo County,-12%,+7%,,-23%,-25%,,Oklahoma
+6,Canadian County,-34%,-14%,+26%,-17%,-35%,+14%,Oklahoma
+7,Carter County,-37%,+9%,,-25%,-29%,+15%,Oklahoma
+8,Cherokee County,-26%,-1%,,,-31%,+18%,Oklahoma
+9,Choctaw County,-25%,-5%,,,-21%,,Oklahoma
+10,Cleveland County,-46%,-9%,-28%,,-37%,+14%,Oklahoma
+11,Coal County,,,,,-38%,,Oklahoma
+12,Comanche County,-49%,+0%,-18%,-33%,-36%,+13%,Oklahoma
+13,Cotton County,,-23%,,-51%,-41%,,Oklahoma
+14,Craig County,-18%,-25%,,-2%,-22%,,Oklahoma
+15,Creek County,-20%,+12%,-37%,,-30%,+17%,Oklahoma
+16,Custer County,-30%,-8%,,-24%,-33%,,Oklahoma
+17,Delaware County,-17%,+22%,,-22%,-25%,+13%,Oklahoma
+18,Garfield County,-30%,+6%,-54%,-31%,-23%,+16%,Oklahoma
+19,Garvin County,-25%,+2%,-56%,-20%,-24%,-4%,Oklahoma
+20,Grady County,-35%,+6%,,,-24%,+16%,Oklahoma
+21,Greer County,,,,,-43%,,Oklahoma
+22,Haskell County,-20%,-12%,,,-30%,,Oklahoma
+23,Hughes County,-6%,+8%,,,-24%,,Oklahoma
+24,Jackson County,-43%,-2%,,,-20%,+9%,Oklahoma
+25,Jefferson County,,-4%,,,-46%,,Oklahoma
+26,Johnston County,-58%,+9%,,,-40%,,Oklahoma
+27,Kay County,-17%,+17%,,-32%,-28%,+17%,Oklahoma
+28,Kingfisher County,-24%,,,,-36%,,Oklahoma
+29,Kiowa County,-15%,-2%,,,-32%,,Oklahoma
+30,Latimer County,-26%,-11%,,,-44%,,Oklahoma
+31,Le Flore County,-28%,+5%,,,-29%,+11%,Oklahoma
+32,Lincoln County,-35%,-5%,,,-26%,+12%,Oklahoma
+33,Logan County,-40%,-3%,,-18%,-25%,+17%,Oklahoma
+34,Love County,-50%,-13%,,,-44%,,Oklahoma
+35,Major County,,,,,-38%,,Oklahoma
+36,Marshall County,-29%,+7%,,,-21%,,Oklahoma
+37,Mayes County,-29%,+3%,,-22%,-24%,+16%,Oklahoma
+38,McClain County,-23%,-7%,,-52%,-36%,+15%,Oklahoma
+39,McCurtain County,-34%,-4%,+2%,-23%,-22%,+7%,Oklahoma
+40,McIntosh County,-31%,+24%,,-24%,-23%,,Oklahoma
+41,Murray County,-31%,+0%,-19%,,-35%,,Oklahoma
+42,Muskogee County,-32%,+10%,+19%,-28%,-23%,+14%,Oklahoma
+43,Noble County,-40%,-7%,,-62%,-50%,,Oklahoma
+44,Nowata County,-51%,-2%,,-28%,-52%,,Oklahoma
+45,Okfuskee County,-41%,-4%,,-41%,-44%,,Oklahoma
+46,Oklahoma County,-45%,-4%,-17%,-34%,-35%,+13%,Oklahoma
+47,Okmulgee County,-19%,+0%,,-27%,-26%,+15%,Oklahoma
+48,Osage County,-18%,+12%,,,-28%,+17%,Oklahoma
+49,Ottawa County,-21%,-2%,,,-34%,+10%,Oklahoma
+50,Pawnee County,-32%,-11%,,,-26%,,Oklahoma
+51,Payne County,-43%,-12%,+10%,,-31%,+21%,Oklahoma
+52,Pittsburg County,-36%,+12%,-38%,-49%,-27%,+13%,Oklahoma
+53,Pontotoc County,-35%,-6%,,,-33%,+15%,Oklahoma
+54,Pottawatomie County,-39%,+13%,-56%,,-32%,+19%,Oklahoma
+55,Pushmataha County,-37%,+4%,,,-33%,,Oklahoma
+56,Rogers County,-34%,+3%,+16%,,-32%,+12%,Oklahoma
+57,Seminole County,-20%,+13%,,-11%,-26%,,Oklahoma
+58,Sequoyah County,-23%,+4%,,-25%,-28%,+12%,Oklahoma
+59,Stephens County,-34%,+2%,,,-28%,+15%,Oklahoma
+60,Texas County,-31%,-12%,,-28%,-25%,,Oklahoma
+61,Tillman County,-14%,+0%,,,-48%,,Oklahoma
+62,Tulsa County,-44%,+0%,-31%,-6%,-36%,+12%,Oklahoma
+63,Wagoner County,-12%,+4%,,,-34%,+18%,Oklahoma
+64,Washington County,-40%,+7%,,,-28%,+17%,Oklahoma
+65,Washita County,,-17%,,,-31%,,Oklahoma
+66,Woods County,-19%,,+4%,,-38%,,Oklahoma
+0,Baker County,-38%,-10%,,-27%,-31%,,Oregon
+1,Benton County,-54%,-21%,+44%,-49%,-44%,+23%,Oregon
+2,Clackamas County,-46%,-9%,+6%,-27%,-37%,+13%,Oregon
+3,Clatsop County,-55%,-23%,-25%,-61%,-40%,+16%,Oregon
+4,Columbia County,-31%,-2%,+58%,,-32%,+16%,Oregon
+5,Coos County,-33%,+3%,-11%,,-34%,+13%,Oregon
+6,Crook County,-32%,-15%,,,-33%,-1%,Oregon
+7,Curry County,-47%,-10%,+16%,,-31%,,Oregon
+8,Deschutes County,-46%,-8%,-14%,-61%,-37%,+11%,Oregon
+9,Douglas County,-30%,+10%,+17%,-11%,-26%,+7%,Oregon
+10,Grant County,-70%,-19%,,,-28%,,Oregon
+11,Harney County,-41%,-6%,,,-22%,,Oregon
+12,Hood River County,-48%,+6%,-3%,,-41%,,Oregon
+13,Jackson County,-40%,-1%,+44%,-37%,-33%,+8%,Oregon
+14,Jefferson County,-36%,-6%,,-8%,-33%,+0%,Oregon
+15,Josephine County,-32%,+3%,+64%,-37%,-29%,+8%,Oregon
+16,Klamath County,-36%,+7%,+18%,-20%,-28%,+7%,Oregon
+17,Lake County,-38%,,,,-30%,,Oregon
+18,Lane County,-45%,-9%,+29%,-48%,-37%,+11%,Oregon
+19,Lincoln County,-58%,-24%,-43%,,-45%,+16%,Oregon
+20,Linn County,-32%,+4%,+38%,-27%,-28%,+10%,Oregon
+21,Malheur County,-21%,+11%,,+1%,-17%,+7%,Oregon
+22,Marion County,-41%,-1%,+37%,-26%,-30%,+11%,Oregon
+23,Morrow County,-41%,,,-21%,-21%,,Oregon
+24,Multnomah County,-60%,-15%,+5%,-54%,-43%,+14%,Oregon
+25,Polk County,-27%,+6%,+41%,,-37%,+11%,Oregon
+26,Sherman County,,,,-28%,,,Oregon
+27,Tillamook County,-56%,-13%,-10%,,-29%,-1%,Oregon
+28,Umatilla County,-27%,+20%,+13%,-23%,-28%,+8%,Oregon
+29,Union County,-30%,-31%,,-34%,-26%,+0%,Oregon
+30,Wallowa County,-68%,-14%,,,-27%,,Oregon
+31,Wasco County,-33%,+1%,+12%,,-31%,+7%,Oregon
+32,Washington County,-47%,-15%,+47%,-43%,-39%,+14%,Oregon
+0,Adams County,-54%,-3%,+16%,,-40%,+14%,Pennsylvania
+1,Allegheny County,-54%,-8%,+8%,-52%,-45%,+15%,Pennsylvania
+2,Armstrong County,-35%,+5%,,,-33%,+24%,Pennsylvania
+3,Beaver County,-42%,+2%,+14%,-52%,-42%,+14%,Pennsylvania
+4,Bedford County,-45%,+10%,,-79%,-28%,+18%,Pennsylvania
+5,Berks County,-45%,-14%,+53%,-38%,-43%,+15%,Pennsylvania
+6,Blair County,-51%,-6%,-36%,-35%,-34%,+12%,Pennsylvania
+7,Bradford County,-31%,+10%,,,-18%,+22%,Pennsylvania
+8,Bucks County,-47%,-24%,+54%,-44%,-41%,+16%,Pennsylvania
+9,Butler County,-47%,-35%,+0%,-31%,-40%,+14%,Pennsylvania
+10,Cambria County,-46%,-3%,,,-32%,+12%,Pennsylvania
+11,Carbon County,-35%,-7%,-13%,,-38%,+24%,Pennsylvania
+12,Centre County,-64%,-21%,-5%,-45%,-47%,+15%,Pennsylvania
+13,Chester County,-49%,-24%,+12%,-69%,-40%,+15%,Pennsylvania
+14,Clarion County,-46%,-13%,,,-23%,+10%,Pennsylvania
+15,Clearfield County,-39%,-5%,-34%,-7%,-27%,+11%,Pennsylvania
+16,Clinton County,-28%,-13%,,-38%,-27%,+17%,Pennsylvania
+17,Columbia County,-44%,+11%,,-32%,-34%,+26%,Pennsylvania
+18,Crawford County,-35%,+11%,,,-38%,+24%,Pennsylvania
+19,Cumberland County,-51%,-9%,+83%,-31%,-38%,+14%,Pennsylvania
+20,Dauphin County,-53%,-24%,+28%,-55%,-37%,+14%,Pennsylvania
+21,Delaware County,-44%,-14%,+57%,-39%,-40%,+16%,Pennsylvania
+22,Elk County,-32%,-8%,,,-38%,+8%,Pennsylvania
+23,Erie County,-46%,+6%,+80%,-39%,-40%,+13%,Pennsylvania
+24,Fayette County,-35%,+8%,-34%,,-36%,+11%,Pennsylvania
+25,Franklin County,-38%,-6%,-15%,-24%,-35%,+12%,Pennsylvania
+26,Fulton County,-12%,-27%,,-65%,-53%,,Pennsylvania
+27,Greene County,-33%,-10%,,,-30%,+3%,Pennsylvania
+28,Huntingdon County,-36%,+4%,,,-25%,+18%,Pennsylvania
+29,Indiana County,-43%,-11%,,,-29%,+25%,Pennsylvania
+30,Jefferson County,-35%,-4%,,-29%,-24%,+16%,Pennsylvania
+31,Juniata County,-48%,-34%,,,-42%,,Pennsylvania
+32,Lackawanna County,-49%,+0%,+64%,-42%,-37%,+13%,Pennsylvania
+33,Lancaster County,-51%,-19%,+36%,-54%,-39%,+15%,Pennsylvania
+34,Lawrence County,-33%,+0%,-50%,,-29%,+11%,Pennsylvania
+35,Lebanon County,-39%,-6%,-42%,-33%,-37%,+14%,Pennsylvania
+36,Lehigh County,-53%,-16%,+46%,-54%,-41%,+16%,Pennsylvania
+37,Luzerne County,-50%,-6%,+51%,-31%,-40%,+14%,Pennsylvania
+38,Lycoming County,-46%,-1%,-28%,-29%,-33%,+12%,Pennsylvania
+39,McKean County,-41%,-3%,,,-28%,+16%,Pennsylvania
+40,Mercer County,-49%,-17%,,,-37%,+12%,Pennsylvania
+41,Mifflin County,-32%,-9%,,,-26%,+24%,Pennsylvania
+42,Monroe County,-53%,-4%,-6%,-63%,-47%,+16%,Pennsylvania
+43,Montgomery County,-55%,-25%,+62%,-52%,-45%,+17%,Pennsylvania
+44,Montour County,-60%,-33%,,,-28%,,Pennsylvania
+45,Northampton County,-51%,-13%,+73%,-42%,-41%,+16%,Pennsylvania
+46,Northumberland County,-40%,+10%,,-20%,-29%,+12%,Pennsylvania
+47,Perry County,-31%,+10%,,,-30%,+27%,Pennsylvania
+48,Philadelphia County,-54%,-17%,-37%,-55%,-43%,+16%,Pennsylvania
+49,Pike County,-42%,+16%,,,-39%,+28%,Pennsylvania
+50,Potter County,-38%,+1%,,,-25%,,Pennsylvania
+51,Schuylkill County,-34%,+4%,-43%,-30%,-35%,+12%,Pennsylvania
+52,Snyder County,-49%,-6%,,,-29%,+12%,Pennsylvania
+53,Somerset County,-46%,+3%,+40%,-57%,-30%,+25%,Pennsylvania
+54,Sullivan County,,,,,-51%,,Pennsylvania
+55,Susquehanna County,-48%,-18%,-42%,-48%,-27%,+16%,Pennsylvania
+56,Tioga County,-41%,-13%,,,-34%,+18%,Pennsylvania
+57,Union County,-47%,-4%,,,-28%,+14%,Pennsylvania
+58,Venango County,-35%,+1%,,-61%,-30%,+24%,Pennsylvania
+59,Warren County,-30%,+15%,-38%,,-32%,+17%,Pennsylvania
+60,Washington County,-48%,-2%,+27%,-24%,-38%,+13%,Pennsylvania
+61,Wayne County,-37%,-6%,,,-36%,+17%,Pennsylvania
+62,Westmoreland County,-42%,-5%,+43%,-41%,-37%,+13%,Pennsylvania
+63,Wyoming County,-48%,-4%,,,-33%,-1%,Pennsylvania
+0,Bristol County,-47%,-36%,,,-39%,+22%,Rhode Island
+1,Kent County,-42%,+3%,+72%,-69%,-38%,+13%,Rhode Island
+2,Newport County,-43%,-8%,-1%,-41%,-40%,+24%,Rhode Island
+3,Providence County,-48%,-7%,+52%,-56%,-42%,+15%,Rhode Island
+0,Abbeville County,-30%,+7%,,,-25%,,South Carolina
+1,Aiken County,-32%,-1%,-19%,-27%,-33%,+11%,South Carolina
+2,Allendale County,,-12%,,,-43%,,South Carolina
+3,Anderson County,-45%,+8%,+8%,-37%,-33%,+11%,South Carolina
+4,Bamberg County,-32%,+4%,,,-30%,,South Carolina
+5,Barnwell County,-33%,+4%,,,-24%,,South Carolina
+6,Beaufort County,-43%,-10%,-40%,-57%,-38%,+12%,South Carolina
+7,Berkeley County,-35%,+1%,+7%,-40%,-34%,+12%,South Carolina
+8,Calhoun County,-16%,+13%,,-63%,-27%,,South Carolina
+9,Charleston County,-52%,-20%,-58%,-60%,-41%,+13%,South Carolina
+10,Cherokee County,-44%,+4%,-13%,-32%,-36%,+17%,South Carolina
+11,Chester County,-35%,+3%,,-45%,-28%,+13%,South Carolina
+12,Chesterfield County,-31%,+7%,,,-22%,+14%,South Carolina
+13,Clarendon County,-31%,-2%,,-45%,-27%,,South Carolina
+14,Colleton County,-35%,-4%,,-52%,-30%,+13%,South Carolina
+15,Darlington County,-27%,+0%,-28%,,-30%,+19%,South Carolina
+16,Dillon County,-29%,+0%,-64%,-33%,-30%,-2%,South Carolina
+17,Dorchester County,-33%,+1%,-30%,-47%,-37%,+12%,South Carolina
+18,Edgefield County,-54%,+7%,,,-23%,,South Carolina
+19,Fairfield County,-3%,+5%,,-47%,-27%,,South Carolina
+20,Florence County,-46%,+3%,+4%,-38%,-29%,+10%,South Carolina
+21,Georgetown County,-47%,-2%,-23%,,-30%,+15%,South Carolina
+22,Greenville County,-47%,+1%,-41%,-18%,-39%,+13%,South Carolina
+23,Greenwood County,-39%,-1%,,,-23%,+16%,South Carolina
+24,Hampton County,-47%,-7%,,-34%,-22%,,South Carolina
+25,Horry County,-53%,-13%,-45%,-75%,-41%,+12%,South Carolina
+26,Jasper County,-39%,-13%,-54%,-28%,-34%,+8%,South Carolina
+27,Kershaw County,-39%,+13%,,-53%,-24%,+19%,South Carolina
+28,Lancaster County,-34%,+0%,,,-31%,+20%,South Carolina
+29,Laurens County,-19%,+19%,,-32%,-31%,+9%,South Carolina
+30,Lee County,-70%,+8%,,-39%,-18%,,South Carolina
+31,Lexington County,-44%,-5%,+7%,-32%,-30%,+11%,South Carolina
+32,Marion County,-31%,+12%,,,-28%,+2%,South Carolina
+33,Marlboro County,-29%,-2%,,,-37%,,South Carolina
+34,McCormick County,-49%,+11%,,,-43%,,South Carolina
+35,Newberry County,-27%,+4%,,-47%,-29%,+17%,South Carolina
+36,Oconee County,-35%,+9%,-10%,,-29%,+16%,South Carolina
+37,Orangeburg County,-33%,+0%,,-49%,-28%,+10%,South Carolina
+38,Pickens County,-36%,+4%,-17%,,-28%,+10%,South Carolina
+39,Richland County,-42%,-8%,-37%,-31%,-34%,+13%,South Carolina
+40,Saluda County,-40%,+3%,,,-23%,,South Carolina
+41,Spartanburg County,-41%,-2%,+21%,-60%,-35%,+11%,South Carolina
+42,Sumter County,-36%,+1%,,-45%,-33%,+11%,South Carolina
+43,Union County,-30%,+1%,,,-35%,+4%,South Carolina
+44,Williamsburg County,-31%,+2%,,,-19%,,South Carolina
+0,Beadle County,-36%,-12%,,,-24%,,South Dakota
+1,Bon Homme County,,,,,-43%,,South Dakota
+2,Brookings County,-39%,-27%,,,-28%,+22%,South Dakota
+3,Brown County,-38%,-12%,,,-29%,+20%,South Dakota
+4,Brule County,-55%,,,,-41%,,South Dakota
+5,Butte County,-25%,,,,-34%,,South Dakota
+6,Charles Mix County,-49%,,,,-34%,,South Dakota
+7,Clay County,-47%,,,,-35%,,South Dakota
+8,Codington County,-31%,+5%,,-50%,-27%,+15%,South Dakota
+9,Custer County,,,,,-36%,,South Dakota
+10,Davison County,-40%,-4%,,,-25%,,South Dakota
+11,Dewey County,,,,,-46%,,South Dakota
+12,Fall River County,-37%,,,,-30%,,South Dakota
+13,Grant County,-32%,,,,-23%,,South Dakota
+14,Hamlin County,,,,,-40%,,South Dakota
+15,Hughes County,-24%,-11%,,,-22%,,South Dakota
+16,Hutchinson County,,,,,-36%,,South Dakota
+17,Kingsbury County,,,,,-24%,,South Dakota
+18,Lake County,-20%,-6%,,,-45%,,South Dakota
+19,Lawrence County,-69%,-14%,-26%,,-55%,+0%,South Dakota
+20,Lincoln County,-38%,+0%,,,-34%,+24%,South Dakota
+21,McCook County,,,,,-41%,,South Dakota
+22,Meade County,-38%,-7%,,,-35%,+12%,South Dakota
+23,Minnehaha County,-52%,-6%,+13%,-44%,-37%,+14%,South Dakota
+24,Moody County,,,,,-43%,,South Dakota
+25,Pennington County,-52%,-2%,-58%,-33%,-35%,+15%,South Dakota
+26,Roberts County,-45%,-20%,,-40%,-45%,,South Dakota
+27,Shannon County,-50%,-11%,,,-45%,,South Dakota
+28,Spink County,,,,,-38%,,South Dakota
+29,Todd County,,-14%,,,-46%,,South Dakota
+30,Tripp County,-71%,,,,,,South Dakota
+31,Turner County,,,,,-38%,,South Dakota
+32,Union County,-48%,-9%,,-35%,-32%,,South Dakota
+33,Walworth County,-21%,,,,-34%,,South Dakota
+0,Anderson County,-35%,+8%,+12%,,-28%,+9%,Tennessee
+1,Bedford County,-24%,+7%,,,-34%,+19%,Tennessee
+2,Benton County,-66%,+83%,,-35%,-32%,,Tennessee
+3,Bledsoe County,-7%,+18%,,,-48%,,Tennessee
+4,Blount County,-33%,+8%,+65%,-78%,-37%,+9%,Tennessee
+5,Bradley County,-37%,+6%,,-30%,-34%,+9%,Tennessee
+6,Campbell County,-14%,+0%,+4%,-37%,-22%,+12%,Tennessee
+7,Cannon County,+0%,+12%,,,-34%,,Tennessee
+8,Carroll County,-37%,+4%,,,-25%,+4%,Tennessee
+9,Carter County,-21%,+14%,+16%,,-27%,+18%,Tennessee
+10,Cheatham County,-43%,+66%,,-34%,-32%,+18%,Tennessee
+11,Chester County,-19%,-4%,,,-21%,,Tennessee
+12,Claiborne County,-32%,+46%,,,-27%,-2%,Tennessee
+13,Clay County,,,,,-44%,,Tennessee
+14,Cocke County,-20%,+21%,+2%,-20%,-42%,+12%,Tennessee
+15,Coffee County,-32%,+3%,,-59%,-32%,+19%,Tennessee
+16,Crockett County,-34%,+4%,,,-31%,,Tennessee
+17,Cumberland County,-29%,-7%,,-31%,-31%,+16%,Tennessee
+18,Davidson County,-51%,-10%,-44%,-62%,-41%,+13%,Tennessee
+19,DeKalb County,-12%,+18%,,,-34%,,Tennessee
+20,Decatur County,-20%,+22%,,,-44%,,Tennessee
+21,Dickson County,-36%,+0%,,-32%,-30%,+20%,Tennessee
+22,Dyer County,-30%,-4%,,-23%,-23%,+10%,Tennessee
+23,Fayette County,-17%,+52%,,-42%,-26%,+9%,Tennessee
+24,Fentress County,-26%,+1%,,,-9%,,Tennessee
+25,Franklin County,-16%,+14%,,,-36%,+15%,Tennessee
+26,Gibson County,-19%,+20%,,,-30%,+19%,Tennessee
+27,Giles County,-21%,+13%,,-52%,-27%,+8%,Tennessee
+28,Grainger County,-39%,+4%,,,-26%,,Tennessee
+29,Greene County,-29%,+0%,,-17%,-26%,+7%,Tennessee
+30,Grundy County,-66%,-12%,,,-44%,,Tennessee
+31,Hamblen County,-36%,+4%,,,-33%,+18%,Tennessee
+32,Hamilton County,-48%,-2%,-25%,-32%,-36%,+12%,Tennessee
+33,Hancock County,,,,,-55%,,Tennessee
+34,Hardeman County,-36%,-2%,,,-37%,,Tennessee
+35,Hardin County,-29%,+9%,,,-23%,,Tennessee
+36,Hawkins County,-18%,+17%,,,-19%,+18%,Tennessee
+37,Haywood County,-25%,+4%,,,-26%,,Tennessee
+38,Henderson County,-26%,+11%,,,-33%,-1%,Tennessee
+39,Henry County,-34%,+9%,,,-26%,+13%,Tennessee
+40,Hickman County,-32%,+5%,,,-27%,-3%,Tennessee
+41,Houston County,-70%,-6%,,,-53%,,Tennessee
+42,Humphreys County,-29%,-5%,,,-31%,,Tennessee
+43,Jackson County,,+2%,,,-53%,,Tennessee
+44,Jefferson County,-22%,+13%,,-35%,-36%,+18%,Tennessee
+45,Johnson County,-22%,+0%,,,-20%,,Tennessee
+46,Knox County,-44%,-2%,+11%,-32%,-36%,+10%,Tennessee
+47,Lauderdale County,-20%,+19%,,,-27%,,Tennessee
+48,Lawrence County,-34%,+4%,,,-26%,+13%,Tennessee
+49,Lewis County,-20%,+17%,,,-50%,,Tennessee
+50,Lincoln County,-24%,+10%,,,-20%,+7%,Tennessee
+51,Loudon County,-24%,+10%,,-31%,-28%,+17%,Tennessee
+52,Macon County,-32%,-4%,,,-23%,,Tennessee
+53,Madison County,-48%,-13%,-51%,-44%,-37%,+11%,Tennessee
+54,Marion County,-31%,-14%,+10%,-28%,-32%,+0%,Tennessee
+55,Marshall County,-16%,+6%,,-47%,-32%,+17%,Tennessee
+56,Maury County,-40%,-2%,-33%,-34%,-36%,+10%,Tennessee
+57,McMinn County,-33%,+9%,,-53%,-32%,+18%,Tennessee
+58,McNairy County,-23%,+5%,,-26%,-20%,,Tennessee
+59,Meigs County,-25%,+32%,,,-37%,,Tennessee
+60,Monroe County,-24%,+40%,,,-30%,+15%,Tennessee
+61,Montgomery County,-38%,+3%,+58%,-24%,-33%,+10%,Tennessee
+62,Moore County,,,,,-52%,,Tennessee
+63,Morgan County,+7%,+3%,,,-21%,,Tennessee
+64,Obion County,-33%,+13%,,,-28%,+6%,Tennessee
+65,Overton County,-23%,+0%,,,-25%,,Tennessee
+66,Perry County,-59%,,,,-50%,,Tennessee
+67,Polk County,-41%,+2%,,,-31%,,Tennessee
+68,Putnam County,-44%,-10%,,-29%,-28%,+7%,Tennessee
+69,Rhea County,-19%,+8%,,,-28%,+11%,Tennessee
+70,Roane County,-25%,+10%,-24%,,-27%,+17%,Tennessee
+71,Robertson County,-22%,+16%,,-27%,-34%,+21%,Tennessee
+72,Rutherford County,-40%,-2%,+72%,-21%,-34%,+11%,Tennessee
+73,Scott County,-28%,+9%,,,-19%,,Tennessee
+74,Sequatchie County,-35%,+7%,,,-25%,,Tennessee
+75,Sevier County,-72%,-27%,-70%,,-57%,+13%,Tennessee
+76,Shelby County,-38%,+4%,-45%,-20%,-29%,+11%,Tennessee
+77,Smith County,-30%,+22%,,-26%,-18%,,Tennessee
+78,Stewart County,-23%,+15%,,,-49%,,Tennessee
+79,Sullivan County,-37%,+2%,+41%,-41%,-28%,+8%,Tennessee
+80,Sumner County,-40%,+1%,+91%,,-35%,+11%,Tennessee
+81,Tipton County,-23%,+22%,,,-21%,+20%,Tennessee
+82,Trousdale County,-37%,+11%,,,-52%,,Tennessee
+83,Unicoi County,-25%,+16%,,,-28%,,Tennessee
+84,Union County,+9%,+0%,,,-25%,,Tennessee
+85,Van Buren County,,,,,-58%,,Tennessee
+86,Warren County,-18%,+21%,,,-24%,+14%,Tennessee
+87,Washington County,-50%,-5%,+38%,-23%,-33%,+9%,Tennessee
+88,Wayne County,-29%,+16%,,,-50%,,Tennessee
+89,Weakley County,-40%,+2%,,,-28%,+7%,Tennessee
+90,White County,-33%,+19%,,,-19%,-1%,Tennessee
+91,Williamson County,-51%,-8%,+47%,-39%,-37%,+13%,Tennessee
+0,Anderson County,-35%,-2%,,,-24%,+16%,Texas
+1,Andrews County,-45%,-40%,,-13%,-36%,,Texas
+2,Angelina County,-46%,-4%,-20%,-38%,-29%,+13%,Texas
+3,Aransas County,-45%,-31%,-57%,,-27%,+10%,Texas
+4,Archer County,,,,,-42%,,Texas
+5,Atascosa County,-22%,-4%,,-50%,-25%,+22%,Texas
+6,Austin County,-33%,-22%,,,-29%,+1%,Texas
+7,Bailey County,-24%,-8%,,,-35%,,Texas
+8,Bandera County,-45%,-5%,-71%,,-30%,,Texas
+9,Bastrop County,-37%,-21%,-66%,,-36%,+16%,Texas
+10,Bee County,-31%,-8%,,,-26%,-1%,Texas
+11,Bell County,-37%,-18%,-25%,-43%,-34%,+13%,Texas
+12,Bexar County,-45%,-10%,-73%,-43%,-41%,+16%,Texas
+13,Blanco County,-67%,-20%,-71%,,-35%,,Texas
+14,Bosque County,-37%,-7%,,,-16%,,Texas
+15,Bowie County,-47%,-12%,-29%,-39%,-30%,+13%,Texas
+16,Brazoria County,-36%,-8%,-23%,-28%,-32%,+15%,Texas
+17,Brazos County,-47%,-21%,-30%,-64%,-35%,+15%,Texas
+18,Brewster County,-52%,-43%,,,-50%,,Texas
+19,Brooks County,-55%,-9%,,-55%,-44%,,Texas
+20,Brown County,-37%,-6%,,,-23%,+16%,Texas
+21,Burleson County,-34%,-10%,,,-29%,,Texas
+22,Burnet County,-36%,-14%,-62%,,-32%,+17%,Texas
+23,Caldwell County,-36%,-31%,,-32%,-33%,+23%,Texas
+24,Calhoun County,-39%,-17%,-38%,,-20%,,Texas
+25,Callahan County,-30%,-15%,,-33%,-20%,,Texas
+26,Cameron County,-62%,-35%,-74%,-71%,-42%,+22%,Texas
+27,Camp County,-32%,-9%,,,-35%,,Texas
+28,Carson County,,-24%,,-23%,-52%,,Texas
+29,Cass County,-36%,-3%,,-28%,-26%,+6%,Texas
+30,Castro County,,-20%,,,-31%,,Texas
+31,Chambers County,-43%,-2%,-55%,-56%,-35%,+20%,Texas
+32,Cherokee County,-21%,+1%,,,-29%,+17%,Texas
+33,Childress County,-36%,-20%,,-26%,-41%,,Texas
+34,Clay County,-51%,,,-35%,-38%,,Texas
+35,Coke County,,-30%,,,,,Texas
+36,Coleman County,-48%,-19%,,,-35%,,Texas
+37,Collin County,-52%,-27%,-44%,-40%,-44%,+19%,Texas
+38,Colorado County,-44%,-11%,,-49%,-15%,,Texas
+39,Comal County,-49%,-22%,-70%,-33%,-38%,+16%,Texas
+40,Comanche County,-28%,-29%,,,-40%,,Texas
+41,Cooke County,-42%,+0%,-38%,-47%,-31%,+15%,Texas
+42,Coryell County,-32%,+0%,-14%,,-32%,+13%,Texas
+43,Crane County,-63%,-20%,,,-53%,,Texas
+44,Crockett County,-50%,-24%,,,,,Texas
+45,Crosby County,,-24%,,,-52%,,Texas
+46,Culberson County,-54%,,,-43%,,,Texas
+47,Dallam County,-38%,-21%,,,-28%,,Texas
+48,Dallas County,-47%,-14%,-56%,-48%,-42%,+18%,Texas
+49,Dawson County,-35%,-9%,,,-36%,,Texas
+50,DeWitt County,-38%,-27%,,,-25%,,Texas
+51,Deaf Smith County,-26%,-14%,,-41%,-39%,,Texas
+52,Delta County,,,,,-42%,,Texas
+53,Denton County,-48%,-22%,-40%,-45%,-43%,+19%,Texas
+54,Dimmit County,-31%,-24%,,-38%,-49%,,Texas
+55,Donley County,,,,-4%,,,Texas
+56,Duval County,-46%,-30%,,,-53%,,Texas
+57,Eastland County,-42%,-12%,,-38%,-14%,,Texas
+58,Ector County,-44%,-9%,,-23%,-33%,+16%,Texas
+59,El Paso County,-51%,-14%,-78%,-45%,-42%,+19%,Texas
+60,Ellis County,-39%,-3%,-42%,-43%,-36%,+17%,Texas
+61,Erath County,-43%,-34%,,,-24%,+10%,Texas
+62,Falls County,-16%,-10%,,,-20%,,Texas
+63,Fannin County,-23%,-2%,,,-23%,+11%,Texas
+64,Fayette County,-52%,-24%,,-45%,-29%,,Texas
+65,Floyd County,,,,,-38%,,Texas
+66,Fort Bend County,-46%,-13%,-27%,-34%,-40%,+18%,Texas
+67,Franklin County,-43%,-2%,,-40%,-41%,,Texas
+68,Freestone County,-54%,-13%,,-51%,-22%,,Texas
+69,Frio County,-25%,-30%,,-52%,-22%,,Texas
+70,Gaines County,-33%,-8%,,,-17%,,Texas
+71,Galveston County,-43%,-2%,-53%,-54%,-37%,+15%,Texas
+72,Garza County,-40%,-28%,,,,,Texas
+73,Gillespie County,-63%,-32%,-78%,,-37%,,Texas
+74,Goliad County,-54%,-54%,,,-43%,,Texas
+75,Gonzales County,-32%,-24%,-50%,,-23%,,Texas
+76,Gray County,-47%,-27%,,,-32%,,Texas
+77,Grayson County,-43%,-11%,-35%,,-33%,+15%,Texas
+78,Gregg County,-46%,-11%,-30%,,-32%,+14%,Texas
+79,Grimes County,-28%,-5%,,,-29%,+0%,Texas
+80,Guadalupe County,-40%,-12%,-42%,-47%,-38%,+16%,Texas
+81,Hale County,-23%,+12%,,,-25%,+11%,Texas
+82,Hall County,,,,-20%,,,Texas
+83,Hamilton County,-54%,-35%,,,-37%,,Texas
+84,Hardeman County,,-24%,,-21%,,,Texas
+85,Hardin County,-30%,+5%,,,-31%,+23%,Texas
+86,Harris County,-44%,-13%,-62%,-56%,-40%,+17%,Texas
+87,Harrison County,-35%,+8%,-46%,,-38%,+20%,Texas
+88,Hartley County,,+6%,,,,,Texas
+89,Haskell County,-44%,-34%,,,,,Texas
+90,Hays County,-48%,-15%,-44%,-31%,-37%,+17%,Texas
+91,Henderson County,-33%,+7%,-29%,,-28%,+13%,Texas
+92,Hidalgo County,-57%,-30%,-73%,-61%,-40%,+21%,Texas
+93,Hill County,-38%,-8%,-42%,-46%,-27%,+14%,Texas
+94,Hockley County,-33%,-22%,,,-21%,-3%,Texas
+95,Hood County,-40%,+32%,-60%,,-29%,+17%,Texas
+96,Hopkins County,-36%,+0%,,-41%,-21%,+12%,Texas
+97,Houston County,-30%,+4%,,,-19%,,Texas
+98,Howard County,-34%,-17%,,-44%,-35%,+15%,Texas
+99,Hunt County,-36%,-12%,-36%,-35%,-31%,+14%,Texas
+100,Hutchinson County,-31%,-17%,,,-19%,,Texas
+101,Jack County,-67%,,,,-43%,,Texas
+102,Jackson County,-35%,-16%,,-51%,-23%,,Texas
+103,Jasper County,-24%,+0%,+15%,,-21%,+6%,Texas
+104,Jefferson County,-45%,-5%,-20%,-39%,-33%,+15%,Texas
+105,Jim Hogg County,,-47%,,,,,Texas
+106,Jim Wells County,-28%,-1%,,,-31%,+15%,Texas
+107,Johnson County,-35%,-12%,-28%,,-34%,+15%,Texas
+108,Jones County,-33%,-11%,,,-20%,,Texas
+109,Karnes County,-23%,-22%,,-51%,-14%,,Texas
+110,Kaufman County,-40%,-14%,-49%,-34%,-34%,+17%,Texas
+111,Kendall County,-45%,-19%,-56%,-43%,-38%,+14%,Texas
+112,Kerr County,-39%,-14%,-45%,,-28%,+18%,Texas
+113,Kimble County,-51%,,,-30%,,,Texas
+114,Kleberg County,-40%,-27%,-73%,-45%,-31%,+16%,Texas
+115,La Salle County,-65%,-26%,,-58%,,,Texas
+116,Lamar County,-38%,-8%,,-43%,-22%,+16%,Texas
+117,Lamb County,-19%,-11%,,,-22%,,Texas
+118,Lampasas County,-42%,-31%,,,-30%,,Texas
+119,Lavaca County,-35%,-16%,,,-26%,,Texas
+120,Lee County,-42%,-41%,,,-27%,,Texas
+121,Leon County,-71%,-40%,-33%,-47%,-17%,,Texas
+122,Liberty County,-27%,+10%,,-27%,-33%,+14%,Texas
+123,Limestone County,-36%,-23%,,,-25%,,Texas
+124,Live Oak County,-73%,-36%,,-59%,-34%,,Texas
+125,Llano County,-38%,-24%,-24%,,-28%,,Texas
+126,Loving County,,-49%,,,,,Texas
+127,Lubbock County,-41%,-3%,+34%,-31%,-33%,+12%,Texas
+128,Lynn County,,,,,-49%,,Texas
+129,Madison County,-43%,-59%,,,-24%,,Texas
+130,Marion County,-45%,-4%,,,-39%,,Texas
+131,Martin County,-33%,-14%,,,-50%,,Texas
+132,Matagorda County,-35%,-10%,-57%,,-21%,+14%,Texas
+133,Maverick County,-57%,-33%,-90%,-75%,-34%,+27%,Texas
+134,McCulloch County,-37%,-22%,,,-39%,,Texas
+135,McLennan County,-46%,-14%,-31%,-42%,-36%,+14%,Texas
+136,McMullen County,,,,-65%,,,Texas
+137,Medina County,-21%,+5%,-59%,-42%,-33%,+23%,Texas
+138,Midland County,-50%,-15%,-43%,-36%,-32%,+16%,Texas
+139,Milam County,-39%,-20%,,,-31%,,Texas
+140,Mitchell County,-50%,-23%,-70%,,-33%,,Texas
+141,Montague County,-18%,-33%,,,-24%,,Texas
+142,Montgomery County,-44%,-7%,-33%,-41%,-38%,+15%,Texas
+143,Moore County,-33%,-17%,,-29%,+12%,-1%,Texas
+144,Morris County,-32%,-10%,,,-20%,,Texas
+145,Nacogdoches County,-42%,-12%,-3%,-45%,-30%,+22%,Texas
+146,Navarro County,-49%,+27%,-36%,-58%,-34%,+19%,Texas
+147,Newton County,,-2%,,,-53%,,Texas
+148,Nolan County,-35%,-12%,,-37%,-20%,,Texas
+149,Nueces County,-43%,-9%,-37%,-42%,-36%,+14%,Texas
+150,Ochiltree County,-41%,-14%,,,-33%,,Texas
+151,Oldham County,,,,-13%,,,Texas
+152,Orange County,-23%,+6%,-52%,-38%,-30%,+14%,Texas
+153,Palo Pinto County,-25%,-3%,,-50%,-29%,+8%,Texas
+154,Panola County,-38%,-19%,,-53%,-29%,,Texas
+155,Parker County,-39%,-6%,-41%,-42%,-34%,+14%,Texas
+156,Parmer County,,-4%,,,-21%,,Texas
+157,Pecos County,-39%,-28%,,-30%,-31%,,Texas
+158,Polk County,-27%,+2%,-24%,-43%,-29%,+15%,Texas
+159,Potter County,-45%,-3%,-4%,-25%,-27%,+11%,Texas
+160,Presidio County,-52%,-42%,,,-60%,,Texas
+161,Rains County,-53%,-25%,,,-22%,,Texas
+162,Randall County,-36%,-4%,-37%,-25%,-30%,+11%,Texas
+163,Reagan County,,-22%,,-46%,,,Texas
+164,Real County,,-38%,,,,,Texas
+165,Red River County,-54%,+4%,,,-37%,,Texas
+166,Reeves County,-45%,-26%,,-35%,-17%,,Texas
+167,Refugio County,-69%,-44%,,-57%,-44%,,Texas
+168,Robertson County,-52%,-25%,,-47%,-10%,,Texas
+169,Rockwall County,-46%,-10%,,-40%,-38%,+26%,Texas
+170,Runnels County,-25%,-17%,,,-37%,,Texas
+171,Rusk County,-24%,+6%,,,-20%,+19%,Texas
+172,Sabine County,-35%,-2%,,,-40%,,Texas
+173,San Augustine County,-64%,-14%,,,-48%,,Texas
+174,San Jacinto County,-51%,+3%,-40%,,-27%,+5%,Texas
+175,San Patricio County,-32%,-13%,-44%,-32%,-27%,+13%,Texas
+176,San Saba County,-32%,,,,,,Texas
+177,Scurry County,-26%,-20%,,,-26%,,Texas
+178,Shelby County,-46%,-19%,,,-21%,,Texas
+179,Sherman County,,,,-25%,,,Texas
+180,Smith County,-46%,-12%,-45%,-37%,-31%,+14%,Texas
+181,Somervell County,-59%,-22%,,,-48%,,Texas
+182,Starr County,-42%,-20%,-68%,,-26%,+28%,Texas
+183,Stephens County,-34%,,,,-39%,,Texas
+184,Sutton County,-66%,-27%,,,,,Texas
+185,Swisher County,,-2%,,,-38%,,Texas
+186,Tarrant County,-48%,-9%,-40%,-72%,-39%,+17%,Texas
+187,Taylor County,-42%,-10%,-35%,-19%,-31%,+13%,Texas
+188,Terry County,-30%,-27%,,,-14%,,Texas
+189,Titus County,-37%,+6%,,,-21%,+13%,Texas
+190,Tom Green County,-51%,-13%,-50%,,-33%,+14%,Texas
+191,Travis County,-56%,-24%,-63%,-69%,-44%,+19%,Texas
+192,Trinity County,-56%,-10%,,,-30%,,Texas
+193,Tyler County,-32%,+5%,,,-21%,,Texas
+194,Upshur County,-25%,+4%,,,-32%,+14%,Texas
+195,Upton County,,-25%,,,-49%,,Texas
+196,Uvalde County,-35%,-23%,-63%,,-25%,,Texas
+197,Val Verde County,-48%,-21%,-35%,,-27%,+24%,Texas
+198,Van Zandt County,-44%,-13%,-29%,-44%,-28%,+17%,Texas
+199,Victoria County,-47%,-18%,-63%,-40%,-33%,+15%,Texas
+200,Walker County,-43%,-7%,-39%,-42%,-32%,+15%,Texas
+201,Waller County,-48%,-5%,,-36%,-32%,+26%,Texas
+202,Ward County,-33%,-29%,,+22%,-24%,,Texas
+203,Washington County,-34%,-14%,,,-28%,-2%,Texas
+204,Webb County,-55%,-30%,-78%,-43%,-37%,+20%,Texas
+205,Wharton County,-27%,-29%,,-44%,-25%,+15%,Texas
+206,Wheeler County,-41%,,,,,,Texas
+207,Wichita County,-44%,-9%,-17%,-33%,-34%,+14%,Texas
+208,Wilbarger County,-23%,-15%,,-40%,-16%,,Texas
+209,Willacy County,-58%,-38%,,,-26%,,Texas
+210,Williamson County,-51%,-21%,-52%,-53%,-42%,+18%,Texas
+211,Wilson County,-30%,-42%,-40%,,-32%,+24%,Texas
+212,Winkler County,-30%,-32%,,+0%,-20%,,Texas
+213,Wise County,-35%,-10%,-37%,-40%,-26%,+17%,Texas
+214,Wood County,-33%,-1%,,,-28%,+17%,Texas
+215,Yoakum County,-34%,-12%,,,-51%,,Texas
+216,Young County,-60%,+43%,,,-34%,,Texas
+217,Zapata County,-55%,-30%,,,-49%,,Texas
+0,Beaver County,-63%,,,-24%,-32%,,Utah
+1,Box Elder County,-23%,-7%,+13%,-17%,-22%,+16%,Utah
+2,Cache County,-36%,+9%,+47%,+8%,-30%,+11%,Utah
+3,Carbon County,-26%,-13%,,,-24%,,Utah
+4,Davis County,-39%,+2%,+24%,-18%,-33%,+12%,Utah
+5,Duchesne County,-25%,+12%,,,-22%,,Utah
+6,Emery County,-55%,+2%,,,-45%,,Utah
+7,Garfield County,,,-4%,,,,Utah
+8,Grand County,-54%,-2%,-20%,,-29%,,Utah
+9,Iron County,-36%,-13%,,-22%,-32%,+15%,Utah
+10,Juab County,-25%,-15%,,-29%,-28%,,Utah
+11,Kane County,-31%,-15%,-10%,,-39%,,Utah
+12,Millard County,-16%,+67%,,,-2%,,Utah
+13,Morgan County,-68%,-2%,,,-52%,,Utah
+14,Salt Lake County,-48%,-7%,+14%,-60%,-35%,+13%,Utah
+15,San Juan County,-35%,+34%,-30%,,-50%,,Utah
+16,Sanpete County,-9%,-7%,,,-16%,,Utah
+17,Sevier County,-23%,+2%,,+12%,-14%,,Utah
+18,Summit County,-80%,-59%,-48%,-65%,-70%,+6%,Utah
+19,Tooele County,-18%,+31%,,-13%,-32%,+16%,Utah
+20,Uintah County,-31%,+1%,+0%,,-35%,+5%,Utah
+21,Utah County,-40%,-4%,+94%,-3%,-37%,+12%,Utah
+22,Wasatch County,-49%,-32%,+20%,,-54%,+4%,Utah
+23,Washington County,-38%,-3%,-9%,-22%,-31%,+9%,Utah
+0,Addison County,-46%,-32%,,,-32%,+6%,Vermont
+1,Bennington County,-55%,-24%,-35%,,-46%,+8%,Vermont
+2,Caledonia County,-57%,-29%,,,-32%,+2%,Vermont
+3,Chittenden County,-57%,-39%,+1%,-63%,-48%,+17%,Vermont
+4,Essex County,,,,,-42%,,Vermont
+5,Franklin County,-44%,-25%,,,-36%,+21%,Vermont
+6,Grand Isle County,,,,-63%,-57%,,Vermont
+7,Lamoille County,-76%,-35%,,-40%,-63%,,Vermont
+8,Orange County,-70%,-14%,,-68%,-28%,+1%,Vermont
+9,Orleans County,-58%,-15%,-46%,,-37%,+0%,Vermont
+10,Rutland County,-50%,-10%,,-76%,-47%,+23%,Vermont
+11,Washington County,-56%,-21%,,-47%,-43%,+23%,Vermont
+12,Windham County,-65%,-27%,-36%,,-50%,+15%,Vermont
+0,Accomack County,-24%,-4%,,,-19%,+14%,Virginia
+1,Albemarle County,-48%,-18%,-2%,-61%,-39%,+25%,Virginia
+2,Alexandria,-58%,-16%,+9%,-62%,-46%,+18%,Virginia
+3,Alleghany County,-17%,,,-22%,-25%,,Virginia
+4,Amelia County,-60%,-21%,,,-43%,,Virginia
+5,Amherst County,-2%,-2%,,,-23%,+8%,Virginia
+6,Appomattox County,-21%,+12%,,,-20%,,Virginia
+7,Arlington County,-67%,-23%,-21%,-81%,-51%,+19%,Virginia
+8,Augusta County,-38%,-6%,-22%,+13%,-27%,+20%,Virginia
+9,Bath County,,,-73%,,,,Virginia
+10,Bedford County,-28%,+3%,,,-26%,+20%,Virginia
+11,Bland County,,,,-32%,-49%,,Virginia
+12,Botetourt County,-58%,-18%,,-31%,-34%,+14%,Virginia
+13,Sat Apr 11,-65%,-13%,,,-33%,,Virginia
+14,Brunswick County,-42%,,,-57%,-20%,,Virginia
+15,Buchanan County,-26%,+0%,,,-43%,,Virginia
+16,Buckingham County,-16%,-12%,,,-42%,,Virginia
+17,Buena Vista,-40%,-14%,,,-53%,,Virginia
+18,Campbell County,-26%,+3%,,,-32%,+18%,Virginia
+19,Caroline County,-47%,-21%,-68%,-36%,-23%,+18%,Virginia
+20,Carroll County,-19%,+7%,,-29%,-23%,+4%,Virginia
+21,Charles City County,,,,,-41%,,Virginia
+22,Charlotte County,-7%,+17%,,,-38%,,Virginia
+23,Charlottesville,-68%,-24%,-22%,-49%,-51%,+15%,Virginia
+24,Chesapeake,-35%,-15%,+35%,-6%,-34%,+12%,Virginia
+25,Chesterfield County,-38%,-16%,+34%,-37%,-33%,+13%,Virginia
+26,Clarke County,-45%,-21%,,,-48%,,Virginia
+27,Colonial Heights,-44%,-17%,,,-28%,,Virginia
+28,Covington,-40%,-9%,,,-42%,,Virginia
+29,Craig County,,,,,-43%,,Virginia
+30,Culpeper County,-26%,-6%,,,-28%,+19%,Virginia
+31,Cumberland County,-62%,,,,-38%,,Virginia
+32,Danville,-38%,+2%,,-28%,-28%,+15%,Virginia
+33,Dickenson County,-23%,-16%,,,-46%,,Virginia
+34,Dinwiddie County,+34%,-26%,,-46%,-17%,+14%,Virginia
+35,Essex County,-25%,-8%,,,-16%,,Virginia
+36,Fairfax County,-51%,-21%,+14%,-50%,-47%,+19%,Virginia
+37,Falls Church,-67%,-47%,,,-76%,,Virginia
+38,Fauquier County,-29%,-27%,,,-25%,+24%,Virginia
+39,Floyd County,-37%,+6%,,,-47%,,Virginia
+40,Fluvanna County,-79%,-34%,,,-29%,-1%,Virginia
+41,Franklin County,-24%,+2%,,,-29%,+18%,Virginia
+42,Frederick County,-35%,-12%,-13%,-29%,-29%,+12%,Virginia
+43,Fredericksburg,-50%,-24%,+10%,-64%,-38%,+0%,Virginia
+44,Giles County,-26%,+16%,,,-15%,,Virginia
+45,Gloucester County,-24%,-8%,,,-22%,+18%,Virginia
+46,Goochland County,-44%,-23%,,,-23%,,Virginia
+47,Grayson County,,,,,-39%,,Virginia
+48,Greene County,-18%,-18%,,,-29%,,Virginia
+49,Greensville County,,,,-42%,-37%,,Virginia
+50,Halifax County,-20%,-7%,,,-24%,+12%,Virginia
+51,Hampton,-36%,+6%,+49%,-5%,-34%,+12%,Virginia
+52,Hanover County,-34%,-14%,,-30%,-31%,+23%,Virginia
+53,Harrisonburg,-52%,-26%,,-31%,-46%,+22%,Virginia
+54,Henrico County,-44%,-16%,+36%,-69%,-38%,+13%,Virginia
+55,Henry County,-20%,+3%,,,-26%,+17%,Virginia
+56,Hopewell,-19%,+0%,,,-28%,+11%,Virginia
+57,Isle of Wight County,-25%,+9%,,,-24%,+20%,Virginia
+58,James City County,-59%,+1%,-2%,,-43%,+22%,Virginia
+59,King George County,-38%,-18%,,-33%,-30%,+0%,Virginia
+60,King William County,-24%,+3%,,,-22%,,Virginia
+61,King and Queen County,,,,,-37%,,Virginia
+62,Lancaster County,-23%,+6%,,,-29%,,Virginia
+63,Lee County,-34%,+10%,,,-16%,,Virginia
+64,Lexington,-55%,-21%,,,,,Virginia
+65,Loudoun County,-49%,-13%,-16%,-82%,-44%,+17%,Virginia
+66,Louisa County,-16%,-6%,,,-25%,+18%,Virginia
+67,Lunenburg County,,-4%,,,-36%,,Virginia
+68,Lynchburg,-46%,-9%,,+9%,-39%,+19%,Virginia
+69,Madison County,-48%,-27%,,,-44%,,Virginia
+70,Manassas,-35%,-2%,,-56%,-35%,+25%,Virginia
+71,Manassas Park,-60%,-11%,,,-39%,,Virginia
+72,Martinsville,-38%,+8%,,,-22%,,Virginia
+73,Mathews County,-62%,+2%,,,-38%,,Virginia
+74,Mecklenburg County,-22%,+4%,+4%,-38%,-20%,+5%,Virginia
+75,Middlesex County,-43%,+1%,,,-36%,,Virginia
+76,Montgomery County,-52%,-3%,,-27%,-40%,+26%,Virginia
+77,Nelson County,-53%,-3%,,,-35%,,Virginia
+78,New Kent County,-38%,-10%,,-36%,-31%,,Virginia
+79,Newport News,-39%,-5%,+49%,-26%,-34%,+11%,Virginia
+80,Norfolk,-42%,-2%,+5%,-52%,-35%,+11%,Virginia
+81,Northampton County,-32%,-33%,,,-14%,,Virginia
+82,Northumberland County,-13%,-17%,,,-29%,,Virginia
+83,Nottoway County,-30%,+40%,,,-16%,,Virginia
+84,Orange County,-21%,+4%,,,-25%,+11%,Virginia
+85,Page County,-29%,-2%,-29%,,-33%,,Virginia
+86,Patrick County,-20%,+19%,,,-26%,,Virginia
+87,Petersburg,-25%,-3%,,-8%,-24%,+18%,Virginia
+88,Pittsylvania County,-14%,+10%,,,-21%,+17%,Virginia
+89,Poquoson,-16%,-7%,,,-54%,,Virginia
+90,Portsmouth,-17%,-4%,+12%,+9%,-30%,+10%,Virginia
+91,Powhatan County,-35%,-32%,,,-34%,+8%,Virginia
+92,Prince Edward County,-34%,-17%,,,-31%,,Virginia
+93,Prince George County,-25%,-8%,,-28%,-23%,+20%,Virginia
+94,Prince William County,-44%,-18%,+35%,-40%,-39%,+16%,Virginia
+95,Pulaski County,-16%,+1%,,,-32%,+15%,Virginia
+96,Rappahannock County,,,,,-37%,,Virginia
+97,Richmond,-53%,-7%,+34%,-31%,-39%,+12%,Virginia
+98,Richmond County,-25%,-25%,,,-33%,,Virginia
+99,Roanoke,-45%,-5%,+6%,-32%,-33%,+10%,Virginia
+100,Roanoke County,-30%,-7%,,,-35%,+11%,Virginia
+101,Rockbridge County,-32%,,,-31%,-28%,,Virginia
+102,Rockingham County,-33%,-9%,+25%,-44%,-31%,+11%,Virginia
+103,Russell County,-37%,-22%,,,-19%,,Virginia
+104,-80%,-33%,+1%,-16%,+10%,-29%,+11%,Virginia
+105,Scott County,-24%,-9%,,,-26%,,Virginia
+106,Shenandoah County,-29%,-5%,,-36%,-37%,+20%,Virginia
+107,Smyth County,-30%,+4%,,-14%,-15%,+4%,Virginia
+108,Southampton County,-44%,-1%,,,-15%,,Virginia
+109,Spotsylvania County,-41%,-7%,,,-33%,+12%,Virginia
+110,Stafford County,-26%,-18%,+54%,,-35%,+14%,Virginia
+111,Staunton,-31%,-15%,,,-30%,+0%,Virginia
+112,Surry County,,,,,-46%,,Virginia
+113,Sussex County,-47%,+22%,,-52%,-32%,,Virginia
+114,Tazewell County,-14%,-8%,,,-18%,+11%,Virginia
+115,Virginia Beach,-40%,-11%,+5%,-29%,-37%,+13%,Virginia
+116,Warren County,-24%,-11%,,,-30%,+21%,Virginia
+117,Washington County,-49%,-9%,,-33%,-24%,+18%,Virginia
+118,Waynesboro,-34%,-24%,,,-28%,-1%,Virginia
+119,Westmoreland County,-41%,+6%,,,-26%,,Virginia
+120,Williamsburg,-72%,-38%,,,-47%,,Virginia
+121,Winchester,-52%,-22%,-67%,,-36%,+9%,Virginia
+122,Wise County,-28%,-17%,,,-27%,+6%,Virginia
+123,Wythe County,-43%,-5%,,-24%,-23%,-2%,Virginia
+0,Adams County,-38%,+19%,,-17%,-31%,,Washington
+1,Asotin County,-24%,,,,-29%,+7%,Washington
+2,Benton County,-46%,-7%,+24%,-20%,-36%,+11%,Washington
+3,Chelan County,-48%,-13%,-21%,-23%,-45%,+18%,Washington
+4,Clallam County,-37%,-13%,+3%,-8%,-34%,+16%,Washington
+5,Clark County,-40%,-14%,+53%,-31%,-38%,+13%,Washington
+6,Cowlitz County,-31%,+6%,+28%,-32%,-32%,+10%,Washington
+7,Douglas County,-54%,+9%,,-37%,-39%,+17%,Washington
+8,Ferry County,,,,,-38%,,Washington
+9,Franklin County,-32%,-1%,-16%,-44%,-34%,+11%,Washington
+10,Grant County,-32%,+8%,-1%,-44%,-28%,+9%,Washington
+11,Grays Harbor County,-37%,-3%,-9%,-20%,-39%,+10%,Washington
+12,Island County,-34%,-16%,+9%,-45%,-40%,+20%,Washington
+13,Jefferson County,-58%,-33%,-8%,-44%,-38%,+2%,Washington
+14,King County,-59%,-19%,-5%,-63%,-48%,+17%,Washington
+15,Kitsap County,-43%,-8%,-10%,-60%,-39%,+13%,Washington
+16,Kittitas County,-48%,-7%,-26%,-13%,-47%,+18%,Washington
+17,Klickitat County,-50%,-2%,,,-34%,,Washington
+18,Lewis County,-42%,+0%,-11%,-22%,-30%,+11%,Washington
+19,Lincoln County,,,,,-45%,,Washington
+20,Mason County,-16%,-7%,+15%,,-33%,+17%,Washington
+21,Okanogan County,-29%,+7%,,,-36%,+9%,Washington
+22,Pacific County,-41%,-14%,-26%,,-33%,,Washington
+23,Pend Oreille County,-57%,-1%,,,-38%,,Washington
+24,Pierce County,-46%,-5%,-2%,-24%,-39%,+13%,Washington
+25,San Juan County,-82%,-42%,,-57%,-39%,,Washington
+26,Skagit County,-42%,-5%,+28%,-27%,-41%,+13%,Washington
+27,Skamania County,-65%,,-38%,,-45%,,Washington
+28,Snohomish County,-46%,-15%,+18%,-40%,-44%,+15%,Washington
+29,Spokane County,-40%,+1%,+25%,-38%,-36%,+11%,Washington
+30,Stevens County,-26%,+1%,+18%,,-28%,+13%,Washington
+31,Thurston County,-45%,-7%,-17%,-29%,-39%,+13%,Washington
+32,Walla Walla County,-39%,-7%,,-35%,-39%,+16%,Washington
+33,Whatcom County,-52%,-20%,-9%,-62%,-43%,+14%,Washington
+34,Whitman County,-45%,-24%,,,-35%,+21%,Washington
+0,Barbour County,-49%,-1%,,,-20%,,West Virginia
+1,Berkeley County,-34%,-6%,-18%,-63%,-32%,+11%,West Virginia
+2,Boone County,-40%,+8%,,,-28%,,West Virginia
+3,Braxton County,-41%,,,-45%,-47%,,West Virginia
+4,Brooke County,-35%,-4%,,,-32%,,West Virginia
+5,Cabell County,-50%,-7%,,-45%,-37%,+10%,West Virginia
+6,Fayette County,-32%,+3%,,,-30%,+7%,West Virginia
+7,Grant County,-46%,+4%,,,-43%,,West Virginia
+8,Greenbrier County,-47%,-14%,,,-40%,+0%,West Virginia
+9,Hampshire County,-38%,+0%,,,-28%,,West Virginia
+10,Hancock County,-39%,-27%,,,-40%,+10%,West Virginia
+11,Hardy County,-53%,-14%,,,-38%,,West Virginia
+12,Harrison County,-45%,-6%,-43%,-62%,-30%,+20%,West Virginia
+13,Jackson County,-29%,-18%,,-40%,-21%,,West Virginia
+14,Jefferson County,-33%,-30%,-6%,,-42%,+23%,West Virginia
+15,Kanawha County,-43%,-2%,-38%,-43%,-33%,+11%,West Virginia
+16,Lewis County,-39%,-18%,,-55%,-36%,,West Virginia
+17,Lincoln County,,,,,-44%,,West Virginia
+18,Logan County,-34%,+2%,,,-27%,,West Virginia
+19,Marion County,-37%,+4%,,,-27%,+21%,West Virginia
+20,Marshall County,-35%,-20%,,,-30%,+1%,West Virginia
+21,Mason County,-39%,+11%,,,-24%,,West Virginia
+22,McDowell County,,+13%,,,-33%,,West Virginia
+23,Mercer County,-36%,+3%,-42%,-45%,-26%,+19%,West Virginia
+24,Mineral County,-40%,-4%,,,-19%,-2%,West Virginia
+25,Mingo County,-63%,,,,-49%,,West Virginia
+26,Monongalia County,-52%,-19%,-14%,-47%,-39%,+26%,West Virginia
+27,Monroe County,,,,,-47%,,West Virginia
+28,Morgan County,-32%,-7%,,,-33%,,West Virginia
+29,Nicholas County,-37%,+7%,,,-32%,,West Virginia
+30,Ohio County,-54%,+14%,-36%,-23%,-37%,+15%,West Virginia
+31,Pleasants County,-50%,,,,-57%,,West Virginia
+32,Pocahontas County,-74%,,-33%,,-61%,,West Virginia
+33,Preston County,-38%,-16%,,,-25%,,West Virginia
+34,Putnam County,-35%,-6%,,-25%,-35%,+18%,West Virginia
+35,Raleigh County,-39%,-12%,,-40%,-28%,+18%,West Virginia
+36,Randolph County,-33%,-1%,,,-16%,,West Virginia
+37,Ritchie County,-26%,,,,-52%,,West Virginia
+38,Roane County,-8%,,,,-44%,,West Virginia
+39,Summers County,+14%,,,,-46%,,West Virginia
+40,Taylor County,-18%,+2%,,,-19%,,West Virginia
+41,Tucker County,,-14%,,,-37%,,West Virginia
+42,Tyler County,,,,,-40%,,West Virginia
+43,Upshur County,-26%,-19%,,,-23%,,West Virginia
+44,Wayne County,-3%,-6%,,,-30%,+0%,West Virginia
+45,Webster County,,,,,-49%,,West Virginia
+46,Wetzel County,-42%,-8%,,,-22%,,West Virginia
+47,Wirt County,,,,,-53%,,West Virginia
+48,Wood County,-45%,-6%,-6%,,-26%,+10%,West Virginia
+0,Adams County,-43%,+1%,,,-37%,,Wisconsin
+1,Ashland County,-38%,-15%,,,-24%,,Wisconsin
+2,Barron County,-42%,-5%,,,-29%,+19%,Wisconsin
+3,Bayfield County,-70%,-28%,,,-48%,,Wisconsin
+4,Brown County,-50%,-1%,+106%,-71%,-36%,+13%,Wisconsin
+5,Buffalo County,-48%,-12%,,,-33%,,Wisconsin
+6,Burnett County,-35%,+0%,,,-37%,,Wisconsin
+7,Calumet County,-64%,+1%,+193%,,-36%,+27%,Wisconsin
+8,Chippewa County,-41%,+9%,,,-26%,+21%,Wisconsin
+9,Clark County,-56%,-7%,,,-18%,+17%,Wisconsin
+10,Columbia County,-49%,+1%,,-31%,-31%,+22%,Wisconsin
+11,Crawford County,-33%,+3%,,,-21%,,Wisconsin
+12,Dane County,-63%,-12%,+42%,-56%,-39%,+15%,Wisconsin
+13,Dodge County,-31%,+1%,-9%,,-28%,+11%,Wisconsin
+14,Door County,-48%,-19%,,,-29%,-2%,Wisconsin
+15,Douglas County,-41%,-8%,,,-32%,+22%,Wisconsin
+16,Dunn County,-38%,-6%,,-23%,-22%,+20%,Wisconsin
+17,Eau Claire County,-58%,-10%,+18%,-9%,-29%,+12%,Wisconsin
+18,Florence County,-73%,,,,,,Wisconsin
+19,Fond du Lac County,-44%,-9%,+72%,-19%,-27%,+11%,Wisconsin
+20,Forest County,-65%,,,,-49%,,Wisconsin
+21,Grant County,-39%,+12%,,,-25%,+20%,Wisconsin
+22,Green County,-45%,+15%,,,-28%,+23%,Wisconsin
+23,Green Lake County,-23%,-5%,,,-22%,,Wisconsin
+24,Iowa County,-39%,+3%,,,-31%,+2%,Wisconsin
+25,Iron County,-70%,,,,-42%,,Wisconsin
+26,Jackson County,-64%,+85%,,-23%,-29%,,Wisconsin
+27,Jefferson County,-42%,+13%,-11%,-46%,-29%,+11%,Wisconsin
+28,Juneau County,-53%,-1%,,-18%,-30%,+13%,Wisconsin
+29,Kenosha County,-49%,-6%,+41%,-41%,-32%,+12%,Wisconsin
+30,Kewaunee County,-51%,-9%,,,-29%,,Wisconsin
+31,La Crosse County,-53%,-10%,+72%,-8%,-36%,+14%,Wisconsin
+32,Lafayette County,-62%,+10%,,,-25%,,Wisconsin
+33,Langlade County,-35%,-13%,,,-26%,,Wisconsin
+34,Lincoln County,-56%,+18%,,,-28%,+13%,Wisconsin
+35,Manitowoc County,-42%,+3%,+81%,,-28%,+12%,Wisconsin
+36,Marathon County,-51%,-10%,+11%,,-32%,+11%,Wisconsin
+37,Marinette County,-43%,-13%,-15%,,-27%,+14%,Wisconsin
+38,Marquette County,-46%,+5%,,,-25%,,Wisconsin
+39,Milwaukee County,-47%,-1%,+49%,-41%,-36%,+13%,Wisconsin
+40,Monroe County,-37%,-11%,,-22%,-29%,+19%,Wisconsin
+41,Oconto County,-43%,+1%,-58%,,-20%,+16%,Wisconsin
+42,Oneida County,-51%,-22%,-22%,,-27%,+18%,Wisconsin
+43,Outagamie County,-58%,-7%,+80%,-43%,-35%,+13%,Wisconsin
+44,Ozaukee County,-50%,-10%,+131%,,-37%,+28%,Wisconsin
+45,Pepin County,-36%,,,,-33%,,Wisconsin
+46,Pierce County,-50%,+0%,,,-33%,+24%,Wisconsin
+47,Polk County,-33%,+10%,+86%,,-32%,+22%,Wisconsin
+48,Portage County,-48%,-5%,+29%,,-38%,+24%,Wisconsin
+49,Price County,-36%,-19%,,,-41%,,Wisconsin
+50,Racine County,-38%,+0%,+68%,-13%,-33%,+12%,Wisconsin
+51,Richland County,-35%,,,,-23%,,Wisconsin
+52,Rock County,-41%,+6%,+84%,-24%,-33%,+11%,Wisconsin
+53,Rusk County,-43%,-17%,,,-42%,,Wisconsin
+54,Sauk County,-58%,-1%,+1%,-36%,-45%,+23%,Wisconsin
+55,Sawyer County,-42%,-20%,,,-47%,,Wisconsin
+56,Shawano County,-44%,-2%,,,-33%,+19%,Wisconsin
+57,Sheboygan County,-42%,+8%,+85%,-4%,-31%,+14%,Wisconsin
+58,St. Croix County,-43%,-5%,-38%,-35%,-32%,+26%,Wisconsin
+59,Taylor County,-35%,+10%,,,-16%,,Wisconsin
+60,Trempealeau County,-54%,-3%,,,-24%,+16%,Wisconsin
+61,Vernon County,-50%,-14%,,,-19%,+4%,Wisconsin
+62,Vilas County,-78%,-26%,-46%,,-39%,,Wisconsin
+63,Walworth County,-35%,+12%,+54%,,-34%,+12%,Wisconsin
+64,Washburn County,-28%,-40%,,,-28%,,Wisconsin
+65,Washington County,-34%,+2%,+92%,-33%,-32%,+13%,Wisconsin
+66,Waukesha County,-48%,+4%,+89%,-5%,-35%,+14%,Wisconsin
+67,Waupaca County,-31%,+13%,-25%,,-24%,+21%,Wisconsin
+68,Waushara County,-41%,+7%,,,-25%,+4%,Wisconsin
+69,Winnebago County,-45%,-1%,+141%,-20%,-30%,+12%,Wisconsin
+0,Albany County,-40%,-20%,-4%,+8%,-32%,+16%,Wyoming
+1,Big Horn County,-37%,-7%,,,-34%,,Wyoming
+2,Campbell County,-40%,+8%,,-18%,-28%,+16%,Wyoming
+3,Carbon County,-36%,-23%,,-4%,-27%,,Wyoming
+4,Converse County,-42%,-9%,,-35%,-27%,,Wyoming
+5,Crook County,,,,,-29%,,Wyoming
+6,Fremont County,-32%,-8%,,,-31%,+13%,Wyoming
+7,Goshen County,-26%,-13%,,,-24%,,Wyoming
+8,Hot Springs County,-64%,-20%,-62%,,,,Wyoming
+9,Johnson County,-35%,-2%,,,-37%,,Wyoming
+10,Laramie County,-38%,-2%,+23%,-16%,-31%,+12%,Wyoming
+11,Lincoln County,-51%,-16%,,,-27%,,Wyoming
+12,Natrona County,-40%,+2%,+22%,-42%,-33%,+12%,Wyoming
+13,Park County,-50%,+12%,,,-25%,+5%,Wyoming
+14,Platte County,-21%,-11%,,-38%,-31%,,Wyoming
+15,Sheridan County,-51%,+5%,,,-34%,+12%,Wyoming
+16,Sublette County,-70%,-33%,,,-40%,,Wyoming
+17,Sweetwater County,-35%,+13%,,+15%,-27%,+15%,Wyoming
+18,Teton County,-85%,-53%,-63%,-83%,-66%,,Wyoming
+19,Uinta County,-31%,-11%,,+2%,-22%,,Wyoming
+20,Washakie County,-28%,-23%,,,-40%,,Wyoming

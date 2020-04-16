@@ -15,6 +15,9 @@ from pdfminer.pdfinterp import PDFPageInterpreter,PDFResourceManager
 from pdfminer.pdfpage import PDFPage
 from pdfminer.layout import LAParams
 
+import ssl
+
+
 
 class TestingData_Scraper() :
 
@@ -260,9 +263,12 @@ class Wiki_Scrape() :
 class Alphabet_Scrape() :
 
     def __init__(self) :
+        # This restores the same behavior as before.
+        context = ssl._create_unverified_context()
+        #urlopen("https://no-valid-cert", context=context)
 
         self.url = "https://www.google.com/covid19/mobility/"
-        html_all = urlopen(self.url)
+        html_all = urlopen(self.url,context=context)
         soup_all = BeautifulSoup(html_all, 'html.parser')
         self.tmp_file = './report.pdf.tmp'
 
@@ -381,5 +387,14 @@ class Alphabet_Scrape() :
             df_create = df_create.append(out)
         
         os.remove(self.tmp_file)
+        df_create.to_csv("/Users/stevensmith/Projects/MIT_COVID19/mobility.csv")
 
         return df_create
+
+def main():
+    print("hello world!")
+    Alphabet_Scrape().scrape_counties()
+
+if __name__ == "__main__":
+    main()
+
